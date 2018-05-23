@@ -1,0 +1,64 @@
+subject : Ä§½£Àà
+author_name : ¸ßÌŽ²»„Ùº®
+author_id : lonely
+time : 1211687863
+board : ÁôÑÔ²¾
+file : /data/analecta/2008/27748046.txt
+add_time : 1211687877
+content :
+Ä§„¦Ðg 
+ÒÔÏÂÊÇÄ¿Ç°ÓÐÈËÊ¹ÓÃµÄÄ§„¦ÐgµÄÁÐ±í : 
+
+¡õ Õæ¿Õ”Ø(vacuum_blade) 
+¿ìËÙ“]„ÓÄý¾ÛÖøÄ§·¨Á£×ÓµÄÎäÆ÷Ôì³ÉÒ»Æ¬Õæ¿ÕµÄµØŽ§£¬
+Ê¹µÃßMÈëß@‚€¹  ‡úµÄÎïówÒòžé‰ºÁ¦²î¶øÆÆÁÑ¡£ß@ÊÇÒ»·NŒ¢Îä
+Æ÷ÅcÄ§·¨Ïà»¥½YºÏµÄ»ù±¾·½Ê½¡£ 
+¡õ Ø°Ê×Óê(dagger_fall) 
+ß\ÓÃŠ´óµÄÄ§·¨Á¦Õñ„ÓÎäÆ÷£¬Ôì³ÉîËÆÐýïLµÄÐ§¹û£¬¶ø
+ÎäÆ÷¾ÍÔÚÐýïLÖÐ Õ¹é_ÍÀš¢£¬¾ÍÏñÓÐŸo”µéWÁÁµÄØ°Ê×ÔÚÌì¿Õïw
+Ðý´©Ëó£¬ÊÇÒ»‚€Ïà®”ÈAûºÃ¿´µÄ·¨Ðg¡£²»ß^ß@‚€·¨ÐgµÄŒÓÃ
+ÐÔ¸úÊ©·¨Õß±¾ÉíµÄ‘ðôYÁ¦ÓÐºÜ´óµÄêP‚S£¬Ê©·¨ÕßµÄ‘ðÁ¦Ô½Š£¬
+Ô½ÄÜŒ¢ß@·NÃÀûµÄ¿Ö²À°l“]µ½˜OÖÂ¡£‚÷ÕfÖÐµÄØ¿¨ÄáÍõ‡øÔÚÒ» Ò¹Ö®ég±»ÈËœç‡ø£¬
+Ð×ÊÖ¾ÍÊÇÊ¹ÓÃß@·N·¨ÐgµÄ‘ðÎ×¡£ 
+¡õ »ðÑæ„¦(flame_sword) 
+Œ¢´óÁ¿µÄ»ðÑæÔªËØ‰º¿sµ½ÎäÆ÷ÖÐ£¬Ê¹Ö®±¬°l³öŠ´óµÄ»ð
+ÑæµÄ·¨Ðg¡£ß@‚€ ·¨Ðg¸úÒ»°ãµÄ»ðÇòÐg»ù±¾ÉÏ›]ÓÐ²»Í¬£¬ÉõÖÁ
+ßB¾Û¼¯»ðÔªËØµÄÖäÎÄÒ²¶¼²î²»¶à£¬µ«ÊÇËû…sÀûÓÃÎäÆ÷±¾Éí²Ä
+Ù|µÄƒž„Ý£¬Œ¢Ä§·¨ÄÜÁ¿±M¿ÉÄÜµÄ‰º¿s£¬ËùÒÔ±¬°l³öíµÄÄÜÁ¿
+¸ù±¾²»ÊÇ»ðÇòÐgËùÄÜ±ÈµÄÉÏµÄ¡£ß@‚€·¨Ðg¿ÉÒÔ·QµÃÉÏÄ§„¦Ðg
+ÖÐµÄ´ú ±í¡£ 
+¡õ éWëŠ„¦(lightning_sword) 
+ÀûÓÃ„¦±¾ÉíµÄ¾«ì`ÅcÀ×ëŠÔªËØ¹²øQ£¬ÔÙ¹àÈëßm®”µÄÄ§·¨
+Á¦×öžéÒý×Ó£¬±ã ¿ÉÒÔÊ¹¹²øQµÄÀ×ëŠÔªËØ±¬°l³öŠÁÒµÄéWëŠ¡£
+ß@‚€·¨ÐgµÄÀ×“ôÍþÁ¦ëmÈ»±È²»ÉÏÕÙÀ×Ðg£¬µ«ÊÇÔÚ°l³öéWëŠµÄ
+Í¬•r£¬Ê©·¨Õß¿ÉÒÔÀûÓÃ”³ÈËÂé±ÔµÄË²égßMÐÐÍ»“ô£¬ÍùÍùÄÜÊ¹
+µÃ”³ÈËÍêÈ«Ÿo·¨éW¶ã¡£Òò´Ë£¬Ò»‚€ÊÖˆÌëŠ¹ây¸ZéWëŠ„¦µÄ·¨
+ŽŸ£¬³£ Ê¹µÃÄ‘Ð¡µÄ”³ÈË…s²½¡£ 
+¡õ ¿ñÎèÖ®„¦(dancing_sword) 
+ß@ÊÇØ°Ê×ÓêµÄÍþÁ¦¼ÓŠ°æ£¬Ô½íÔ½ÉÆì¶¿ØÖÆÎäÆ÷¾«ì`µÄ
+·¨ŽŸÍ»ÆÆÁËËÙ¶È ÅcÁ¦Á¿µÄÏÞÖÆ£¬Ö»ÀûÓÃÒ»üc·¨Á¦µÄ´ß»¯ÎäÆ÷
+¾«ì`£¬È»áá×Œ¾«ì`×Ô¼ºËÁÒâñ{ñSÎäÆ÷£¬Ê§¿ØµÄ¾«ì`ËìÔÚß@ëy
+µÃµÄšg˜·•r¹â±MÇé¿ñÎèÖ±µ½·Å±MËùÓÐŸáÇé¡£ß@‚€·¨ÐgµÄáá¹û
+Ïà®”¿ÉÅÂ£¬Èç¹ûÊ©·¨Õß²»ÄÜ‰òÊ¹ÓÃßm®”µÄ·¨Á¦±£×o×Ô¼º£¬Œ¢
+•þ±» ’ÔÈë¿ñyµÄµØªzÖÐ¡£ 
+¡õ ±¬À×(lightning_bolt) 
+ÔÚé_Ê¼Ê©·¨µÄ•rºò£¬ß@‚€·¨Ðg¸úéWëŠ„¦·Ç³£îËÆ£¬¿ÉÊÇ
+°l³öµÄ…s²»ÊÇÒ»µÀéWëŠ£¬¶øÊÇÒ»‚€‰º¿sµÄÀ×Çò¡£ß@‚€À×Çò±¬
+Õ¨µÄË²ég•þ°l³ö¸ßŠ¶ÈµÄéWŸáÖäÎÄ£¬“þÕfÔÚÀ×ÇòµÄÖÐÐÄµØŽ§
+µÄœØ¶È£¬ßB½ðŒÙ´òÔìµÄÎäÆ÷¿ø¼×¶¼¿ÉÒÔÕô°lµô¡£±¬À×Ó°í‘µÄ
+¹ ‡úºÜV£¬±»²¨¼°µÄ”³ÈË•þÍ¬•rÔâÊÜëŠ“ôºÍ¸ßŸáµÄëpÖØ‚ûº¦£¬
+›]ÓÐÈÎºÎÄ§·¨ÄÜÍ¬•rµÖ¶Rß@ƒÉ·NÁ¦Á¿¡£ 
+¡õ Ìì„¦(sky_sword) 
+Ä§„¦Ðgß\ÓÃµ½ t»ð¼ƒÇàµÄ·¨ŽŸ½Kì¶·Å—‰ÒÔñ{ñS¾«ì`µÄ·½
+Ê½Ê¹ÓÃÎäÆ÷£¬¶ø ÕæÕýÄÜßMÈëÅc¾«ì`¹²øQµÄ¾³½ç£¬ËùÒÔ²ÅÓÐß@
+‚€·¨ÐgµÄ®aÉú¡£ß@‚€·¨ÐgÊÇÔõüNß\ÐÐµÄµ½¬FÔÚß€ÊÇ›]ÓÐÈËÄÜ
+Ã÷°×£¬Ê©·¨ÕßÒ²Ö»ÓÐÅ¼¶ø²ÅÄÜ³É¹¦Ò»ƒÉ´Î£¬ß@·NÅc¾«ì`¹²Îè
+µÄ¸ÐÓX“þÕf¾ÍÏñ‰ôß[Ò»˜Ó£¬¶ø·¨Ðg½YÊø£¬¸ÐÓXÒ²Ïñ‰ôÐÑÒ»˜Ó
+µÄëü –V¡£¿ÉÊÇ¾ÍÒ»‚€ÅÔÓ^Õß¶øÑÔ£¬®”Ê©·¨ÕßÅc„¦ÈÚºÏµÄÒ»Ë²
+ég£¬Ìì¿ÕáÝ·Í»È»±»Å¤Çú£¬É¢·ÅÖø½ðÉ«¹âÃ¢µÄ¹âüc²»”àž¢ÏÂ£¬
+Õû‚€ß^³ÌÖÐ›]ÓÐ±©Á¦µÄš¢Â¾£¬Ö»ÓÐ°²ŒŽµÄ¸ÐÓX¡£·¨Ðg½YÊøáá£¬
+”³ÈËµÄ»êÆÇïwÉý¶øÈ¥£¬Ö»ÁôÏÂŸoÒâÁxµÄÜ|š¤£¬¶ø°²ÒÝµÃªqÈç
+„‚„‚½YÊøÒ»¶ÎÌïˆ@éf²½µÄ·¨ŽŸ£¬ÕýÝp“áÖø„¦ÈÐº¬Ð¦¶øÁ¢¡£ 
+ÏàêPÓÏ¢ : spells, ·¨Ðg, Î×Ðg, ÖäÐg, °×Ä§·¨, cleric magic, mage magic, 
+
+[2;37;0m

@@ -1,0 +1,79 @@
+using config file: config.nt6
+----------------------------------------------------------------------------
+Ð¦°Á½­ºþ (NTOS 2.24-Current-64bits-Epoll) starting up on Linux - Thu May 23 11:45:30 2013
+
+
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 6666.
+Accepting connections on port 5555.
+closed external ports
+Initializing internal tables....
+using config file: config.nt6
+----------------------------------------------------------------------------
+Ð¦°Á½­ºþ (NTOS 2.24-Current-64bits-Epoll) starting up on Linux - Thu May 23 12:26:07 2013
+
+
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 6666.
+Accepting connections on port 5555.
+closed external ports
+Initializing internal tables....
+using config file: config.nt6
+----------------------------------------------------------------------------
+Ð¦°Á½­ºþ (NTOS 2.24-Current-64bits-Epoll) starting up on Linux - Thu May 23 12:29:22 2013
+
+
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 6666.
+Accepting connections on port 5555.
+closed external ports
+Initializing internal tables....
+using config file: config.nt6
+----------------------------------------------------------------------------
+Ð¦°Á½­ºþ (NTOS 2.24-Current-64bits-Epoll) starting up on Linux - Thu May 23 12:33:51 2013
+
+
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 6666.
+Accepting connections on port 5555.
+closed external ports
+Initializing internal tables....
+*Error: couldn't find or open config file: 'config.cfg'
+using config file: config.nt6
+----------------------------------------------------------------------------
+Ð¦°Á½­ºþ (NTOS 2.24-Current-64bits-Epoll) starting up on Linux - Tue Dec  3 20:10:19 2013
+
+
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 6666.
+Accepting connections on port 5555.
+closed external ports
+Initializing internal tables....
+using config file: config.nt6
+----------------------------------------------------------------------------
+Ð¦°Á½­ºþ (NTOS 2.24-Current-64bits-Epoll) starting up on Linux - Wed Dec  4 00:49:02 2013
+
+
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 6666.
+Accepting connections on port 5555.
+closed external ports
+Initializing internal tables....

@@ -1,0 +1,6 @@
+# 1 "comptest.c"
+# 1 "<built-in>"
+# 1 "<command line>"
+# 1 "comptest.c"
+
+Make this fail if we actually get compiled

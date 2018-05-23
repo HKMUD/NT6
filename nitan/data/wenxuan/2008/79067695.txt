@@ -1,0 +1,12 @@
+subject : ÌìÄ§¾öÄÃµÄ·½·¨
+author_name : ¸ß´¦²»Ê¤º®
+author_id : lonely
+time : 1225106174
+board : éÅÊ÷ÏÂµÄÁôÑÔ°å
+file : /data/analecta/2008/79067695.txt
+add_time : 1225106216
+content :
+ringto yangzhou;#4 w;s;w;ask gui san about ÌìÄ§¾ö;
+e;n;e;ask gong zi about ¹íÈı;kill li;get all from corpse;w;s;w;give gui san xiao;enter;
+½øÈ¥¾Í¿ÉÒÔÄÃµ½Ò»¸öÌúÏä×Ó£¬open xiang;¾Í¿ÉÒÔÄÃµ½ÌìÄ§¾öÁË
+[2;37;0m

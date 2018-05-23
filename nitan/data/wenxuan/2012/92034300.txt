@@ -1,0 +1,181 @@
+subject : È¥Íù±ù»ðµº
+author_name : ¸ß´¦²»Ê¤º®
+author_id : lonely
+time : 1329568124
+board : ¿ÍµêÁôÑÔ°å
+file : /data/wenxuan/2012/92034300.txt
+add_time : 1329568147
+content :
+ÖÐÑë¹ã³¡ - (ÄãÄ¿Ç°ÔÚÑïÖÝ³Ç)
+    ÕâÀïÊÇ³ÇÊÐµÄÕýÖÐÐÄ£¬Ò»¸öºÜ¿íÀ«µÄ¹ã³¡£¬ÆÌ×ÅÇàÊ¯µØÃæ¡£ÓÎÊÖ
+ºÃÏÐµÄÈË³£ÔÚÕâÀïÁïÁï´ï´ï£¬¾­³£ÓÐÒÕÈËÔÚÕâÀï±íÑÝ¡£ÖÐÑëÒ»¿Ã´óéÅ
+Ê÷(tree)ÅÌ¸ù´í½Ú£¬¾Ý´«ÒÑÓÐÇ§ÄêµÄÊ÷Áä£¬ÊÇÕâ×ù³ÇÊÐµÄÀúÊ·¼ûÖ¤¡£
+Ê÷¸Éµ×²¿ÓÐÒ»¸öºÜ´óµÄÊ÷¶´(dong)¡£Äã¿ÉÒÔ¿´µ½±±±ßÓÐÀ´×Ô¸÷µØµÄÐÐ
+ÈËÀ´À´ÍùÍù£¬ÄÏÃæÈËÉù¶¦·Ð£¬Ò»ÅÉ·±»ª¾°Ïó£¬¶«±ß²»Ê±µØ´«À´ÀÊÀÊµÄ
+¶ÁÊéÉù£¬Î÷±ßÔò¼û²»µ½¼¸¸öÐÐÈË£¬Ò»Æ¬Ëà¾²¡£
+    Ì«ÑôÕý¸ß¹ÒÔÚ¶«·½µÄÌì¿ÕÖÐ¡£
+    ÕâÀïÃ÷ÏÔµÄ³ö¿ÚÊÇ north¡¢south¡¢east ºÍ west¡£
+rideto hangzhouÈç¹û³öÏÖ(Äã»¹Ã»ÓÐ×øÆï£¡)
+n;e;e;ÕÒÒ»Æ¥Âíride xxx
+È»ºórideto hangzhou
+±¼ÅÜÖÐ¡­¡­(running) - (ÄãÄ¿Ç°ÔÚÎ´ÖªÇøÓò)
+    ÄãÕýÔÚ¿ìÂíÉÏ±¼ÅÜ ¡­¡­
+
+ÇàÊ¯´óµÀ - (ÄãÄ¿Ç°ÔÚº¼ÖÝ³Ç)
+    ÑØºþ´óµÀÅÔµêÆÌÁÖÁ¢£¬³¤½Ö¹ÊÆÓ£¬ÎÝÉáÁÛ´ÎèÎ±È£¬µÀÉÏÈËÀ´³µÍù£¬
+Ò»Æ¬Ì«Æ½ÈÈÄÖ¾°Ïó¡£½ÖµÄ¶«±ßÊÇÒ»×ù¾ÆÂ¥¡£
+    ÏÖÔÚÊÇÕýÎçÊ±·Ö£¬Ì«Ñô¸ß¹ÒÔÚÄãµÄÍ·¶¥ÕýÉÏ·½¡£
+    ÕâÀïÃ÷ÏÔµÄ³ö¿ÚÊÇ south¡¢north¡¢east ºÍ west¡£
+Ì«Ñô¿ªÊ¼´ÓÎ÷·½µÄÌì¿ÕÖÐÂýÂý³ÁÂä£¬½¹×ÆµÄÊ÷Ò¶ÎÞÁ¦µØÏÂ´¹×Å¡£
+
+´ïµ½º¼ÖÝºó
+s;s;s;#2 sw;#3 w;sw;s;s;edÀ´µ½
+Ç®ÌÁ½­ÅÏ - (ÄãÄ¿Ç°ÔÚÎ´ÖªÇøÓò)
+    Ç®ÌÁ½­µ½ÁËÁùºÍËþÏÂ×ªÒ»¸ö´óÍä£¬È»ºóÖ±Ïò¶«Á÷¡£¸Ã´¦ºÍ¸®³ÇÏà
+¾à²»½ü£¬Ëþ¶«ÈýÖê´óÁøÊ÷ÏÂÏµ×ÅÒ»ËÒ±âÖÛ(zhou)¡£½­´¬ÕÅÓÐ·ç·«£¬´¬
+Í·¹Ò×ÅÁ½Õµ±ÌÉ´µÆÁý¡£±ÌÉ´µÆÏÂ£¬Ò»¸öÉÙÅ®¶À×ø´¬Í·£¬Éí´©µ­ÂÌÉÀ×Ó¡£
+    Ì«ÑôÕý¸ß¹ÒÔÚ¶«·½µÄÌì¿ÕÖÐ¡£
+    ÕâÀïÎ¨Ò»µÄ³ö¿ÚÊÇ westup¡£
+enter zhou
+Ð¡ÖÛ - (ÄãÄ¿Ç°ÔÚÎ´ÖªÇøÓò)
+    ±ÌÉ´µÆÁýÕÕÓ³ÏÂ£¬Ò»Î»ÃîÁäÀöÈË¶Ë×øÖÛÍ·£¬ÊÖ°×Ê¤Ñ©£¬Óñ¼ÕÎ¢ÊÝ£¬
+Ã¼Íä±ÇÍ¦£¬Ò»Ð¦Ê±×ó¼ÕÉÏÇ³Ç³Ò»¸öÀæÎÐ¡£Ö»ÌýµÃÇÙÔÏÀäÀä£¬ÄÇ¸öÉÙÅ®
+ÕýÔÚ¸§ÇÙ¡£
+    Ì«ÑôÕý¸ß¹ÒÔÚ¶«·½µÄÌì¿ÕÖÐ¡£
+    ÕâÀïÎ¨Ò»µÄ³ö¿ÚÊÇ out¡£
+  Ã÷½Ì×ÏÎ¢ÌÃÌÃÖ÷ Ã÷½ÌµÚÈýÊ®Îå´úµÜ×Ó ÒóËØËØ(yin susu)
+ask yin about ±ù»ðµº
+ÄãÏòÒóËØËØ´òÌýÓÐ¹Ø¡º±ù»ðµº¡»µÄÏûÏ¢¡£
+ÒóËØËØÉÏÉÏÏÂÏÂ´òÁ¿ÁËÄãÒ»ÏÂ£¬µÀ£ºÕâÎ»×³Ê¿£¬Äã²»¹ýÊÇÏëÍÀÁúµ¶°É¡£
+ÕâÐ¡´¬Ò²¾­²»Æðº£ÀË£¬ÎÒÕýÒªÈ¥ÍõÅÌÉ½µº£¬Äã¿´¿´¿ìµã¾ö¶¨(decide)Òª²»ÒªÈ¥¡£
+decide
+Ç®ÌÁ½­Ãæ - (ÄãÄ¿Ç°ÔÚÎ´ÖªÇøÓò)
+    Ö»ÌýµÃÀ×ÉùÒþÒþ£¬Ç®ÌÁ½­ÉÏÒ¹³±ÒÑÖÁ¡£³±ÉùÈçÀ×£¬Õð¶úÓûÁû£¬½­
+´¬ÃÍµØ±»Å×ÁËÆðÀ´¡£Ëµ»°Éù¾¡½ÔÑÚÃ»¡£Ïò´°Íâ¿´Ê±£¬Ö»¼û¾ÞÀËÓÌÈçÒ»
+¶ÂÍ¸Ã÷µÄ¸ßÇ½£¬Á½°¶·çÎï±»ÑÚÃ»ÔÚ¾ªÌÎÖ®ÖÐÁË¡£
+    Ì«ÑôÔÚ¶«·½µÄÌì±ßÍÌÍÂ×ÅÍòµÀ½ð¹â£¬Ì«ÑôÉýÆðÀ´
+
+Æ¬¿Ì¼ä×ø´¬¿¿°¶£¬°×¹êÊÙÇ××ÔÆÌÉÏÌø°å¡£Äã×ßÏÂÖÛÀ´¡£
+
+ÍõÅÌÉ½º£Ì² - (ÄãÄ¿Ç°ÔÚÎ´ÖªÇøÓò)
+    Ö»ÌýµÃµºÉÏºÅ½ÇÖ®ÉùÎØÎØ´µÆð£¬°¶±ßÁ½ÈË¸÷¾Ù´óÆì£¬»ÓÎèÊ¾Òâ¡£
+Ö»¼ûÁ½Ãæ´óÆìÉÏ¾ùÐå×ÅÒ»Í·´óÓ¥£¬Ë«³áÉìÕ¹£¬ÉõÊÇÍþÎä¡£Á½Ãæ´óÆìÖ®
+¼äÕ¾×ÅÒ»¸öÀÏÕß¡£Ö»ÌýËûÀÊÉùËµµÀ£º¡°ÐþÎäÌ³°×¹êÊÙ¹§Ó­¹ó¿Í¡£¡±Éù
+ÒôÂþ³¤£¬ÃàÃàÃÜÃÜ£¬Ëä²»ÏìÁÁ£¬È´ÊÇÆøÔÏ´¼ºñ¡£ÍùÄÏÊÇÒ»¸öÉ½¹È¡£±±
+±ßÓÐ¸ö¸ÛÍå£¬Î¦éÉ¸ßËÊ£¬Í£²´×ÅÊ®À´ËÒ´ó´¬£¬ÏëÊÇ¾Þ¾¨°ï¡¢º£É³ÅÉÒ»
+¸ÉÈËµÄ×ù´¬¡£
+n
+´¬ÉÏ - (ÄãÄ¿Ç°ÔÚÍò°²ËÂ»òÕßÍõÅÌÉ½µº)
+    ÕâÐ©´ó´¬£¬ÏëÊÇ¾Þ¾¨°ï¡¢º£É³ÅÉÒ»¸ÉÈËµÄ×ù´¬¡£
+    ÕâÀïÎ¨Ò»µÄ³ö¿ÚÊÇ south¡£
+  ´óÊ¯Í·(stone)
+get stone;#5 break boat
+Äã¾ÙÆðÊÖÖÐ´óÊ¯Í·£¬Ïò´¬ÉÏµÄÎ¦¸ËÔÒÈ¥¡£
+
+Ö»ÌýµÃ¿¦À®¡¢¿¦À®Ö®Éù²»¾ø£¬ËÊÁ¢µÄ´¬Î¦Ò»¸ù¸ùµ¹½«ÏÂÀ´¡£
+ÅéàØÖ®Éù²»¾ø£¬Çê¿ÌÖ®¼ä£¬ÖÚÎ¦¸Ë»òµ¹»òÐ±£¬ÎÞÒ»µÃÃâ¡£
+s;s;
+ÍõÅÌÉ½º£Ì² - (ÄãÄ¿Ç°ÔÚÎ´ÖªÇøÓò)
+    Ö»ÌýµÃµºÉÏºÅ½ÇÖ®ÉùÎØÎØ´µÆð£¬°¶±ßÁ½ÈË¸÷¾Ù´óÆì£¬»ÓÎèÊ¾Òâ¡£
+Ö»¼ûÁ½Ãæ´óÆìÉÏ¾ùÐå×ÅÒ»Í·´óÓ¥£¬Ë«³áÉìÕ¹£¬ÉõÊÇÍþÎä¡£Á½Ãæ´óÆìÖ®
+¼äÕ¾×ÅÒ»¸öÀÏÕß¡£Ö»ÌýËûÀÊÉùËµµÀ£º¡°ÐþÎäÌ³°×¹êÊÙ¹§Ó­¹ó¿Í¡£¡±Éù
+ÒôÂþ³¤£¬ÃàÃàÃÜÃÜ£¬Ëä²»ÏìÁÁ£¬È´ÊÇÆøÔÏ´¼ºñ¡£ÍùÄÏÊÇÒ»¸öÉ½¹È¡£±±
+±ßÓÐ¸ö¸ÛÍå£¬Î¦éÉ¸ßËÊ£¬Í£²´×ÅÊ®À´ËÒ´ó´¬£¬ÏëÊÇ¾Þ¾¨°ï¡¢º£É³ÅÉÒ»
+¸ÉÈËµÄ×ù´¬¡£
+    Ò»ÂÖ»ðºìµÄÏ¦ÑôÕýÅÇ»²ÔÚÎ÷·½µÄµØÆ½ÏßÉÏ¡£
+    ÕâÀïÃ÷ÏÔµÄ³ö¿ÚÊÇ south ºÍ north¡£
+  ¶þÎ»ÌìÓ¥½ÌÖìÈ¸Ì³ ½ÌÖÚ(jiao zhong)
+  ¶þÎ»ÌìÓ¥½ÌÐþÎäÌ³ ½ÌÖÚ(jiao zhong)
+  ÌìÓ¥½Ì¡¸ÐþÎäÌ³Ì³Ö÷¡¹°×¹êÊÙ(bai guishou)
+s
+°×¹êÊÙºÈµÀ£ºÄã£¬È¥ËÀ°É£¡
+¿´ÆðÀ´°×¹êÊÙÏëÉ±ËÀÄã£¡
+¿´ÆðÀ´½ÌÖÚÏëÉ±ËÀÄã£¡
+¿´ÆðÀ´½ÌÖÚÏëÉ±ËÀÄã£¡
+¿´ÆðÀ´½ÌÖÚÏëÉ±ËÀÄã£¡
+¿´ÆðÀ´½ÌÖÚÏëÉ±ËÀÄã£¡
+kill all
+É±Íêºós;s;ne;se
+À´µ½
+ÍõÅÌÉ½Óæ¸Û - (ÄãÄ¿Ç°ÔÚÎ´ÖªÇøÓò)
+    ÕâÀï¾ÍÊÇÍõÅÌµºÉ½Óæ¸ÛÁË¡£±±±ßÊÇÒ»ÍûÎÞ¼ÊµÄ´óº££»ÍùÎ÷±±ÊÇÒ»
+Æ¬Ê÷ÁÖ¡£µºÉÏµÄ¿ÕÆøËÆºõÓÖÈÈÓÖÃÆ£¬ÏÌÊªµÄº£·çÖÐ´ø×ÅÒ»¹ÉÐÈ³ô¡£º£
+±ß²´×Å¼¸ËÒ´ó´¬(chuan)¡£
+    Ò¹Ä»µÍ´¹£¬ÂúÌì·±ÐÇ¡£
+    ÕâÀïÎ¨Ò»µÄ³ö¿ÚÊÇ northwest¡£
+l chuan;enter chuan
+¶«º£º£Ãæ - (ÄãÄ¿Ç°ÔÚÎ´ÖªÇøÓò)
+    ¶«º£º£Ãæ²¨Æ½Èç¾µ£¬´ó´¬ÔÚº£Å¸ÓÎÓãÖÐ´©ÐÐ£¬·ç´ø·ç·«£¬ÄãÒ²²»
+ÖªµÀ´¬ÍùÄÄÀïÈ¥¡£
+
+´¬ºÜ¿ì¾Í¿¿ÉÏµºÁË¡£Äã×ßÏÂ´¬À´¡£
+ÁéÉßµºº£Ì² - (ÄãÄ¿Ç°ÔÚÎ´ÖªÇøÓò)
+    ÕâÊÇ¸öÊ÷Ä¾´Ð´äµÄ´óµº£¬µºÉÏÆæ·åÍ¦°Î£¬ËÊÁ¢×ÅºÃ¼¸×ù¸ßÉ½¡£µº
+Î÷¶ËÉ½Ê¯Ö±½µÈëº££¬²¢ÎÞÇ³Ì²£¬ÍùÀ´´¬Ö»½ü°¶²´¾Í¡£
+    Ò»ÂÖ»ðºìµÄÏ¦ÑôÕýÅÇ»²ÔÚÎ÷·½µÄµØÆ½ÏßÉÏ¡£
+    ÕâÀïÎ¨Ò»µÄ³ö¿ÚÊÇ east¡£
+  ÒóÀë(yin li)
+e;nu
+Ð¡Â· - (ÄãÄ¿Ç°ÔÚÎ´ÖªÇøÓò)
+    Äã×ßÔÚÊ÷ÁÖÖÐµÄÐ¡Â·ÉÏ£¬ËÄÖÜÆ§¾²µÃÈÃÄã¸Ðµ½ÖÏÏ¢°ãµÄÒì³£¡£ÃÜ
+ÃÜ²ã²ãµÄÊ÷ÁÖÕÚÌì±ÎÈÕ£¬ÄãÉõÖÁÌý²»µ½Ò»µã³æÃù¡£ÕâÀï¾ÍÊÇÁéÉßµº£¿
+ÔõÃ´Ã»ÓÐÆäËûÈËÄØ£¿
+    Ìì¿ÕÒÑ¾­·¢°×ÁË¡£
+    ÕâÀïÃ÷ÏÔµÄ³ö¿ÚÊÇ eastup ºÍ southdown¡£
+  Ã÷½Ì×Ü½ÌÊ¹Õß »ÔÔÂÊ¹(huiyue shi)
+  Ã÷½Ì×Ü½ÌÊ¹Õß Á÷ÔÆÊ¹(liuyun shi)
+  Ã÷½Ì×Ü½ÌÊ¹Õß Ãî·çÊ¹(miaofeng shi)
+¿´ÆðÀ´Á÷ÔÆÊ¹ÏëÉ±ËÀÄã£¡
+¿´ÆðÀ´Ãî·çÊ¹ÏëÉ±ËÀÄã£¡
+¿´ÆðÀ´»ÔÔÂÊ¹ÏëÉ±ËÀÄã
+kill all
+eu;nu;enter
+É½¶¥Ð¡ÎÝ - (ÄãÄ¿Ç°ÔÚÎ´ÖªÇøÓò)
+    ÕâÀïÊÇ½ð»¨ÆÅÆÅÔÚµºÉÏµÄ¾ÓËù¡£Ð¡ÎÝÊÇµºÉÏÂþÉ½±éÒ°Éú³¤µÄÇàÖñ
+´î¾Í¡£º£·ç´µÏì£¬ºÜÊÇÁ¹Ë¬¡£ËÄ±ÚÐ¡Öñ´°£¬¾¡ÊÕ´°ÍâÆÅæ¶Ê÷Ó°ºóµÄÀ¼
+Ìì¡¢°×ÔÆ¡¢±Ìº£ºÍ»ÆÉ³£¬Ö÷ÈË°ÑÕâÊÕÊ°µÃ¼«ÎªÇåÑÅ¡£
+    ÕâÀïÎ¨Ò»µÄ³ö¿ÚÊÇ out¡£
+  Ã÷½Ì×ÏÉÀÁúÍõ ÷ìç²Ë¿(dai qisi)
+
+#10 ask dai ±ù»ðµº;out;ed;ed;enter;gua fan
+Äã¹ÒÆðÖ÷·«£¬´¬Í·»º»º×ª¹ý£¬Ïò±±º½ÐÐ¡£
+·«´¬
+º£·çÒ»ÕóÕó´Ó²Õ¿ÚÖÐ´µÁË½øÀ´£¬Äã¸Ðµ½ÕóÕóº®Òâ.......
+µÈÒ»»áÖ±½Ó
+±ùÉ½
+    ÕâÀïÃ÷ÏÔµÄ³ö¿ÚÊÇ south¡¢north¡¢east ºÍ west¡£
+Äã±»Å×ÔÚ±ùÉ½Ö®ÉÏ£¬´¬µ××²ÆÆµÄ¶´¿×Éõ´ó£¬Ö»Ò»¶Ù·¹Ê±·Ö±ãÒÑ
+³ÁµÃÎÞÓ°ÎÞ×Ù¡£
+ÕâÀïÖ»ÒªÒ»Ö± jump north ¾Í¿ÉÒÔ
+±ùÉ½Ïò±±Æ®¸¡ÁË¡£°×ÌìÒø±ù·´ÉäÑô¹â£¬ÖËµÃÈËÆ¤·ôÒ²½¹ÁË£¬ÑÛ
+Ä¿¸üÊÇºìÖ×·¢Í´¡£
+±ùº£
+    ÕâÀïÎ¨Ò»µÄ³ö¿ÚÊÇ northup¡£
+  ¶þÌõöèÓã(sha yu)
+µ½´ïÄ¿µÄµØÁËnu;n;nµ½´ï
+´óÊ÷ÁÖ
+    ÕâÀïÃ÷ÏÔµÄ³ö¿ÚÊÇ south¡¢northeast¡¢northwest ºÍ southwest¡£
+  Ã·»¨´ÆÂ¹(meihua cilu)
+  Ã·»¨ÐÛÂ¹(meihua xionglu)
+ÕâÀïÒ»Ö±ÊäÈënwÒ»Ö±×ßµ½
+Ê¯É½Ð¡Â·
+    ÕâÀïÃ÷ÏÔµÄ³ö¿ÚÊÇ southeast ºÍ northup¡£
+enter dong{ÕâÀïÓÐ¼¸ÂÊÅö¼ûÏÝÚå£¬Åöµ½ÁËÖ±½Óup}
+Íâ¶´
+    ÕâÀïÃ÷ÏÔµÄ³ö¿ÚÊÇ out ºÍ enter¡£
+
+ÄãÒ»²»Ð¡ÐÄ£¬µô½øÁËµÄÏÝÚå£¡
+ÄãÖ»¾õµÃ½ÅÏÂÒ»Õó¾ÞÍ´£¬Ô­À´ÊÇ²ÈÉÏÁË......
+
+ÏÝÚå
+    ÕâÀïÎ¨Ò»µÄ³ö¿ÚÊÇ up¡£
+u
+enter
+Íâ¶´
+    ÕâÀïÃ÷ÏÔµÄ³ö¿ÚÊÇ out ºÍ enter¡£
+ÄÚ¶´
+    ÕâÀïÎ¨Ò»µÄ³ö¿ÚÊÇ out¡£
+  Ã÷½Ì½ðÃ«Ê¨Íõ Ð»Ñ·(xie xun)
+
+
+[2;37;0m

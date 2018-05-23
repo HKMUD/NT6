@@ -1,0 +1,96 @@
+subject : ±ù»ðµº
+author_name : Ñ©ÈË
+author_id : snowman
+time : 1273291489
+board : Ñ©ÈËµÄÁôÑÔ°å
+file : /data/wenxuan/2010/48781019.txt
+add_time : 1273313768
+content :
+> ask zhang about ¾ÅÑôÃØ¼®
+ÄãÏòÕÅÎÞ¼É´òÌýÓÐ¹Ø¡º¾ÅÑôÃØ¼®¡»µÄÏûÏ¢¡£
+ÕÅÎÞ¼É¶ÔÄãËµµÀ£ºÄãÈç¹ûÄÜ°ïÎÒÕÒµ½ÎÒµÄÒå¸¸Ð»Ñ·£¬ÄÇ»¹¿ÉÒÔ¿¼ÂÇ£¡
+ÕÅÎÞ¼ÉÌ¾µÀ"ÈËÉúÊ§Ò»Öª¼º, ÉúÒàºÎ»¶, ËÀÒàºÎÓÇ, Ãô¶ù, ÄãÔÚÄÄÀï?"
+> ask zhang about ÆßÉËÈ­¾­
+ÄãÏòÕÅÎÞ¼É´òÌýÓÐ¹Ø¡ºÆßÉËÈ­¾­¡»µÄÏûÏ¢¡£
+ÕÅÎÞ¼É¡¸àÅ¡¹µÄÒ»Éù£¬Ò»¸±ÓûÑÔÓÖÖ¹µÄÑù×Ó¡£
+ÕÅÎÞ¼ÉÔÚÄãµÄ¶ú±ßÇÄÉùËµµÀ£ºÎÒÒå¸¸ÔÚ¼«±±±ù»ðµºÉÏ£¬´ó¸ÅÎ»ÓÚ»ÆµÀ´øÒÔ±±¾Å°ÙÎåÊ®¡¢ÒÔ¶«¶þ°Ù¸ö¾àÀëµÄµØ·½¡£
+ÕÅÎÞ¼É¶ÔÄãËµµÀ£ºÕâÆßÉËÈ­£¬ÊÇµ±ÄêÎÒÒå¸¸Ç××Ô´«ÎÒµÄ¾ø¼¼£¬ÄãÈç¹ûÕæÓÐÐÅÐÄºÍÒãÁ¦£¬¾Í³öº£È¥°Ý·ÃÎÒÒå¸¸°É£¡
+
+Ã÷½ÌÃÜ¶´
+    ÕâÀïÎ¨Ò»µÄ³ö¿ÚÊÇ out¡£
+break men;enter;open north;n;open north;n;open north;n;open west;w;up
+ÃØÊÒ - (ÄãÄ¿Ç°ÔÚÃ÷½Ì¾³ÄÚ)
+    ÕâÀïÊÇÃ÷½ÌÃØµÀÀïµÄÒ»¼äÐ¡Ð¡µÄÃØÊÒ¡£
+    ÕâÀïÎ¨Ò»µÄ³ö¿ÚÊÇ down¡£
+  ³ÉÀ¥(cheng kun)
+³ÉÀ¥ÆËÔÚµØÉÏÕõÔúÁË¼¸ÏÂ£¬ÍÈÒ»Éì£¬¿ÚÖÐÅç³ö¼¸¿ÚÏÊÑª£¬ËÀÁË£¡
+Äã¾ÙÆðÊÖÖÐµÄÑË¸îÖ®½££¬"¿¦àê"Ò»ÏÂ×Ó°Ñ³ÉÀ¥µÄÊ¬ÌåµÄÍ·¸ø¿³ÏÂÀ´¡£
+È»ºóÈ¥º¼ÖÝ
+Ç®ÌÁ½­ÅÏ
+    ÕâÀïÎ¨Ò»µÄ³ö¿ÚÊÇ westup¡£
+enter zhou;decide
+Æ¬¿Ì¼ä×ø´¬¿¿°¶£¬°×¹êÊÙÇ××ÔÆÌÉÏÌø°å¡£Äã×ßÏÂÖÛÀ´¡£
+e;se;l chuan;enter chuan
+·ç·«ÉýÆð£¬´¬Í·»º»º×ª¹ý£¬·çÏòÄæ×ª£¬´¬·´¶øÏòÎ÷·½º½ÐÐ¡£{Õâ¸öÊÇÊ§°ÜµÄÃèÊö£¬¼ÌÐøÖØ¸´ÉÏÃæµÄ²½ÖèÒ»Ö±³öÏÖ}
+·ç·«ÉýÆð£¬´¬Í·»º»º×ª¹ý£¬·çÁ¦½¥¾¢£¬´¬Ïò¶«·½´óº£Éî´¦º½ÐÐ¡£{ÕâÀïÊÇÈ¥ÁéÉßµºÁË}
+´¬ºÜ¿ì¾Í¿¿ÉÏµºÁË¡£Äã×ßÏÂ´¬À´¡£
+ÁéÉßµºº£Ì²
+    ÕâÀïÎ¨Ò»µÄ³ö¿ÚÊÇ east¡£
+  ÒóÀë(yin li)
+e;nu;kill Ã÷½Ì×Ü½ÌÊ¹Õß 3¸öÀÏ²»ËÀµÄ,È»ºó¼ÌÐøeu;nu;enter;#10 ask dai about ±ù»ðµº;out;ed;ed;enter;gua fan
+> gua fan
+Äã¹ÒÆðÖ÷·«£¬´¬Í·»º»º×ª¹ý£¬Ïò±±º½ÐÐ¡£
+·«´¬
+º£·çÒ»ÕóÕó´Ó²Õ¿ÚÖÐ´µÁË½øÀ´£¬Äã¸Ðµ½ÕóÕóº®Òâ.......
+µÈÒ»»áÖ±½Ó
+±ùÉ½
+    ÕâÀïÃ÷ÏÔµÄ³ö¿ÚÊÇ south¡¢north¡¢east ºÍ west¡£
+Äã±»Å×ÔÚ±ùÉ½Ö®ÉÏ£¬´¬µ××²ÆÆµÄ¶´¿×Éõ´ó£¬Ö»Ò»¶Ù·¹Ê±·Ö±ãÒÑ
+³ÁµÃÎÞÓ°ÎÞ×Ù¡£
+ÕâÀïÖ»ÒªÒ»Ö± jump north ¾Í¿ÉÒÔ
+±ùÉ½Ïò±±Æ®¸¡ÁË¡£°×ÌìÒø±ù·´ÉäÑô¹â£¬ÖËµÃÈËÆ¤·ôÒ²½¹ÁË£¬ÑÛ
+Ä¿¸üÊÇºìÖ×·¢Í´¡£
+±ùº£
+    ÕâÀïÎ¨Ò»µÄ³ö¿ÚÊÇ northup¡£
+  ¶þÌõöèÓã(sha yu)
+µ½´ïÄ¿µÄµØÁËnu;n;nµ½´ï
+´óÊ÷ÁÖ
+    ÕâÀïÃ÷ÏÔµÄ³ö¿ÚÊÇ south¡¢northeast¡¢northwest ºÍ southwest¡£
+  Ã·»¨´ÆÂ¹(meihua cilu)
+  Ã·»¨ÐÛÂ¹(meihua xionglu)
+ÕâÀïÒ»Ö±ÊäÈënwÒ»Ö±×ßµ½
+Ê¯É½Ð¡Â·
+    ÕâÀïÃ÷ÏÔµÄ³ö¿ÚÊÇ southeast ºÍ northup¡£
+enter dong{ÕâÀïÓÐ¼¸ÂÊÅö¼ûÏÝÚå£¬Åöµ½ÁËÖ±½Óup}
+ enter dong
+Íâ¶´
+    ÕâÀïÃ÷ÏÔµÄ³ö¿ÚÊÇ out ºÍ enter¡£
+
+ÄãÒ»²»Ð¡ÐÄ£¬µô½øÁËµÄÏÝÚå£¡
+ÄãÖ»¾õµÃ½ÅÏÂÒ»Õó¾ÞÍ´£¬Ô­À´ÊÇ²ÈÉÏÁË......
+
+ÏÝÚå
+    ÕâÀïÎ¨Ò»µÄ³ö¿ÚÊÇ up¡£
+> u
+enter
+Íâ¶´
+    ÕâÀïÃ÷ÏÔµÄ³ö¿ÚÊÇ out ºÍ enter¡£
+ÄÚ¶´
+    ÕâÀïÎ¨Ò»µÄ³ö¿ÚÊÇ out¡£
+  Ã÷½Ì½ðÃ«Ê¨Íõ Ð»Ñ·(xie xun)
+l xie
+Ëû¾ÍÊÇÃ÷½ÌµÄËÄ´ó»¤·¨Ö®Ò»µÄ½ðÃ«Ê¨Íõ¡£
+ËûÉí²Ä¿ýÎ°Òì³££¬ÂúÍ·½ð·¢É¢Åû¼çÍ·¡£µ«Ë«Ä¿ÒÑÏ¹¡£
+ÔÚÄãÃæÇ°Ò»Õ¾£¬Íþ·çÁÝÁÝ£¬ÕæÈçÌìÉñÒ»°ã¡£
+ËûÊÇÒ»Î»µÚËÄÊ®¼¶µÄÄÐÐÔÈËÊ¿¡£
+Ëû¿´ÆðÀ´ÓÐÎåÊ®¶àËê¡£
+ËûµÄÎä¹¦¿´À´·ÇÍ¬·²Ïì£¬³öÊÖËÆºõ²»Çá¡£
+ËûÊÇÄãµÄÊ¦Ö¶¡£
+Ëû¿´ÆðÀ´ÆøÑª³äÓ¯£¬²¢Ã»ÓÐÊÜÉË¡£
+Ëû×°±¸×Å£º
+  ¡õÍÀÁúµ¶(tulong dao)
+  ¡õÍÀÁúµ¶(dragon blade)
+  ¡õÐÜÆ¤(xiong pi)
+Ð»Ñ·Í»È»×ª¹ýÍ·À´µÉÄãÒ»ÑÛ¡£
+ºÃÁË¿´¼û´«ËµÖÐ×îÒùµ´ÓµÓÐ2°Ñ ÍÀÁúµ¶ µÄÒùµ´ÄÐÁË¡£
+[2;37;0m

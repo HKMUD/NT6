@@ -1,0 +1,7 @@
+name=µ¶½£
+main=fightroom
+time=2700
+level=150
+enter=fightroom
+leave=/d/city/wumiao 
+interval=3600

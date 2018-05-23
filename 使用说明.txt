@@ -1,0 +1,8 @@
+1、基于lonely公布的nt6 lib
+2、直接双击startnt32.bat或者startnt64.bat即可，一个是32位driver，一个是64位driver
+3、默认不使用数据库，单机版直接运行
+4、使用数据库的方法就不说了
+a、参照"架设mud服务器指南.c"创建数据库，导入时可以使用nitan_mine.sql，这个已经清空了所有数据的
+b、打开include/unixconf.h，找到#undef DB_SAVE，去掉这行
+
+另外，clone/user/user.c中的函数is_admin，如果要使用call之类的命令，请把自己的id加在这里，或者先call me->set_admin()

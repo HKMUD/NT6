@@ -1,0 +1,235 @@
+#include <ansi.h>
+
+mapping *quest = ({
+        ([
+                "id":          "cloth",
+                "name":        "µ­»ÆÉÀ",
+                "type":        "Ñ°",
+                "bonus":       101,
+                "msg1":        "",
+                "object":      "/d/emei/obj/ycloth.c",
+        ]),
+        ([
+                "id":          "leizhen dang",
+                "name":        "À×Õðµ²",
+                "type":        "Ñ°",
+                "bonus":       101,
+                "msg1":        "",
+                "object":      "/d/heimuya/npc/obj/leizhendang.c",
+        ]),
+        ([
+                "id":          "xuan tie",
+                "name":        "[36mÐþÌúÊ¯[2;37;0m",
+                "type":        "Ñ°",
+                "bonus":       61,
+                "msg1":        "",
+                "object":      "/d/item/obj/xuantie.c",
+        ]),
+        ([
+                "id":          "cloth",
+                "name":        "ÊìÂÞ³¤ÅÛ",
+                "type":        "Ñ°",
+                "bonus":       72,
+                "msg1":        "",
+                "object":      "/d/henshan/npc/obj/luo_cloth.c",
+        ]),
+        ([
+                "id":          "da fu",
+                "name":        "´ó¸«",
+                "type":        "Ñ°",
+                "bonus":       101,
+                "msg1":        "",
+                "object":      "/d/heimuya/npc/obj/dafu.c",
+        ]),
+        ([
+                "id":          "cloth",
+                "name":        "°×²¼³¤ÅÛ",
+                "type":        "Ñ°",
+                "bonus":       72,
+                "msg1":        "",
+                "object":      "/d/mingjiao/obj/baipao.c",
+        ]),
+        ([
+                "id":          "muyu",
+                "name":        "Ä¾Óã´¸",
+                "type":        "Ñ°",
+                "bonus":       72,
+                "msg1":        "",
+                "object":      "/d/wanjiegu/npc/obj/muyu.c",
+        ]),
+        ([
+                "id":          "jiasha",
+                "name":        "[30mºÚÉ«ôÂôÄ[2;37;0m",
+                "type":        "Ñ°",
+                "bonus":       86,
+                "msg1":        "",
+                "object":      "/d/xueshan/obj/b-jiasha.c",
+        ]),
+        ([
+                "id":          "ming zhu",
+                "name":        "Ã÷Öé",
+                "type":        "Ñ°",
+                "bonus":       120,
+                "msg1":        "",
+                "object":      "/d/taohua/obj/mingzhu.c",
+        ]),
+        ([
+                "id":          "buzhen xiang",
+                "name":        "²¼ÕóÏä",
+                "type":        "Ñ°",
+                "bonus":       120,
+                "msg1":        "",
+                "object":      "/d/taohua/obj/xiang.c",
+        ]),
+        ([
+                "id":          "zhuxiao",
+                "name":        "Öñóï",
+                "type":        "Ñ°",
+                "bonus":       50,
+                "msg1":        "",
+                "object":      "/d/taohua/obj/zhuxiao.c",
+        ]),
+        ([
+                "id":          "du jing1",
+                "name":        "¡ºÐÇËÞ¶¾¾­¡¼ÉÏ²á¡½¡»",
+                "type":        "Ñ°",
+                "bonus":       90,
+                "msg1":        "",
+                "object":      "/clone/book/dujing_1.c",
+        ]),
+        ([
+                "id":          "qingxin san",
+                "name":        "ÇåÐÄÉ¢",
+                "type":        "Ñ°",
+                "bonus":       50,
+                "msg1":        "",
+                "object":      "/d/xingxiu/obj/xxqingxin-san.c",
+        ]),
+        ([
+                "id":          "menghan yao",
+                "name":        "ÃÉº¹Ò©",
+                "type":        "Ñ°",
+                "bonus":       50,
+                "msg1":        "",
+                "object":      "/d/xingxiu/obj/menghan_yao.c",
+        ]),
+        ([
+                "id":          "mu ding",
+                "name":        "Ä¾¶¦",
+                "type":        "Ñ°",
+                "bonus":       90,
+                "msg1":        "",
+                "object":      "/clone/misc/muding.c",
+        ]),
+        ([
+                "id":          "lubo",
+                "name":        BLU"Â­²§"NOR,
+                "type":        "Ñ°",
+                "bonus":       90,
+                "msg1":        "",
+                "object":      "/d/xueshan/obj/lubo.c",
+        ]),
+        ([
+                "id":          "rentou lian",
+                "name":        BLU"ÈËÍ·Á´"NOR,
+                "type":        "Ñ°",
+                "bonus":       90,
+                "msg1":        "",
+                "object":      "/d/xueshan/obj/rtlian.c",
+        ]),
+        ([
+                "id":          "kulou guan",
+                "name":        BLU"÷¼÷Ã¹Ú"NOR,
+                "type":        "Ñ°",
+                "bonus":       90,
+                "msg1":        "",
+                "object":      "/d/xueshan/obj/klguan.c",
+        ]),
+        ([
+                "id":          "qiankunbook",
+                "name":        "ÑòÆ¤",
+                "type":        "Ñ°",
+                "bonus":       110,
+                "msg1":        "",
+                "object":      "/clone/book/qiankun_book.c",
+        ]),
+        ([
+                "id":          "yi xin",
+                "name":        "Ñô½ÌÖ÷ÒÅÐÅ",
+                "type":        "Ñ°",
+                "bonus":       110,
+                "msg1":        "",
+                "object":      "/d/mingjiao/obj/yixin.c",
+        ]),
+        ([
+                "id":          "bosi cloth",
+                "name":        "[35m²¨Ë¹Ã÷½Ì½Ì·þ[2;37;0m",
+                "type":        "Ñ°",
+                "bonus":       84,
+                "msg1":        "",
+                "object":      "/d/tulong/yitian/npc/obj/jiaofu.c",
+        ]),
+        ([
+                "id":          "hong lian",
+                "name":        HIR"Ð¡ºìÁ«"NOR,
+                "type":        "Ñ°",
+                "bonus":       80,
+                "msg1":        "",
+                "object":      "/d/wudang/obj/honglian.c",
+        ]),
+        ([
+                "id":          "duanchang hua",
+                "name":        "[1;31m¶Ï³¦»¨[2;37;0m",
+                "type":        "Ñ°",
+                "bonus":       90,
+                "msg1":        "",
+                "object":      "/d/shenlong/obj/hua3.c",
+        ]),
+        ([
+                "id":          "jia sha",
+                "name":        "»¤·¨ôÂôÄ",
+                "type":        "Ñ°",
+                "bonus":       72,
+                "msg1":        "",
+                "object":      "/d/shaolin/obj/xuan-cloth.c",
+        ]),
+        ([
+                "id":          "cloth",
+                "name":        "[1;33mÒ»Æ·ÊÌÎÀ×°[2;37;0m",
+                "type":        "Ñ°",
+                "bonus":       72,
+                "msg1":        "",
+                "object":      "/d/beijing/npc/obj/guanfu2.c",
+        ]),
+        ([
+                "id":          "huang magua",
+                "name":        "[1;33m»ÆÂí¹Ó[2;37;0m",
+                "type":        "Ñ°",
+                "bonus":       72,
+                "msg1":        "",
+                "object":      "/d/beijing/npc/obj/goldcloth1.c",
+        ]),
+        ([
+                "id":          "cloth",
+                "name":        "[1;34mÇà²¼³¤ÉÀ[2;37;0m",
+                "type":        "Ñ°",
+                "bonus":       95,
+                "msg1":        "",
+                "object":      "/d/beijing/npc/obj/cloth1.c",
+        ]),
+});
+mapping query_questsn()
+{
+        int i;
+        mapping the_quest,random_quest;
+        string *quest_key;
+
+        random_quest = quest[random(sizeof(quest))];
+        the_quest = ([]);
+
+        quest_key = keys(random_quest);
+        for (i = 0;i < sizeof(quest_key);i++)
+                the_quest[quest_key[i]] = random_quest[quest_key[i]];
+
+        return the_quest;
+}

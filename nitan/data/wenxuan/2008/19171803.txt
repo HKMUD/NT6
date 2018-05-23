@@ -1,0 +1,24 @@
+subject : »ªÉ½½ðÉß¶´
+author_name : Þ±´ó´ô
+author_id : vivi
+time : 1207567337
+board : Þ±´ó´ôµÄÁôÑÔ°å
+file : /data/analecta/2008/19171803.txt
+add_time : 1211023043
+content :
+½øÈë»ªÉ½ºó£¬À´µ½³¯Ñô·å£¬Èç¹ûÄãµÄºóÌìÉí·¨ÓÐ41ÒÔÉÏ£¬¾Í¿ÉÒÔdownÏÂÈ¥£¬¶¯×÷Òª¿ìµã£¬ÍÏÒ»»á¶ù¾Í»áÏÂ²»È¥ÁË£¬
+ÕâÊ±£¬ÔÙed,wu,d¾Í¿ÉÒÔÏÂÈ¥ÁË¡£ÏÂÈ¥ºó£¬break dong£¬¾Í¿ÉÒÔ´ò¿ª¶´¿Ú£¬{enter;e;n}¾Í¿´µ½ÁËÒ»¾ß¿ÝÇ¬µÄº¡¹Ç(Skeleton) £¬
+Õâ¾ÍÊÇÏÄÑ©ÒËµÄÒÅº¡£¬mai skeleton£¬¾Í»áÍÚ³öÒ»¸ö´óÌúºÐ£¬ÕâÊ±²»ÒªÌ°ÐÄ£¬·ñÔòÈÎÄãÎä¹¦ÓÐ¶à¸ß±ØËÀÎÞÒÉ£¬
+½ÓÏÂÈ¥ÔÙmai skeleton£¬ÓÖÍÚ³öÒ»¸öÐ¡ÌúºÐ£¬Ð¡ÌúºÐÖÐ¾ÍÓÐ½ðÉßÃÜóÅÈý²á¡£¡õÁË±ÜÃâÎó¿ª´óÌúºÐ£¬¼ñÆðÐ¡ÌúºÐºó£¬
+ÔÙÄÏÒ»²½£¬ÔÙopen box£¬Ïëµ±ÄêÎÒÁ½¸öID¸÷±»´óÌúºÐº¦ËÀÁËÒ»´Î£¬Ç°³µÖ®¼ø°¡£¡
+
+½ðÉßÃÜóÅÉÏ²áÊÇ¶Á½ðÉß½£·¨µÄ£¬µ«Òª50¼¶µÄ»ù´¡²ÅÄÜ¶Á£¬ÄÜ¶Áµ½120 ¼¶£»ÖÐ²áÊÇ¶Á½ðÉß×¶·¨µÄ£¬ÄÜ¶Áµ½120¼¶£»
+ÏÂ²áÊÇ¶Á½ðÉßÓÎÉíÕÆµÄ£¬ÄÜ¶Áµ½120¼¶¡£½ðÉß½£·¨ÅäºÏ½ðÉß½£¾ÍÄÜ³öpfm suo£ºËø×Ö¾÷£»½ðÉß×¶·¨ÄÜ³öpfm tuwu£º
+½ðÉßÍÂÎí£»½ðÉßÓÎÉíÕÆÄÜ³öpfm fugu£º¸½¹Ç²øÉí¡£
+
+Ôõ˜lÑ§µ½50¼¶µÄ½ðÉß½£·¨ÄØ£¿´ó¼Ò×¢ÒâÁËÃ»ÓÐ£¬ÔÚ¶´ÖÐÓÐ¸ömap£¬think map¾Í»áÑ§µ½½ðÉß½£·¨£¬Ò»Ö±think map£¬
+Ñ§µ½50¼¶¾Í¿ÉÒÔ¶ÁÊéÁË¡£
+
+¶´¡õ»¹²åÖø°Ñ½ðÉß½££¬ÏëÒªÄÃËü±ØÐèÒª40ÒÔÉÏµÄºóÌì±ÛÁ¦£¬pull sword£¬°Î²»³öÀ´ÊÇ±ÛÁ¦²»¹»£¬ºÃÏñ»¹ÒªÓÐ1000µã
+ÒÔÉÏµÄÄÚÁ¦£¬°Î³öÀ´ÊÇ¸ö½£±úµÄ»°¾ÍÊÇ±»ÈËÄÃÁË
+[2;37;0m

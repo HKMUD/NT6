@@ -1,0 +1,223 @@
+©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤
+                 ¡¾$HIR$ÍõÕß¹éÀ´ÐÂÊÖÖ¸±±½ø½×$NOR$¡¿                                     
+©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤
+
+    ÍõÕß¹éÀ´ÎÈ¶¨ÔËÐÐÒÑ¾­15ÌìÁË£¬À´ÁËºÜ¶àµÄÐÂÅóÓÑ£¬MUDÓÎÏ·ÒÑ¾­
+ºÜ³¤Ê±¼äÃ»ÓÐÕâÃ´ÈÈÄÖ¹ýÁË£¬¿´µÄÐ¡µÜÒ²ÊÇÈÈÑª·ÐÌÚ£¬ ºÃÁË·Ï»°²»¶à
+ËµÁË£¬¿´ÁËhelp startºÍhelp add_giftºó´ó¼ÒÓ¦¸ÃÖªµÀµÚÒ»¸ö´óÃ×Ó¦
+¸ÃÔõÃ´Á·ÁË°É£¬ÔÙºÍ´ó¼ÒËµÕâÑùÒ»¸öÎÊÌâ£¬ ´ó²¿·ÖµÄÐÂÊÖÀ´Ö®ºó¿´ÁË
+Ð©helpÈ»ºó¾ÍÎÊ£º¡°ÄÇÎ»´óÏÀ¸øµã¶«Î÷°¡£¬Ê²Ã´µÄ¡± ÆäÊµºÜ²»ºÃµÄÒ»
+ÖÖÐÐÎª£¬ÎªÊ²Ã´ËµÄØ£¬ÒòÎªË­µÄÎï×Ê¶¼²»ÊÇÆ¾¿ÕµÃÀ´µÄ£¬ Õâ¾ÍÊÇÎªÊ²
+Ã´ÎÒÐ´help startµÄÊ±ºò²»ÍÆ¼öÁ·Ö÷id£¬¶øÊÇÇ¿µ÷ÁË¿Ï¶¨ÊÇ´óÃ×£¬ Òò
+ÎªÄÇÑùÁ·¶ÔºóÆÚµÄÖ÷id»áÊ®·ÖÓÐÀû£¬±Ï¾¹ÎÊ±ðÈËÒª¶«Î÷£¬ ¿Ï¶¨²»Èç×Ô
+¼º»ñµÃµÄÄÇÑù·½±ã¡£
+    
+    ºÃ°É£¬ ÈÃÎÒÃÇÇÐÈëÕýÌâ°É£¬ÐÂÊÖÖ¸±±½ø½×ÆªÒª½²µÄÊÇ¸÷¸öÃÅÅÉÖ÷
+idÓ¦¸ÃÔõÃ´Ñ¡Ìì¸³£¬ÒÔ¼°ÆäÖ÷¹¥·½Ïò¡£
+
+    ÍõÕß¹é»ØÄ¿Ç°¿ª·ÅµÄËùÓÐÃÅÅÉ¼ÓÆðÀ´×Ü¹²ÓÐ22¸ö£¬ ÒÔÏÂµÄÅÅÃû²»
+Éæ¼°µ½ËûÃÇµÄÓÅÁÓ£¬ÖÁÓÚÍÆ¼öµÄÌì¸³µãÊýÎªÊ²Ã´ÒªÕâÑùÑ¡Ôñ£¬ ÎÒ¾Í²»
+¶à½âÊÍÁË£¬´ó¼Ò¿ÉÒÔ´ÓÆäËü°ïÖúÀï»ñµÃ£º
+    $HIG$ÉÙÁÖÅÉ£º
+    ÍÆ¼öÌì¸³£º$HIY$ str 21 int 21 con 18 dex 20
+    ×îºóÌì¸³£º$HIR$ str 30 int 30 con 30 dex 29
+    ÐÔ    ¸ñ£º$HIM$½Æ÷ï¶à±ä »òÕß ÒõÏÕ½ÆÕ©
+    ÃÅÅÉÌØµã£º$HIW$·ÀÓùÁ¦³¬Ç¿£¬¾«Æø³¬³¤
+    ÍÆ¼öÎä¹¦£º$HIY$Ò×½î¾­ ½ð¸Õ²»»µÌå ìø×ÚÐÄ·¨
+
+    $HIG$Îäµ±ÅÉ£º
+    ÍÆ¼öÌì¸³£º$HIY$ str 19 int 27 con 15 dex 19
+    ×îºóÌì¸³£º$HIR$ str 28 int 36 con 27 dex 28
+    ÐÔ    ¸ñ£º$HIM$½Æ÷ï¶à±ä »òÕß ÒõÏÕ½ÆÕ©
+    ÃÅÅÉÌØµã£º$HIW$ÕÐ¼ÜÍ»³ö£¬ÆøÑª³¬³¤
+    ÍÆ¼öÎä¹¦£º$HIY$Ì«¼«ÏµÁÐ µÀÑ§ÐÄ·¨
+
+    $HIG$Ø¤°ï£º
+    ÍÆ¼öÌì¸³£º$HIY$ str 22 int 25 con 15 dex 18
+    ×îºóÌì¸³£º$HIR$ str 31 int 34 con 27 dex 27
+    ÐÔ    ¸ñ£º$HIM$¹âÃ÷ÀÚÂä
+    ÃÅÅÉÌØµã£º$HIW$
+    ÍÆ¼öÎä¹¦£º$HIY$½µÁúÊ®°ËÕÆ ´ò¹·°ô
+
+    $HIG$È«Õæ½Ì£º
+    ÍÆ¼öÌì¸³£º$HIY$ str 20 int 21 con 20 dex 19
+              $HIY$ str 16 int 30 con 19 dex 15
+    ×îºóÌì¸³£º$HIR$ str 29 int 30 con 32 dex 28
+              ´ËÖÖÌì¸³Ñ¡ÔñµÃ·ÅÆú»¥²©
+              $HIR$ str 25 int 39 con 31 dex 24
+              $HIR$´ËÖÖÑ¡ÔñµÃÓÐÄÍÐÔ£¬ÒòÎª³ýÁË¹ºÂò¹ÊÊÂ
+              $HIR$¼ÓËÄµãÌì¸³Íâ»¹µÃÖÐÈý¸öÏµÍ³¹ÊÊÂ
+    ÐÔ    ¸ñ£º$HIM$¹âÃ÷ÀÚÂä
+    ÃÅÅÉÌØµã£º$HIW$·ÀÓù³¬Èº
+    ÍÆ¼öÎä¹¦£º$HIY$×óÓÒ»¥²© ÏÈÌì¹¦ ¿ÕÃ÷È­
+    ÍÆ¼öÐÔ±ð£ºÅ® »¥²©+Ã÷Óñ¹¦
+
+    $HIG$»ªÉ½ÅÉ£º
+    ÍÆ¼öÌì¸³£º$HIY$ str 19 int 25 con 20 dex 19
+    ×îºóÌì¸³£º$HIR$ str 28 int 34 con 29 dex 28
+    ÐÔ    ¸ñ£º$HIM$½Æ÷ï¶à±ä
+    ÃÅÅÉÌØµã£º$HIW$½£¾øÌìÏÂ
+    ÍÆ¼öÎä¹¦£º$HIY$¶À¹Â¾Å½£ Ò×½î¾­
+
+    $HIG$Ä½ÈÝÊÀ¼Ò£º
+    ÍÆ¼öÌì¸³£º$HIY$ str 20 int 21 con 18 dex 21
+    ×îºóÌì¸³£º$HIR$ str 29 int 30 con 30 dex 30
+    ÐÔ    ¸ñ£º$HIM$ÒõÏÕ¼éÕ©
+    ÃÅÅÉÌØµã£º$HIW$·ÀÓù³¬Èº
+    ÍÆ¼öÎä¹¦£º$HIY$¶·×ªÐÇÒÆ ²ÎºÏÖ¸ ¿û»¨Ä§¹¦
+
+    $HIG$¶ÎÊÏ»Ê×å£º
+    ÍÆ¼öÌì¸³£º$HIY$ str 24 int 23 con 14 dex 19
+    ×îºóÌì¸³£º$HIR$ str 33 int 32 con 26 dex 28
+    ÐÔ    ¸ñ£º$HIM$ÒõÏÕ¼éÕ©
+    ÃÅÅÉÌØµã£º$HIW$¿ÕÊÖ³¬Èº
+    ÍÆ¼öÎä¹¦£º$HIY$ÁùÂöÉñ½£ ¿û»¨Ä§¹¦
+
+    $HIG$ÁéðÕ¹¬£º
+    ÍÆ¼öÌì¸³£º$HIY$ str 21 int 21 con 18 dex 20
+    ×îºóÌì¸³£º$HIR$ str 30 int 30 con 30 dex 29
+    ÐÔ    ¸ñ£º$HIM$½Æ÷ï¶à±ä
+    ÃÅÅÉÌØµã£º$HIW$ÄÚ¹¦°ÔµÀ
+    ÍÆ¼öÎä¹¦£º$HIY$°Ë»Ä¹¦ Ã÷Óñ¹¦ ²»°ÜÉñ¹¦
+
+    $HIG$´óÂÖËÂ£º
+    ÍÆ¼öÌì¸³£º$HIY$ str 21 int 21 con 18 dex 20
+    ×îºóÌì¸³£º$HIR$ str 30 int 30 con 30 dex 29
+    ÐÔ    ¸ñ£º$HIM$ÐÄºÝÊÖÀ±
+    ÃÅÅÉÌØµã£º$HIW$ÄÚ¹¦°ÔµÀ
+    ÍÆ¼öÎä¹¦£º$HIY$ÁúÏó¹¦ À®ÂïÐÄ·¨  
+
+    $HIG$¶ëáÒÅÉ£º
+    ÍÆ¼öÌì¸³£º$HIY$ str 23 int 24 con 16 dex 17
+    ×îºóÌì¸³£º$HIR$ str 32 int 33 con 28 dex 26
+    ÐÔ    ¸ñ£º$HIM$¹âÃ÷ÀÚÂä
+    ÃÅÅÉÌØµã£º$HIW$½£°ÔÌìÏÂ
+    ÍÆ¼öÎä¹¦£º$HIY$ÒÐÌì½£·¨ ÁÙ¼ÃÊ®¶þ×¯
+
+    $HIG$ÌÒ»¨µº£º
+    ÍÆ¼öÌì¸³£º$HIY$ str 16 int 27 con 18 dex 19
+    ×îºóÌì¸³£º$HIR$ str 25 int 36 con 30 dex 28
+    ÐÔ    ¸ñ£º$HIM$ÒõÏÕ¼éÕ©
+    ÃÅÅÉÌØµã£º$HIW$¿ÕÊÖ³¬Èº
+    ÍÆ¼öÎä¹¦£º$HIY$µ¯Ö¸ÉñÍ¨ ÆæÃÅÎåÐÐ
+
+    $HIG$ÉñÁú½Ì£º
+    ÍÆ¼öÌì¸³£º$HIY$ str 21 int 21 con 18 dex 20
+    ×îºóÌì¸³£º$HIR$ str 30 int 30 con 30 dex 29
+    ÐÔ    ¸ñ£º$HIM$ÐÄºÝÊÖÀ±
+    ÃÅÅÉÌØµã£º$HIW$¹¦·ò¹îÒì
+    ÍÆ¼öÎä¹¦£º$HIY$ÉßµºÆæ¹¦ »¯¹ÇÃàÕÆ
+
+    $HIG$¹ÅÄ¹ÅÉ£º
+    ÍÆ¼öÌì¸³£º$HIY$ str 21 int 21 con 18 dex 20
+              $HIY$ str 18 int 30 con 14 dex 18 
+    ×îºóÌì¸³£º$HIR$ str 30 int 30 con 30 dex 29
+              $HIR$ str 27 int 39 con 26 dex 27
+              (ÐèÒª¹ºÂò4µã¹ÊÊÂ£¬»òÕßµÈ×ÅÖÐ¹ÊÊÂ)
+    ÐÔ    ¸ñ£º$HIM$½Æ÷ï¶à±ä
+    ÃÅÅÉÌØµã£º$HIW$×óÓÒ»¥²©
+    ÍÆ¼öÎä¹¦£º$HIY$×óÓÒ»¥²© Ì«Ðþ¹¦
+
+    $HIG$ÐÇËÞÅÉ£º
+    $HIR$ÎÞÐèÍÆ¼ö£¬´ËÃÅÅÉ½¨ÒéÌìÉñÕå×ÃÐÞ¸ÄÆäÍþÁ¦¡£
+    
+    $HIG$åÐÒ£ÅÉ£º
+    ÍÆ¼öÌì¸³£º$HIY$ str 21 int 21 con 18 dex 20
+    ×îºóÌì¸³£º$HIR$ str 30 int 30 con 30 dex 29
+    ÐÔ    ¸ñ£º$HIM$¹âÃ÷ÀÚÂä
+    ÃÅÅÉÌØµã£º$HIW$Çá¹¦¾øÂ×
+    ÍÆ¼öÎä¹¦£º$HIY$±±Ú¤Éñ¹¦ ÁùÑôÕÆ Áè²¨Î¢²½
+
+    $HIG$Ñªµ¶ÃÅ£º
+    ÍÆ¼öÌì¸³£º$HIY$ str 23 int 21 con 20 dex 16
+    ×îºóÌì¸³£º$HIR$ str 32 int 30 con 32 dex 25
+    ÐÔ    ¸ñ£º$HIM$ÐÄºÝÊÖÀ±
+    ÃÅÅÉÌØµã£º$HIW$ÄÚ¹¦´ø¶¾
+    ÍÆ¼öÎä¹¦£º$HIY$ÉñÕÖ¾­ Ñªµ¶µ¶·¨ Á¬³Ç½£·¨
+
+    $HIG$Å·ÑôÊÀ¼Ò£º
+    ÍÆ¼öÌì¸³£º$HIY$ str 21 int 21 con 18 dex 20
+    ×îºóÌì¸³£º$HIR$ str 30 int 30 con 30 dex 29
+    ÐÔ    ¸ñ£º$HIM$ÐÄºÝÊÖÀ±
+    ÃÅÅÉÌØµã£º$HIW$ÄÚ¹¦´ø¶¾
+    ÍÆ¼öÎä¹¦£º$HIY$¸òó¡¹¦ ÁéÉßÕÈ·¨
+
+    $HIG$¹ØÍâºú¼Ò£º
+    ÍÆ¼öÌì¸³£º$HIY$ str 21 int 22 con 19 dex 18
+              $HIY$ str 21 int 23 con 19 dex 17
+    ×îºóÌì¸³£º$HIR$ str 30 int 31 con 31 dex 27
+              $HIR$ str 30 int 32 con 31 dex 26 
+              (Òª»¨Ç®»òÖÐÏµÍ³¹ÊÊÂ£¬ÍÆ¼öµÚÒ»ÖÖ
+              Ìì¸³£¬²¢½¨Òéµ÷Õûµ¶½£ÍþÁ¦)
+    ÐÔ    ¸ñ£º$HIM$¹âÃ÷ÀÚÂä
+    ÃÅÅÉÌØµã£º$HIW$±øÆ÷µÚÒ»
+    ÍÆ¼öÎä¹¦£º$HIY$ºú¼Òµ¶·¨ µ¶½£¹éÕæ
+
+    $HIG$ÌÆÃÅÊÀ¼Ò£º
+    ÍÆ¼öÌì¸³£º$HIY$ str 21 int 21 con 18 dex 20
+    ×îºóÌì¸³£º$HIR$ str 30 int 30 con 29 dex 30
+    ÐÔ    ¸ñ£º$HIM$ÐÄºÝÊÖÀ±
+    ÃÅÅÉÌØµã£º$HIW$É±ÊÖÊÀ¼Ò
+    ÍÆ¼öÎä¹¦£º$HIY$ÌÆÃÅ°µÆ÷  
+
+    $HIG$ÈÕÔÂÉñ½Ì£º
+    ÍÆ¼öÌì¸³£º$HIY$ str 18 int 25 con 14 dex 23
+    ×îºóÌì¸³£º$HIR$ str 27 int 34 con 26 dex 32
+    ÐÔ    ¸ñ£º$HIM$ÒõÏÕ½ÆÕ©
+    ÃÅÅÉÌØµã£º$HIW$¿ìËÙ¹¥»÷
+    ÍÆ¼öÎä¹¦£º$HIY$±ÙÐ°½£
+
+    $HIG$Ã÷½Ì£º
+    ÍÆ¼öÌì¸³£º$HIY$ str 18 int 25 con 20 dex 17
+    ×îºóÌì¸³£º$HIR$ str 27 int 34 con 32 dex 26
+    ÐÔ    ¸ñ£º$HIM$ÒõÏÕ½ÆÕ© ½Æ÷ï¶à±ä
+    ÃÅÅÉÌØµã£º$HIW$³¬¼¶ÃÅÅÉ
+    ÍÆ¼öÎä¹¦£º$HIY$¾ÅÑôÉñ¹¦ Ê¥»ðÁî Ç¬À¤´óÅ²ÒÆ
+              $HIY$ÆßÉËÈ­(ÖÐ¹ÊÊÂ)  ÇàòðÉí·¨$NOR$
+
+
+    ¿´ÍêÉÏÊö½éÉÜ£¬ÎÒÏë´ó¼ÒÓ¦¸Ã¶¼Ó¦¸ÃÁË½âµ½ÈçºÎÑ¡ÔñÖ÷Á··½ÏòÁË
+°É£¬ÆäÊµÃ»ÓÐ¾ø¶ÔµÄÇ¿£¬Ö»ÊÇ¸öÈË¶ÔÓÚÐ¡ËµÖÐÈËÎïµÄ¸öÈËÏ²ºÃ°ÕÁË¡£
+Ñ¡ÍêÈËÎï¾Í¿ÉÒÔ¿ªÊ¼×öÒ»Ð©×¼±¸ÐÔ¹¤×÷ÁË£¬Á·¹¦µÄ¹ý³Ì´ó¼Ò¿ÉÒÔ¿´Ò»
+ÏÂÎÒÐ´µÄhelp start£¬ÒÑ¾­±È½ÏÇå³þµÄËµÃ÷ÁË¶È¹ýÐÂÊÖµÄÀú³ÌÁË£¬Èç
+ºÎ³Ôµ¤Ò©ºÍ½âÃÜÀ´Ìá¸ßÌì¸³£¬´ó¼Ò¿ÉÒÔ¿´Ò»ÏÂÎÒÐ´µÄhelp  add_gift
+£¬³ýÁËÕâÐ©ÒÔÍâ»¹ÊÇÓÐÒ»Ð©ÊÂÇéÊÇÒªºÍÐÂÊÖÃÇ½»´úµÄ£º
+
+    1¡¢×øÆïÈçºÎ»ñµÃ£ºgc e e e sºÍ¿ñ·çÊ¹ÕßÑ§Ï°30¼¶µÄtraining,
+È»ºó¸ø¿ñ·çÊ¹Õß100 gold£¬¾Í¿ÉÒÔ»ñµÃÄãÐÄ°®µÄ³èÎïÁË£¬¾Í¿ÉÒÔÊ¹ÓÃ
+ridetoÀ´·½±ãµÄ¹ä±äÕû¸öÄàÌ¶ÁË¡£¿ÉÒÔÍ¨¹ýhelp rideto À´²é¿´¿ÉÒÔ
+È¥µ½µÄµØ·½¡£
+    2¡¢ÂþÓÎ°üµÄ»ñµÃ·½Ê½£º¿ÉÒÔµ½gc e e e s µÄµØ·½ºÍqi changfa
+¹ºÂòdizang zhishi£¬Ä¿Ç°µÄÎï¼ÛÊÇ8000gÃ¿¸ö£¬Âòµ½ºó¸ø¿ñ·çÊ¹Õß£¬
+È»ºóÔÙ¸øËû5000g£¬Äã¾Í¿ÉÒÔ»ñµÃÂþÓÎ°üÁË£¬Í¬Ê±¿ÉÒÔÓÃsummon crui
+se obºÍhide or drop cruise ob À´Ê¹ÓÃ£¬ÓÃstoreºÍtake À´´æÈ¡Îï
+Æ·¡£
+    3¡¢ÏâÇ¶¼¼ÄÜ£¬»æ»­¼¼ÄÜ£¬ÌÖ¼Û»¹¼ÛµÄ¼¼ÄÜ£¬¶¼ÊÇ·Ç³£ÓÐÓÃµÄ£¬Ïâ
+Ç¶¿ÉÒÔÔÚ×°±¸ÉÏÏâÇ¶¸÷ÖÖ±¦ÎïÀ´Ìá¸ß±øÆ÷µÄÊôÐÔ£¬Ñ§µ½500¼¶ºóÏâÇ¶µÄ
+³É¹¦ÂÊÊÇ100% µÄ£¬Ö»ÓÐÑ§»á»æ»­¼¼ÄÜ²ÅÄÜ¹»È¥×ö»­µØÍ¼µÄÈÎÎñ£¬ÌÖ¼Û
+»¹¼ÛÑ§µ½400 ºó£¬ÔÚÏµÍ³ÉÌµêÀï¹ºÂò¶«Î÷¿ÉÒÔ»ñµÃ7ÕÛµÄÓÅ»Ý¡£»áÔ±ÉÌ
+µêÀýÍâ¡£
+    4¡¢¸÷ÖÖ»ù±¾Îä¹¦Êé¼®£¬ÑïÖÝÎä¹ÝºÍ³É¶¼Îä¹ÝÓÐÂô£¬ËùÓÐµÄ»ù±¾Îä
+¹¦¾ù¿ÉÒÔ¶Áµ½100£¬ÉÙ²¿·Ö»ù±¾Îä¹¦¿ÉÒÔ¶Áµ½180»òÕß200£¬»ù±¾Ö¸·¨¿É
+ÒÔÕÒ¸öÌÆÃÅµÄid±³Äã½øÌÆÃÅµÄÊ÷¶¥È¥ÁìÎò£¬Ö¸ÁîÊÇlingwu xing¡£
+    5¡¢ÐÂÈË¿ÉÄÜÎªÃ¿´ÎÒªÈ¥ÂòË¯´ü¶ø¾õµÃÂé·³£¬ÄÄÃ´´ó¼Ò¿ÉÒÔÔìÒ»¸ö
+×°±¸£¬Ãû×Ö½ÐË¯´ü(sleepbag)¾Í¿ÉÒÔËæµØÂÒË¯ÁË¡£
+    6¡¢ÍæÕâ¸öÓÎÏ·ÄØÓÐÒ»ÖÖ´óÃ×ÊÇÒ»¶¨ÒªÁ·µÄ£¬ÄÇ¾ÍÊÇÎäµ±´óÃ×£¬Òò
+ÎªÎäµ±´óÃ×¿ÉÒÔ×öÈý±¦À¯»Æµ¤¡¢ÓñÇåÉ¢Á½ÖÖÒ©Îï£¬ Ç°Õß¿ÉÒÔË²¼ä»Ö¸´
+×´Ì¬£¬ºóÕßÊÇÕû¸öÓÎÏ·´ÓÍ·µ½Î²±ØÐëÓÃµÄ¶«Î÷£¬¼Ó¾«Á¦ºÍ×ö10 ¼¶×°±¸
+Ò²¾ÍÊÇÊ¥»¯±øÆ÷£¬¶¼±ØÐëÓÃËü£¬¶øÇÒÊÇ´óÁ¿µÄÓÃ£¬ÓÉÓÚid µ½ºóÆÚ²»Ò»
+¶¨¶¼×öÊ¦ÃÅÈÎÎñÀ´»ñµÃ¸÷ÖÖ×ÊÔ´(Ê¦ÃÅÈÎÎñµÄÎï×ÊÀ´Ô´Á¿×î´ó) £¬ËùÒÔ
+ÕâÖÖ´óÃ××îºÃÊÇÁ·ËÄ¸ö£¬ µ±¼Æ»®Ê±¼ä×öÓñÇåÉ¢ÓÃÍêºó¾Í¿ÉÒÔ¹ÒÉÏÊ¦ÃÅ
+ÈÎÎñÀ´»ñµÃ¸÷ÖÖ×ÊÔ´£¬¼Æ»®Ê±¼ä¹»ÁËºó¾Í¼Æ»®×öÉ¢£¬ÕâÖÖ´óÃ×ÄØ sk¿Ø
+ÖÆÔÚ400£¬¾­Ñé¿ØÖÆ640w¾Í¿ÉÒÔÁË¡£
+    7¡¢¾«Á¦ÉÏÏÞÊÇ±»Áé»Û¿ØÖÆµÄ£¬Õû¸öÓÎÏ·ÖÐÖ»ÓÐ¾Å×ª½ðµ¤²Å¼ÓÁé»Û
+£¬»òÕß³¤ÆÚ¹ÒÔÚ»Æ¹ûÊ÷ÆÙ²¼ÄÇÀï£¬Ò²»á»ñµÃÉÙÐíµÄÁé»Û£¬ ÆäËü¸÷ÖÖÎï
+×ÊÄØ¶¼ÓÐ¸÷×ÔµÄÓÃÍ¾£¬ ËùÒÔÔÚÓÎÏ·ÀïÎÊ±ðÈËÒªÕâÐ©¶«Î÷ÄØÊÇ±È½ÏÀ§ÄÑ
+µÄ£¬ËùÒÔÔÚhelp start ÖÐ²Å»áÍÆ¼öÏÈÁ·´óÃ×£¬×ÔÁ¦¸üÉú¡¢×Ô¸ø×Ô×ãÊÇ
+±È½ÏÓä¿ìµÄÍæ·¨£¬´ó¼ÒÒ²ÖªµÀÇóÈËÄÑ°¡¡
+
+
+    ÐÂÊÖÖ¸±±2¾ÍÐ´µ½ÕâÀï°É£¬ÆäÊµ»¹ÓÐºÜ¶àºÜ¶àµÄÐèÒª½»´úµÄ£¬¿ÉÏ§
+ÎÒ²»ÊÇÐÂÊÖ£¬Ò²Ö»ÄÜÐ´µ½ÕâÀïÁË¡£
+
+©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©

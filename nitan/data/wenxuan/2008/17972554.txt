@@ -1,0 +1,22 @@
+subject : ÌÒ»¨µÜ×Ó£³£°ËêºóÒª°Ý»ÆÒ©Ê¦
+author_name : ¸ß´¦²»Ê¤º®
+author_id : lonely
+time : 1225815136
+board : ÁôÑÔ²¾
+file : /data/analecta/2008/17972554.txt
+add_time : 1225815159
+content :
+ÌÒ»¨µÜ×Ó£³£°ËêºóÒª°Ý»ÆÒ©Ê¦£¬±ØÐëÍê³ÉÏÂÊöÎÊÌâ£º
+£±¡¢É±ºÚ·çË«É·£º ºÚ·çË«É·ÔÚÇà³Çn£¬e£¬s£¬enter£¬ºÚ·çË«É·autokill£¬ºÚ·çË«É·Ô¼800K¡£
+£²¡¢ÕÒÇúÁé·ç£ºÐèÒª±ÌÌÎÐþ¹¦¡¢¶ÁÊéÐ´×Ö¡¢ÆæÃÅ¶Ý¼×´óÓÚ£¶£°¼¶¡£ÔÚ»ÆÒ©Ê¦ÄÇ¶ùask huang about Éµ¹Ã£¬
+    ÄÃµ½Ò»·âÐÅ£¬ÔÙ³öÈ¥ºÍÉµ¹Ãfight£¬ÄÜÄÃµ½³¤ÃüËø£¨Òª´ò´òÍ£Í££¬ÈÃÉµ¹Ã²»¶ÏµÄËµ½ñÌìºÃ¸ßÐË£¬
+    ÕâÑù´ó¸Å£±£°·ÖÖÓÄÜÄÃµ½£©¡£È»ºó´ø×Å×ÅÁ½Ñù¶«Î÷È¥º¼ÖÝ¾Æ¹ÝÕÒÇúÈý£¬°Ñ¶«Î÷¸øËû£¬É±µôÔÚ³¡µÄÆä
+    ËûÈË£¬ask qu about Ñ§ÒÕ£¬Çú»á´øÄã½øÃØÊÒ£¬¾Í¿ÉÒÔ°ÝÇúÁË¡£
+£³¡¢ÖÎÁÆÂ½³Ð·çÍÈÉË£º»ÆÒ©Ê¦ÄÇ¶ùask huang about Â½³Ð·ç£¬»Æ»á¸øÄãÒ»ÕÅÐý·çÉ¨Ò¶ÍÈÐÄ·¨¡£¸ÃÐÄ·¨
+    ¿ÉÒÔ¶Áµ½£³£±¼¶¡£°ÑÐÄ·¨¸øÂ½³Ð·ç£¬¹ý¼¸·ÖÖÓÔÙask lu about Ðý·çÉ¨Ò¶ÍÈÐÄ·¨£¬Ëû»á×Ô¶¯¸øÄã£¬
+    ÕâÏÂ¾Í¿ÉÒÔ¶Áµ½£±£°£±¼¶ÁË¡£
+£´¡¢ÕÒ·ëÄ¬·ç£ºÔÙÂ½³Ð·çÄÇ¶ùask lu about ·ëÄ¬·ç£¬È»ºó´ø×ÅÌú°ËØÔÈ¥»ªÉ½´å·ëÌú½³ÄÇÀï£¬kill feng£¬
+    µ±Äã¿ìÒªÉ±ËÀËûµÄÊ±ºò£¬·ë¾Í»á±ä³ÉÌÒ»¨µÜ×Ó£¬¸øËû°ËØÔ¾ÍÐÐÁË
+
+
+[2;37;0m

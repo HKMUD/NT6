@@ -1,0 +1,749 @@
+subject : ×ªÊÀ¹ý³Ì
+author_name : ¹ý¿Í
+author_id : zzzaaa
+time : 1300718559
+board : ¹ý¿ÍµÄÁôÑÔ°å
+file : /data/wenxuan/2011/64825539.txt
+add_time : 1300720021
+content :
+Ò»¡¢×ªÊÀÌõ¼þ£º   
+
+    exp>50ÒÚ 
+  ÎäÑ§×ÚÊ¦£¬´óÐ¡ÖÜÌì£¬ÔªÓ¤³öÊÀ£¬ÉúËÀÐþ¹Ø
+    force> 3600¼¶  ³ý×Ô¼ºÖ÷ÐÞµÄÄÚ¹¦Íâ£¬ÁíÍâ»¹ÐèÒ»ÖÖÄÚ¹¦>2000¼¶ 
+    dodge> 3600¼¶ 
+    parry> 3600¼¶ 
+    ÎäÑ§ÐÞÑø> 3600¼¶ 
+    Ö÷¹¥¼¼ÄÜÒ»¸ö>3600¼¶  (±ÈÈç¿ÕÊÖor±øÆ÷) 
+    ¸öÈË½¨Òé¼¼ÄÜ²»ÐèÒªÑÐ¾¿Ì«¸ß¸ÕºÃ¹»×ªÊÀ¼´¿É£¬ÒòÎª×ªÊÀºóÖªÊ¶ÀàÖ»±£Áô500¼¶£¬ÆäËûµÄÖ»ÓÐ200¼¶£¬Ï×¼ÀºóµÄ¼¼ÄÜ±£Áô=Ï×¼ÀÊ±µÈ¼¶-2000¼¶
+£¨skillsµÈ¼¶¿ÉÒÔ´©×°±¸À´Ôö¼Ó£¬½è´©±ðÈËµÄÒ²Ëã£¬²»¹ýÏ×¼ÀµÄ¼¼ÄÜ²»°üº¬×°±¸Ôö¼ÓµÄµÈ¼¶¡££© 
+
+
+ÁíÍâ»ªÉ½Ï×¼ÀµÄÊ±ºò»¹ÐèÒªÈô¸ÉÌØÊâ¼¼ÄÜ£¬ÌôcombatÀïÃæÄÑ¶ÈµÍµÄÁ·µ½2000¶à¼¶¾Í¹»ÁË
+ÄÚÁ¦100w,ÒøÐÐ´æ¿î100w gold,ÓµÓÐÒ»°Ñ×Ô¼ºµÄ10lv±øÆ÷£¨¿ÕÊÖµÄ¿ÉÒÔ£¬Òª¼ÇµÃjifa ¿ÕÊÖ¼¼ÄÜ£¬´øÉÏ¿ÕÊÖÎäÆ÷£©
+
+×ªÊÀÇ°ÒªÇåÀíµô·¿ÎÝ£¬ÍÑÀë°ïÅÉ¡¢½áÒå£¬½á»éµÄÒª¸ú¶ÔÏóËµ°Ý°Ý¡£
+qiankun bagÀïÃæµÄÎïÆ·²»»áÇåÀí£¬¼ÇµÃ´øÉÏÒ»Ð©»Ö¸´ÆøÑªµÄÒ©£¨ÉñÊ¥ÑªÇåµÄÐ§¹ûÒÑ¾­±»ÎÞÇéµÄºÚµôÁË×ªÊÀÊ±²»½¨ÒéÊ¹ÓÃ£©£¬
+ÔÚ¾ÉÊ±Âò1¸ö»ÆÁ»Õí¶ª¸øÐ¡ºÅ£¬·ñÔòÐ¡ºÅÒªÊÇÃ»ÓÐnt£¬ÄÇÄã¾Í±­¾ßÁË¡£¡£¡£
+´øÉÏ5¸öÕÙÉñÏã£¬È¥ÄÏÏÍ»á¸øÄãÒ»ÕÅÑÖÍõÆõ¡£ÄÇÀïask nan about ×ªÊÀ£¬Èç¹ûÄã·ûºÏÌõ¼þ£¬ÄÏÏÍ»á¸øÄãÒ»ÕÅÑÖÍõÆõ¡£
+Õâ¸öÑÖÍõÆõquitÒ²²»»áµôµÄ£¬´ó¼ÒÇë·ÅÐÄ¡£
+
+¶þ¡¢×ªÊÀ¹ý³Ì£º
+
+1.ºâÉ½Ï×¼À
+
+{rideto henyang;n;n;n;n;n;n;n;n;n;nu;nw;nu;nd;nw;nu;nw;w;w;nw;ne;ne;nu;nu;nd;u}
+
+ºâÉ½¼ÀÌ³
+    ÕâÀïÎ¨Ò»µÄ³ö¿ÚÊÇ down¡£
+  ÇàÍ­¶¦ÏãÂ¯(xiang lu)
+
+> put magic xiang in xiang lu
+Äã½«ÕÙÉñÏã²å½øÍ­¶¦ÏãÂ¯Àï£¬µ­µ­µÄÏãÎ¶ÃÖÂþ×ÅËÄÖÜ¡£
+ºâÉ½¸®¾ýHenshan fujunËµµÀ£º¡¸ºÎ·½À´ÈË£¬¶·µ¨ºô»½±¾¾ýÏÖÉí£¿¡¹
+> look
+ºâÉ½¼ÀÌ³ - (ÄãÄ¿Ç°ÔÚÎ´ÖªÇøÓò)
+    ÎåÔÀÖ®ÄÏÔÀºâÉ½¼ÀÌ³´¦£¬¼ÀÌ³ÉÏÓÐÇàÍ­¶¦ÏãÂ¯Ò»×ù£¬ÖÕÄêÏã»ð²»Ãð£¬
+ÈôÉíÓÐÑÖÍõÆõ£¬µãÉÏÕÙÉñÏã£¬Ôò¿ÉÕÙ»½¡¸ºâÉ½¸®¾ý¡¹³öÏÖ¡£¡£
+    ¸üÉîÒ¹³Á£¬ÂúÌì·±ÐÇ¡£
+    ÕâÀïÎ¨Ò»µÄ³ö¿ÚÊÇ down¡£
+  ÄÏÔÀ ºâÉ½¸®¾ý(henshan fujun)
+  ÇàÍ­¶¦ÏãÂ¯(xiang lu)
+
+> ask fujun offer
+ÄãÏòºâÉ½¸®¾ý´òÌýÓÐ¹Ø¡ºoffer¡»µÄÏûÏ¢¡£
+ºâÉ½¸®¾ýÑÈµÀ£º¡¸¼ÈÊÇÉí»³ÑÖÍõÆõ£¬±¾¸®¾ýÕâ±ã¸øÄãÒ»¸ö»ú»á°É¡£¡¹
+ºâÉ½¸®¾ýË¼Ë÷Æ¬¿ÌºóÐ¦µÀ£º¡¸½üÈÕ¸÷µØÔÖÇéÆµ´«£¬±¾¸®¾ýËÄ´¦±¼²¨£¬¹ãÊ©ÉÆ²Æ£¬¿â·¿ÆÄÓÐ²»¿°¸ººÉ¡£¡¹
+ºâÉ½¸®¾ýÐøµÀ£º¡¸Ë×»°ËµÓÐÇ®ÄÜÊ¹¹íÍÆÄ¥£¬±¾¸®¾ýÏÖÏÂ¼±Ç·ÖÜ×ª£¬Äã¿ÉÔ¸³ö·ÝÁ¦Æø£¿¡¹
+ºâÉ½¸®¾ýÏëÒªÄã¹©·î½ðÇ®£¬ÄãÊÇ·ñÍ¬Òâ(answer yes/no)£¿
+> answer yes
+ºâÉ½¸®¾ý´óÐ¦µÀ£º¡¸¹ûÈ»ÊÇ´ÏÃ÷ÈË£¬È´²»Öª¿¶¿®½âÄÒ£¨donate£©»Æ½ð¼¸Ðí£¿¡¹
+> donate 1000000 gold
+ºâÉ½¸®¾ýÐ¦µÀ£º¡¸¹ûÈ»ºÜÓÐ³ÏÒâ£¬¹ûÕæÊÇÑÖÍõÆõµÄÓÐÔµÈË£¡¡¹
+ºâÉ½¸®¾ýÓÖµÀ£º¡¸±¾¸®¾ý×îÖØÇáÉíÖ®Êõ£¬Äã±ØÐëÏ×¼À(offer)Ò»ÃÅÌØÊâÇá¹¦¡£¡¹
+
+> offer shexing-lifan 3370   Ï×¼ÀÇá¹¦Çá¹¦
+
+ÄãÂÔÒ»³ÁË¼µÀ£º¡¸¼ÈÈ»Èç´Ë£¬ÎªÏÔ³ÏÒâ£¬ÎÒ¾ö¶¨Ï×¼ÀÉßÐÐÀê·­3370¼¶¡£¡¹
+ºâÉ½¸®¾ýÁè¿ÕÒ»ÌÍ£¬ÄãºöÈ»¾õµÃ×Ô¼ºÉíÉÏÉÙÁËÊ²Ã´¡£
+ºâÉ½¸®¾ýµãÍ·µÀ£º¡¸Èç´ËÉõºÃ£¬ÎÒÕâ±ã¼ÇÔØµ½ÑÖÍõÆõÉÏ¡£¡¹
+Ö»¼ûºâÉ½¸®¾ýà«à«ÓÐ´Ê£¬Õ§Ê±É½á°ÂÒ¶¯¡¢ÔÆ¼äÒç³ö¹âÃ¢£¬Ö»¼ûÒ»ÊÚ°¸Æ®È»¶øÏÂ£¬ÆäÉÏÎÄ·¿ËÄ±¦Ò»Ó¦¾ãÈ«¡£
+ºâÉ½¸®¾ýÌá±Ê»ÓÈ÷£¬Ö»¼ûË¿Ë¿×Ï¹âÉøÈëÑÖÍõÆõÉÏ£¬Æ¬¿Ì¼´³É¡£
+ºâÉ½¸®¾ýÂúÒâµÀ£º¡¸Õâ±ã³ÉÁË¡£±¾¸®¾ý¹¦³ÉÉíÍË£¬Ð¡ÓÑ¶à¶à±£ÖØ¡£¡¹
+ºâÉ½¸®¾ý»¯×öÒ»ÕóÇåÑÌÏûÊ§£¬×ªË²±ãÒÑÆ®ÃìÎÞ×Ù¡£
+ÊÚ°¸»¯×öÒ»ÕóÇåÑÌÏûÊ§£¬×ªË²±ãÒÑÆ®ÃìÎÞ×Ù¡£
+
+
+2.ºãÉ½Ï×¼À
+
+{rideto beijing;s;s;s;s;s;s;s;se;sw;se;se;u;wu;eu;s;s;su;su;e;ne;ne;nu;nu;wu;u}
+
+ºãÉ½¼ÀÌ³
+    ÕâÀïÎ¨Ò»µÄ³ö¿ÚÊÇ down¡£
+  ÇàÍ­¶¦ÏãÂ¯(xiang lu)
+
+> put magic xiang in xiang lu
+·ç¸ü´óÁË£¬¾í×Å¿ÝÒ¶£¬É³ÍÁÔÚµØÉÏ·É¿ìµØ´ò×ÅÐý¡£
+Äã½«ÕÙÉñÏã²å½øÍ­¶¦ÏãÂ¯Àï£¬µ­µ­µÄÏãÎ¶ÃÖÂþ×ÅËÄÖÜ¡£
+ºãÉ½¸®¾ýHengshan fujunËµµÀ£º¡¸ºÎ·½À´ÈË£¬¶·µ¨ºô»½±¾¾ýÏÖÉí£¿¡¹
+
+> look
+ºãÉ½¼ÀÌ³ - (ÄãÄ¿Ç°ÔÚÎ´ÖªÇøÓò)
+    ÎåÔÀÖ®±±ÔÀºãÉ½¼ÀÌ³´¦£¬¼ÀÌ³ÉÏÓÐÇàÍ­¶¦ÏãÂ¯Ò»×ù£¬ÖÕÄêÏã»ð²»Ãð£¬
+ÈôÉíÓÐÑÖÍõÆõ£¬µãÉÏÕÙÉñÏã£¬Ôò¿ÉÕÙ»½¡¸ºãÉ½¸®¾ý¡¹³öÏÖ¡£¡£
+    ÏÖÔÚÊÇÕýÎçÊ±·Ö£¬ÕÚÌì±ÎÈÕµÄ³¾ÍÁ·ÉµÃÀÏ¸ß£¬ÌìÉ«»Æ»ÆµÄ¡£
+    ÕâÀïÎ¨Ò»µÄ³ö¿ÚÊÇ down¡£
+  ±±ÔÀ ºãÉ½¸®¾ý(hengshan fujun)
+  ÇàÍ­¶¦ÏãÂ¯(xiang lu)
+
+> ask fujun offer
+answer yes
+ÄãÏòºãÉ½¸®¾ý´òÌýÓÐ¹Ø¡ºoffer¡»µÄÏûÏ¢¡£
+ºãÉ½¸®¾ýÑÈµÀ£º¡¸¼ÈÊÇÉí»³ÑÖÍõÆõ£¬±¾¸®¾ýÕâ±ã¸øÄãÒ»¸ö»ú»á°É¡£¡¹
+ºãÉ½¸®¾ýÄ¿ÉäÆæ¹âÐøµÀ£º¡¸±¾¸®¾ýÊÈÎäÈçÃü£¬½üÈÕÉñ¹¦ÓÐ³É£¬ÄãÎÒ´òÉÏÒ»¼Ü£¬ÄãÈôÊ¤ÁË£¬±¾¸®¾ý±ã×¼ÁËÄãµÄÏ×¼À¡£¡¹
+ºãÉ½¸®¾ýÏëÒªÓëÄãÇÐ´è£¬ÄãÊÇ·ñÍ¬Òâ(answer yes/no)£¿
+ºãÉ½¸®¾ý´óÐ¦µÀ£º¡¸ºÃºÃºÃ£¡ÄãºÍÎÒµÄ»ÃÏóÍ´Í´¿ì¿ì´òÉÏÒ»³¡£¡¡¹
+
+> kill hengshan fujun-shadow
+
+Äã¶Ô×ÅºãÉ½¸®¾ý--»ÃºÈµÀ£º¡¸ÀÏÆ¥·ò£¡Ã÷Äê½ñÈÕ¾ÍÊÇÄãµÄ¼ÉÈÕ£¡¡¹
+
+ºãÉ½¸®¾ý--»ÃºíÖÐ¿©¿©×÷Ïì£¬ÃæÉÏ¾¡ÊÇ²»¸ÊÖ®É«£¬ÖÕÓÚµ¹ÁËÏÂÈ¥¡£ 
+
+> report
+
+ºãÉ½¸®¾ýÐ¦µÀ£º¡¸¹ûÈ»ºÜÓÐ³ÏÒâ£¬¹ûÕæÊÇÑÖÍõÆõµÄÓÐÔµÈË£¡¡¹
+ºãÉ½¸®¾ýÓÖµÀ£º¡¸±¾¸®¾ý×îÖØÉñ±øÖ®¼¼£¬Äã±ØÐëÏ×¼À(offer)Ò»ÃÅ±øÆ÷¼¼ÄÜ¡£¡¹
+
+> offer lonely-sword 3150 ÎäÆ÷
+ÄãÂÔÒ»³ÁË¼µÀ£º¡¸¼ÈÈ»Èç´Ë£¬ÎªÏÔ³ÏÒâ£¬ÎÒ¾ö¶¨Ï×¼À¶À¹Â¾Å½£3150¼¶¡£¡¹
+
+
+ºãÉ½¸®¾ýÂúÒâµÀ£º¡¸Õâ±ã³ÉÁË¡£±¾¸®¾ý¹¦³ÉÉíÍË£¬Ð¡ÓÑ¶à¶à±£ÖØ¡£¡¹
+ºãÉ½¸®¾ý»¯×öÒ»ÕóÇåÑÌÏûÊ§£¬×ªË²±ãÒÑÆ®ÃìÎÞ×Ù¡£
+ÊÚ°¸»¯×öÒ»ÕóÇåÑÌÏûÊ§£¬×ªË²±ãÒÑÆ®ÃìÎÞ×Ù¡£
+
+
+3.»ªÉ½Ï×¼À
+
+{rideto huashan;su;su;eu;eu;su;eu;eu;su;su;su;su;su;eu;n;nw;ne;wu;u}
+
+»ªÉ½¼ÀÌ³
+    ÕâÀïÎ¨Ò»µÄ³ö¿ÚÊÇ down¡£
+  ÇàÍ­¶¦ÏãÂ¯(xiang lu)
+
+> put magic xiang in xiang lu
+Äã½«ÕÙÉñÏã²å½øÍ­¶¦ÏãÂ¯Àï£¬µ­µ­µÄÏãÎ¶ÃÖÂþ×ÅËÄÖÜ¡£
+»ªÉ½¸®¾ýHuashan fujunËµµÀ£º¡¸ºÎ·½À´ÈË£¬¶·µ¨ºô»½±¾¾ýÏÖÉí£¿¡¹
+
+> ask fujun offer
+ÄãÏò»ªÉ½¸®¾ý´òÌýÓÐ¹Ø¡ºoffer¡»µÄÏûÏ¢¡£
+»ªÉ½¸®¾ýÑÈµÀ£º¡¸¼ÈÊÇÉí»³ÑÖÍõÆõ£¬±¾¸®¾ýÕâ±ã¸øÄãÒ»¸ö»ú»á°É¡£¡¹
+»ªÉ½¸®¾ýµÍÍ·ÉòÒ÷Æ¬¿ÌÓÖµÀ£º¡¸×ªÉú·ÇÍ¬Ñ°³££¬·ÇÓÐ¹ýÈËÖ®µ¨Ê¶ÔËÆø£¬²»ÄÜ³É´Ë´óÊÂ£¬ÎÒÕâ±ã´ý¿¼ÑéÄãÒ»·¬¡£¡¹
+»ªÉ½¸®¾ýÐøµÀ£º¡¸ÄãÎÒÒÔËùÑ§Ö®Îä¹¦×÷Îª¶Ä×¢£¬ÎÒÃÇÀ´ºÀ¶ÄÒ»³¡ÈçºÎ£¿¡¹
+»ªÉ½¸®¾ýÏëÒªÓëÄã¶Ä²©£¬ÄãÊÇ·ñÍ¬Òâ(answer yes/no)£¿
+> answer yes
+»ªÉ½¸®¾ý´óÐ¦µÀ£º¡¸ºÃºÃºÃ£¡¹ûÈ»ÓÐ¹ýÈËÖ®µ¨Ê¶£¡
+»ªÉ½¸®¾ýÌÍ³öÒ»Ã¶Í­Ç®ÍùÉÏÒ»Å×£¬Ö»¼ûÍ­Ç®·­×ª²»Ö¹ºóÂäÈë»ªÉ½¸®¾ýÕÆÖÐ£¬Ëæ¼´±ã±»½ô½ô¸Ç×¡¡£
+»ªÉ½¸®¾ýµÀ£º¡¸ÄÃ(wager)Ò»ÃÅÏñÑùµÄ¼¼ÒÕ³öÀ´£¬È»ºó²Â²Â(guess)ÊÇÕýÃæ(front)»¹ÊÇ·´Ãæ(back)£¿²Â¶ÔÈý´Î±ãËãÄã¹ý¹Ø¡£¡¹
+
+> wager damo-jian
+
+Äã´óÐ¦µÀ£º¡°ºÃ°É£¬ÄÇÎÒ¾ÍÄÃÎÒËùÑ§´ïÄ¦½£×÷Îª¶Ä×¢¡£¡±
+> guess back
+Äã½Ó×ÅµÀ£º¡°ÎÒ¶ÄÍ­°åÊÇ back ÏòÉÏ¡£¡±
+»ªÉ½¸®¾ý½«ÊÖÕÆÌ¯¿ª£¬Í­°åÊÇÕýÃæ(front)ÏòÉÏ¡£
+»ªÉ½¸®¾ýÐ¦µÀ£º¡¸¿´À´ÄãÔËÆø²»¼Ñ°¡£¬Ã»ÊÂ£¬ÎÒÃÇÔÙÀ´£¡¡¹
+»ªÉ½¸®¾ýÁè¿ÕÒ»ÌÍ£¬ÄãºöÈ»¾õµÃ×Ô¼ºÉíÉÏÉÙÁËÊ²Ã´¡£
+
+> wager huashan-sword
+Äã´óÐ¦µÀ£º¡°ºÃ°É£¬ÄÇÎÒ¾ÍÄÃÎÒËùÑ§»ªÉ½½£·¨×÷Îª¶Ä×¢¡£¡±
+¡¾ÐÅÏ¢ÆµµÀ¡¿ÈÎÎñ¾«Áé£ºÌýËµµ±ÈýÃ×(qmmiii)ÔÚÎÄ¶¨±±½ÖÎªÁù´óÃÅÅÉ»÷±ÐÁËÏîÃ÷¡£
+> guess back
+Äã½Ó×ÅµÀ£º¡°ÎÒ¶ÄÍ­°åÊÇ back ÏòÉÏ¡£¡±
+»ªÉ½¸®¾ý½«ÊÖÕÆÌ¯¿ª£¬Í­°åÊÇ·´Ãæ(back)ÏòÉÏ¡£
+»ªÉ½¸®¾ýµÀ£º¡¸ÄãÊ¤ÁËÒ»ÌË¡£¡¹
+> guess back
+Äã½Ó×ÅµÀ£º¡°ÎÒ¶ÄÍ­°åÊÇ back ÏòÉÏ¡£¡±
+»ªÉ½¸®¾ý½«ÊÖÕÆÌ¯¿ª£¬Í­°åÊÇ·´Ãæ(back)ÏòÉÏ¡£
+»ªÉ½¸®¾ýµÀ£º¡¸²»´í²»´í£¬ÄãÊ¤ÁËÁ½ÌË¡£¡¹
+> guess back
+Äã½Ó×ÅµÀ£º¡°ÎÒ¶ÄÍ­°åÊÇ back ÏòÉÏ¡£¡±
+»ªÉ½¸®¾ý½«ÊÖÕÆÌ¯¿ª£¬Í­°åÊÇ·´Ãæ(back)ÏòÉÏ¡£
+»ªÉ½¸®¾ýÐ¦µÀ£º¡¸½­É½´úÓÐ²ÅÈË³ö£¬¹ûÕæÊÇÑÖÍõÆõµÄÓÐÔµÈË£¡¡¹
+»ªÉ½¸®¾ýÓÖµÀ£º¡¸±¾¸®¾ý×îÖØÊÖÉÏ¹¦·ò£¬Äã±ØÐëÏ×¼À(offer)Ò»ÃÅ¿ÕÊÖÎä¼¼¡£¡¹
+
+> offer longzhua-gong 2300 ¿ÕÊÖ
+ÄãÂÔÒ»³ÁË¼µÀ£º¡¸¼ÈÈ»Èç´Ë£¬ÎªÏÔ³ÏÒâ£¬ÎÒ¾ö¶¨Ï×¼ÀÁú×¦¹¦2300¼¶¡£¡¹
+»ªÉ½¸®¾ýÁè¿ÕÒ»ÌÍ£¬ÄãºöÈ»¾õµÃ×Ô¼ºÉíÉÏÉÙÁËÊ²Ã´¡£
+»ªÉ½¸®¾ýµãÍ·µÀ£º¡¸Èç´ËÉõºÃ£¬ÎÒÕâ±ã¼ÇÔØµ½ÑÖÍõÆõÉÏ¡£¡¹
+Ö»¼û»ªÉ½¸®¾ýà«à«ÓÐ´Ê£¬Õ§Ê±É½á°ÂÒ¶¯¡¢ÔÆ¼äÒç³ö¹âÃ¢£¬Ö»¼ûÒ»ÊÚ°¸Æ®È»¶øÏÂ£¬ÆäÉÏÎÄ·¿ËÄ±¦Ò»Ó¦¾ãÈ«¡£
+»ªÉ½¸®¾ýÌá±Ê»ÓÈ÷£¬Ö»¼ûË¿Ë¿×Ï¹âÉøÈëÑÖÍõÆõÉÏ£¬Æ¬¿Ì¼´³É¡£
+»ªÉ½¸®¾ýÂúÒâµÀ£º¡¸Õâ±ã³ÉÁË¡£±¾¸®¾ý¹¦³ÉÉíÍË£¬Ð¡ÓÑ¶à¶à±£ÖØ¡£¡¹
+»ªÉ½¸®¾ý»¯×öÒ»ÕóÇåÑÌÏûÊ§£¬×ªË²±ãÒÑÆ®ÃìÎÞ×Ù¡£
+ÊÚ°¸»¯×öÒ»ÕóÇåÑÌÏûÊ§£¬×ªË²±ãÒÑÆ®ÃìÎÞ×Ù¡£
+
+
+4.Ì©É½Ï×¼À
+
+{rideto taishan;#3 n;#4 nu;n;n;nu;nu;n;n;nu;nu;wu;nu;n;n;wu;wu;nw;#9 nu;se;}
+É±µôÀ¹Â·µÄÖ®ºóÔÚ×ß
+{ed;ed;e;e;u}
+
+Ì©É½¼ÀÌ³ - (ÄãÄ¿Ç°ÔÚÎ´ÖªÇøÓò)
+    ÎåÔÀÖ®¶«ÔÀÌ©É½¼ÀÌ³´¦£¬¼ÀÌ³ÉÏÓÐÇàÍ­¶¦ÏãÂ¯Ò»×ù£¬ÖÕÄêÏã»ð²»Ãð£¬
+ÈôÉíÓÐÑÖÍõÆõ£¬µãÉÏÕÙÉñÏã£¬Ôò¿ÉÕÙ»½¡¸Ì©É½¸®¾ý¡¹³öÏÖ¡£¡£
+    Ì«ÑôÕýÔÚÎ÷·½µÄÌì¿ÕÖÐ¹Â¶ÀµØõÜõî¡£
+    ÕâÀïÎ¨Ò»µÄ³ö¿ÚÊÇ down¡£
+  ÇàÍ­¶¦ÏãÂ¯(xiang lu)
+
+put magic xiang in xiang lu
+
+Äã½«ÕÙÉñÏã²å½øÍ­¶¦ÏãÂ¯Àï£¬µ­µ­µÄÏãÎ¶ÃÖÂþ×ÅËÄÖÜ¡£
+Ì©É½¸®¾ýTaishan fujunËµµÀ£º¡¸ºÎ·½À´ÈË£¬¶·µ¨ºô»½±¾¾ýÏÖÉí£¿¡¹
+
+Ì©É½¼ÀÌ³ - (ÄãÄ¿Ç°ÔÚÎ´ÖªÇøÓò)
+    ÎåÔÀÖ®¶«ÔÀÌ©É½¼ÀÌ³´¦£¬¼ÀÌ³ÉÏÓÐÇàÍ­¶¦ÏãÂ¯Ò»×ù£¬ÖÕÄêÏã»ð²»Ãð£¬
+ÈôÉíÓÐÑÖÍõÆõ£¬µãÉÏÕÙÉñÏã£¬Ôò¿ÉÕÙ»½¡¸Ì©É½¸®¾ý¡¹³öÏÖ¡£¡£
+    Ð¡ÓêÕýäÀÁ¤Á¤µØÏÂ×Å¡£
+    ÕâÀïÎ¨Ò»µÄ³ö¿ÚÊÇ down¡£
+  ¶«ÔÀ Ì©É½¸®¾ý(taishan fujun)
+  ÇàÍ­¶¦ÏãÂ¯(xiang lu)
+ask fujun offer
+answer yes
+ÄãÏòÌ©É½¸®¾ý´òÌýÓÐ¹Ø¡ºoffer¡»µÄÏûÏ¢¡£
+Ì©É½¸®¾ýÑÈµÀ£º¡¸¼ÈÊÇÉí»³ÑÖÍõÆõ£¬±¾¸®¾ýÕâ±ã¸øÄãÒ»¸ö»ú»á°É¡£¡¹
+Ì©É½¸®¾ýµÍÍ·ÉòÒ÷Æ¬¿ÌÓÖµÀ£º¡¸×ªÊÀÖ®ÊÂ·ÇÍ¬Ð¡¿É£¬³É·ð³ÉÄ§Ò»ÄîÖ®¼ä£¬ÉÔÓÐ²»É÷±ãµøÈëÊ®°Ë²ãµØÓüÓÀÊÀ²»µÃ³¬Éú¡£¡¹
+Ì©É½¸®¾ýÐøµÀ£º¡¸ÄãÏë×ªÊÀ±ØÐëÏÈÕ½Ê¤×Ô¼ºµÄÐÄÄ§·½¿É£¡¡¹
+Ì©É½¸®¾ýÏëÒªÄã½øÈë»Ã¾³È¥Õ½Ê¤ÐÄÄ§£¬ÄãÊÇ·ñÍ¬Òâ(answer yes/no)£¿
+Ì©É½¸®¾ýµ­È»µÀ£º¡¸¼ÈÈ»Èç´Ë£¬±¾¸®¾ý¾ÍËÍÄã½øÈë»Ã¾³£¬ÄãÖ»ÓÐÔÚÆß·ÖÖÓÊ±¼ä¡£
+Õ½Ê¤ÐÄÄ§ºó»ØÀ´±¨¸æ(report)ÎÒ£¬ÎÒÒ²Ö»µÈÄãÆß·ÖÖÓ¡£¡¹
+Ò»µÀºì¹âÕÕ×ÅÄã£¬ºì¹âÍËÈ¥£¬·¢ÏÖÄã²»¼ûÁË£¡
+»Ã¾³Èë¿Ú
+    ÕâÀïÃ÷ÏÔµÄ³ö¿ÚÊÇ south ºÍ north¡£
+ÄãÀ´µ½»Ã¾³¡£¡£
+
+ÓÃmazemap¿´µØÍ¼£¬×ßÃÔ¹¬À´µ½ÐÄÄ§Éî´¦£¬ÔÚÃÔ¹¬µÄ×óÏÂ½Ç
+
+ÐÄÄ§Éî´¦
+    ÕâÀïÃ÷ÏÔµÄ³ö¿ÚÊÇ south¡¢north¡¢east ºÍ west¡£
+  ÎåÎ»»ÃÏó(shadow)
+  ÐÄÄ§(xinmo)
+¿´ÆðÀ´Ð¡Ð¡--Ä§ÏëÉ±ËÀÄã£¡
+¿´ÆðÀ´Ð¡Ð¡--»ÃÏëÉ±ËÀÄã£¡
+¿´ÆðÀ´Ð¡Ð¡--»ÃÏëÉ±ËÀÄã£¡
+¿´ÆðÀ´Ð¡Ð¡--»ÃÏëÉ±ËÀÄã£¡
+ÎäÃí
+    ÕâÀïÃ÷ÏÔµÄ³ö¿ÚÊÇ east¡¢northwest ºÍ up¡£
+  ÎäÁÖÌ©¶·¡¸ÌìÏÂÖÁÏÍ¡¹ÄÏÏÍ(nan xian)
+  ¹¦µÂÏä(gongde xiang)
+
+> give nan contract
+ÄãÄÃ³öÑÖÍõÆõ(contract)¸øÄÏÏÍ¡£
+ÄÏÏÍµãÁËµãÍ·µÀ£º¡¸¹ûÕæÊÇÓÐÐÄÈË£¬¾¹ÄÜÞß¹ýÎåÔÀÉ½¾ýÄÇ°ãÌôÌÞÕÛÄ¥£¬À´£¬ÔÚÕâÀï¸Ç¸öÑªÖ¸Ó¡¡£¡¹
+ÄãÒÀ´ÓÄÏÏÍÖ¸Ê¾£¬Ò§ÆÆÄ´Ö¸£¬ÔÚÑÖÍõÆõÉÏ¸ÇÉÏÑªÖ¸Ó¡¡£
+Ö»¼ûÑÖÍõÆõ(Contract)Í»Éú×Ï¹â£¬ÑªÖ¸Ó¡ÅÔÆ¾¿ÕÏÖ³öÁËÄãµÄÃû×Ö¡£
+ÄÏÏÍÐøµÀ£º¡¸ËÙÈ¥À¥ÂØÖ®áÛÑ°ÄÇÀ¥ÂØ¾µ£¬½«ÑÖÍõÆõÍ¶ÈëÆäÖÐ£¬·½¿É»ñµÃÈâÉíÈëµØÓüÃæ¼ûÑÖÍõÖ®×Ê¸ñ¡£Â·³ÌÏÕ¶ñ£¬Îñ±ØÐ¡ÐÄ¡£¡¹
+ÄÏÏÍ½«·º×Ï¹âµÄÑÖÍõÆõ(Contract)»¹¸øÄã¡£
+
+
+½ÓÏÂÀ´¾ÍÒª¿ªÊ¼µØ¸®µÄ¾çÇéÁË¡£
+
+{rideto mingjiao;nw;w;w;wu;nu;w;nw;w;sw;sw;u;xia}
+
+
+À¥ÂØÖ®áÛ
+    ÕâÀïÎ¨Ò»µÄ³ö¿ÚÊÇ down¡£
+
+> throw contract
+
+Äã½«·º×Ï¹âµÄÑÖÍõÆõ(Contract)ÖÀÏòÄÇ±ù±Ú£¬ÑÖÍõÆõÃ»ÈëÆäÖÐ¡¢¾¹¶ûÏûÊ§²»¼û¡£
+Ö»¼û±¾¾ÍÆ½»¬µÄ´ó±ù±ÚÓú¼û¹â½à¡¢¶øºó½¥½¥Í¸Ã÷£¬½¥½¥»¯×÷ÁËË®Òø¾µ°ãµÄÄ£Ñù£¬
+Ô­À´ÕâÕýÊÇÍ¨ÍùµØÓüµÄÍ¨µÀ£º¡¸À¥ÂØ¾µ¡¹(enter mirror)¡£
+
+> enter mirror
+
+Äã½÷É÷¾Ù²½£¬»º»º×ßÈëÁËÀ¥ÂØ¾µÖÐ¡£
+Ö»¼ûËÄÖÜ¾ãÊÇÎå²Ê¹åÀö¾°Ïó£¬ÈçÁÙÏÉ¾³£¬ºÃ°ëÉÎºóÄã²Å»Ø¹ýÉñ¡¢×ß³öËíµÀ£¬À´µ½ÓÄÚ¤½ç¡£
+ÓÄÚ¤½ç
+    ÕâÀïÃ÷ÏÔµÄ³ö¿ÚÊÇ south ºÍ north¡£
+¡¾×ªÊÀÖØÉú¡¿µØ¸®£ºÐ¡Ð¡(fjfj)½øÈëÓÄÚ¤½ç£¬ÓûÌôÕ½ÓÄÚ¤µØ¸®¿¼Ñé£¬»»È¡×ªÊÀÆæÔµ£¡
+
+> n
+
+ÓÄÚ¤µî
+    ÕâÀïÃ÷ÏÔµÄ³ö¿ÚÊÇ north ºÍ south¡£
+  Ú¤¸®µØ²ØÍõµîÇ°¡¸ÒõË¾×Ü¹Ü¡¹Ê®µîÑÖÂÞ(shidian yanluo)
+  Ú¤¸®µØ²ØÍõµîÇ°¡¸ÒõÍõ¡¹Òõ³¤Éú(yin changsheng)
+  Ú¤¸®µØ²ØÍõµîÇ°¡¸¹íÍõ¡¹Íõ·½Æ½(wang fangping)
+
+> ask yanluo ÈÎÎñ
+ÄãÏòÊ®µîÑÖÂÞ´òÌýÓÐ¹Ø¡ºÈÎÎñ¡»µÄÏûÏ¢¡£
+
+Ê®µîÑÖÂÞ×ÐÏ¸µÄ´òÁ¿ÁËÄãºÃÒ»Õó¡£
+Ê®µîÑÖÂÞShidian yanluoËµµÀ£º²»´í£¬²»´í¡£
+
+ÄãÔ¸Òâ½ÓÊÜ(accept)Ê®µîÑÖÂÞµÄÇëÇóÂð£¿
+> accept
+
+Äã¾ö¶¨°ïÖúÊ®µîÑÖÂÞÑ°ÕÒËøÑôµ¤µÄËÄÖÖÔ­ÁÏ¡£
+
+Ê®µîÑÖÂÞ¡¸¹þ¹þ¹þ¡¹´óÐ¦¼¸Éù¡£
+Ê®µîÑÖÂÞ¶ÔÄãËµµÀ£ºÄÇÀÏ·ò¾Í¶àÐ»Ð»ÄãÁË¡£
+
+Ê®µîÑÖÂÞËæÊÖÒ»»Ó£¬µÇÊ±±ä³öÒ»´ó¶Ñ½ð×Ó£¬µÝ¸øÄã¡£
+Ê®µîÑÖÂÞËµµÀ£ºÄãÑô¼äµÄÎäÆ÷ÔÚÕâÀïÕÙ»½²»»ØÀ´£¬ÕâÀïµÄ»Æ½ð×ã¹»Äã¹ºÂòÎä¾ß¡£
+
+Äã»ñµÃÁËÒ»Ç§Á½»Æ½ð¡£
+
+> ask yanluo ÷è÷ëÑ¥
+ÄãÏòÊ®µîÑÖÂÞ´òÌýÓÐ¹Ø¡º÷è÷ëÑ¥¡»µÄÏûÏ¢¡£
+Ê®µîÑÖÂÞ¶ÔÄãËµµÀ£ºÄÇÊÇµØ²ØÍõµÄ¶«Î÷£¬ÎÒÒ²Ö»ÇÆ¼û¹ýÒ»´Î¡£
+> n
+ÑÖÂÞµî
+    ÕâÀïÃ÷ÏÔµÄ³ö¿ÚÊÇ north¡¢south¡¢east ºÍ west¡£
+  ÓÄÚ¤Ö®Ö÷ µØ²ØÍõ(dizang)
+
+> ask dizang ÷è÷ëÑ¥
+ÄãÏòµØ²ØÍõ´òÌýÓÐ¹Ø¡º÷è÷ëÑ¥¡»µÄÏûÏ¢¡£
+µØ²ØÍõµãµãÍ·µÀ£º¡°ºÃ£¬¼ÈÈ»ÄãÊÇÎªÁËÀÏ·òµÄËøÑôµ¤Ö®ÊÂ£¬ÀÏ·ò¾Í½è¸øÄã°É£¡¡±
+
+
+
+ËøÑôµ¤ÐèÒª4ÖÖ²ÄÁÏ
+
+
+
+1.ÐþÎä¼×¿Ç£ºyanluo,n,n,d  kill xuan wu   £¨Ñª³ØµØÓü£¬±ØÐë´©ÉÏ÷è÷ëÑ¥£©
+
+Ñª³ØµØÓü
+    ÕâÀïÎ¨Ò»µÄ³ö¿ÚÊÇ up¡£
+  ÉñÊÞ ÐþÎä(xuan wu)
+
+Äã´ÓÐþÎäµÄÊ¬ÌåÉÏ³ýÏÂÁËÒ»¿éÐþÎä¼×¿Ç¡£
+ÓÉÓÚÄãÕ¶É±ÉñÊÞÐþÎä£¬Äã»ñµÃÁËÈýÇ§Ò»°ÙÎåÊ®¶þµã¾­ÑéºÍÎå°ÙÁãËÄµãÇ±ÄÜ¡£
+
+ÐþÎäÆËÔÚµØÉÏÕõÔúÁË¼¸ÏÂ£¬ÍÈÒ»Éì£¬¿ÚÖÐÅç³ö¼¸¿ÚÏÊÑª£¬ËÀÁË£¡
+
+2.ÖìÈ¸Óð£ºÏÈÈ¥µ½Ûº¶¼³ÇÃÅ(niutou,s),look shibei 4ÏÂ£¬¾Í»á¼ûµ½ÇØ¹ãÍõ³öÀ´ÁË£¬
+É±µô£¬È»ºóµÃµ½¸öÆßÉ«è¬çóÔÙ»ØÈ¥yanluo,n,w,Ò»Ö±up£¬¼ûµ½ÂíÃæ£¬É±ÁË£¬ÔÙÏòÉÏ×ß£¬
+È»ºóput qise yinluo£¬ÖìÈ¸¾Í³öÀ´ÁË,kill µÃµ½ÖìÈ¸ÓðÃ« 
+
+
+ÓÄÚ¤½ç - (ÄãÄ¿Ç°ÔÚ¹íÃÅ¹Ø)
+    ÓÄÚ¤½ç£¬ÄãÒÉÐÄÔõÃ´´ÓÛº¶¼×ßµ½ÕâÀïÀ´ÁËµÄ¡£ËÄ´¦ÃÖÂþ×ÅÅ¨ºñµÄÑÌ
+Îí£¬ÄãÊ²Ã´Ò²¿´²»Çå³þ£¬¿ÕÖÐ¸¡¶¯×ÅÈôÒþÈôÏÖµÄ¹í»ð£¬ÖÜÎ§ËÆºõÓÐÒ»Ë«
+Ë«ÑÛ¾¦¶¢×ÅÄã¿´£¬Äã×ßÁË¼¸²½£¬¿´¼ûµØÉÏÐ±²å×ÅÒ»¿éÊ¯±®(shibei)£¬Äã
+Á¬Ã¦¸©ÉíÏÂÈ¥¿´ÉÏÃæµÄ×Ö¡£
+
+    ÕâÀïÃ÷ÏÔµÄ³ö¿ÚÊÇ south ºÍ north¡£
+  Ú¤¸®µØ²ØÍõµîÇ°¡¸»êÍõ¡¹ÇØ¹ãÍõ(qin guangwang)
+  ËÄÎ»(¹íÆø) Íö»ê(ghost)
+> kill qin
+
+Äã¶Ô×ÅÇØ¹ãÍõºÈµÀ£º¡¸ÀÏ²»ËÀ£¡Ã÷Äê½ñÈÕ¾ÍÊÇÄãµÄ¼ÉÈÕ£¡¡¹
+
+ÇØ¹ãÍõQin guangwangËµµÀ£º¼ÈÈ»×³Ê¿Èç´Ë±ÆÆÈ£¬Äª¹ÖÔÚÏÂ²»ÁôÇé£¡
+
+ÇØ¹ãÍõÆËÔÚµØÉÏÕõÔúÁË¼¸ÏÂ£¬ÍÈÒ»Éì£¬¿ÚÖÐÅç³ö¼¸¿ÚÏÊÑª£¬ËÀÁË£¡
+
+> get qise yinluo from corpse
+Äã´ÓÇØ¹ãÍõµÄÊ¬ÌåÉíÉÏËÑ³öÒ»¿éÆßÉ«è¬çó¡£
+
+ÒõÑôËþ
+    ÕâÀïÎ¨Ò»µÄ³ö¿ÚÊÇ down¡£
+
+> put qise yinluo
+
+ÄãÄãÐ¡ÐÄÒíÒíµÄ½«ÖÁ±¦ÆßÉ«è¬çó·Åµ½¹©·îÌ¨£¬¿ªÊ¼Ä¿²»×ª¾¦µÄÑ°ÕÒÖìÈ¸¡£
+
+ÉñÊÞÖìÈ¸ÊÜµ½ÖÁ±¦ÆßÉ«è¬çóµÄÕÐÒý£¬Í»È»³öÏÖÔÚ¹©·îÌ¨£¬Äã¶ÙÊ±´óÏ²£¡
+
+
+Äã´ÓÖìÈ¸µÄÊ¬ÌåÉÏ°ÎÏÂÁËÒ»ÊøÓðÃ«¡£
+ÓÉÓÚÄãÕ¶É±ÉñÊÞÖìÈ¸£¬Äã»ñµÃÁËÈýÇ§Ò»°ÙËÄÊ®¶þµã¾­ÑéºÍÎå°ÙËÄÊ®¶þµãÇ±ÄÜ¡£
+
+ÖìÈ¸ÆËÔÚµØÉÏÕõÔúÁË¼¸ÏÂ£¬ÍÈÒ»Éì£¬¿ÚÖÐÅç³ö¼¸¿ÚÏÊÑª£¬ËÀÁË£¡
+
+3.°×»¢¹Ç£ºÕâ¸öÓÐµãÂé·³£¬yanluo n,e,nÀ´µ½ºÚÉ­ÁÖ£¬Ò»Â·Ïò±±×ß£¬°×»¢Ñ¨ÔÚµØÍ¼µÄ×î±±·½£¨¿ÉÒÔÓÃmaphere²é¿´²¿·ÖµØÍ¼£©
+É±ÍêÖ®ºóÒªÔ­Â··µ»Ø
+
+¡¾°×»¢Ñ¨¡¿
+    ÕâÀïÎ¨Ò»µÄ³ö¿ÚÊÇ south¡£
+  ÉñÊÞ °×»¢(bai hu)
+
+Äã´Ó°×»¢µÄÊ¬ÌåÉÏ³ýÏÂÁËÒ»¸ù»¢¹Ç¡£
+ÓÉÓÚÄãÕ¶É±ÉñÊÞ°×»¢£¬Äã»ñµÃÁËÈýÇ§ÁãÈýÊ®Èýµã¾­ÑéºÍÎå°ÙÁã¶þµãÇ±ÄÜ¡£
+
+°×»¢ÆËÔÚµØÉÏÕõÔúÁË¼¸ÏÂ£¬ÍÈÒ»Éì£¬¿ÚÖÐÅç³ö¼¸¿ÚÏÊÑª£¬ËÀÁË£¡
+
+4.ÇàÁúµ¨£¬yanluo,n,e,e,l duilian
+
+¡¾ÂÖ»ØµÀ¡¿
+    ÕâÀïÎ¨Ò»µÄ³ö¿ÚÊÇ west¡£
+
+> l duilian
+
+             ¡ù¡ù¡ù¡ù¡ù¡ù¡ù            ¡ù¡ù¡ù¡ù¡ù¡ù¡ù
+             ¡ù¡ù¡ù¡ù¡ù¡ù¡ù            ¡ù¡ù¡ù¡ù¡ù¡ù¡ù
+             ¡ù¡ù      ¡ù¡ù            ¡ù¡ù      ¡ù¡ù
+             ¡ù¡ù¡¡Ìì¡¡¡ù¡ù            ¡ù¡ù  Ñª  ¡ù¡ù
+             ¡ù¡ù¡¡ ¡¡ ¡ù¡ù            ¡ù¡ù      ¡ù¡ù
+             ¡ù¡ù  µØ  ¡ù¡ù            ¡ù¡ù  Âö  ¡ù¡ù
+Äã»°Òô¸ÕÂä£¬µØÃæÍ»È»¡¸ºäÂ¡Â¡¡¹»Î¶¯ÁË¼¸ÏÂ¡£ÇàÊ¯×À°¸±í²ãµÄÊ¯Ð¼µÇÊ±ÍÑÂä£¬Â¶³öÁËÒ»¸öÊ¯ÅÌ¡£ÑÖÂÞµî
+    ÕâÀïÃ÷ÏÔµÄ³ö¿ÚÊÇ north¡¢south¡¢east ºÍ west¡£
+  ÓÄÚ¤Ö®Ö÷ µØ²ØÍõ(dizang)
+
+> ask dizang ×ªÊÀÖØÉú
+ÄãÏòµØ²ØÍõ´òÌýÓÐ¹Ø¡º×ªÊÀÖØÉú¡»µÄÏûÏ¢¡£
+µØ²ØÍõµãµãÍ·µÀ£º¡°ºÃ£¬¼ÈÈ»Äã´³¹ýµØ¸®µÄ¿¼Ñé£¬ÀÏ·ò¾ÍËÍÄãÉÏÌì½çÖ±½ÓÃæ¼û·ð×æ£¡¡±
+µØ²ØÍõËæÊÖÒ»ÕÐ£¬Í»È»¹ÎÆðÒ»ÕóÒõ·ç£¬½«Äã´øµ½¼«ÀÖÊÀ½ç¡£
+¡¾¼«ÀÖÊÀ½ç¡¿
+  ·ð×æ¡¸Èý½ç·¨Íõ¡¹ÊÍåÈÄ²Äá(buddha)
+> ask buddha about ×ªÊÀÖØÉú
+ÄãÏòÊÍåÈÄ²Äá´òÌýÓÐ¹Ø¡º×ªÊÀÖØÉú¡»µÄÏûÏ¢¡£
+ÊÍåÈÄ²ÄáBuddhaËµµÀ£ºÄã¿ÉÊÇÒ²¶Ô´ËÉú¸Ðµ½À§»ó£¬ÏëÒªÌ½Ñ°ÈËÉúÕæÚÐÂð£¿
+ÊÍåÈÄ²ÄáBuddhaËµµÀ£ºÈôÒª×ªÉúÔòÄãÖ®ÎäÑ§¾Í½«¾¡»Ù£¬Äã¿ÉÔ¸Òâ£¿
+ÊÍåÈÄ²Äá¶ÔÄãµÀ£ºÈôÄãÐÄÒâÒÑ¾ö¾ÍÊäÈë decide °É£¡
+> decide
+·ð×æÔÚÄã¶ú±ßËµµÀ£ºÎÒ¸æËßÄãÒ»¾ä½ÒÓï£¬Äã¿É²ÎÎòÒ»ÏÂÊÇÉ¶ÒâË¼£¬
+À´ÊÀÄãÈôÓÐÔµÔÙ¼ûµ½ÎÒ£¬Æ¾´Ë½ÒÓïÎÒ»á¸øÄã¿ªÆôÇ°Éú¼ÇÒä£¡
+´Ë½ÒÓïÐëµ±½÷¼ÇÔÚÐÄ£¬ÇÐ¼ÇÇÐ¼Ç£¡
+
+·ð×æÔÚÄã¶ú±ßËµµÀ£¬¸øÄãµÄ½ÒÓïÊÇ£º£¨Õâ5¸ö×ÖÒ»¶¨Òª¼Ç×¡·ñÔòÎÞ·¨»Ö¸´×ªÊÀÇ°¼¼ÄÜ£¡£©
+¼ÇÏÂÁËÂð£¿ÎÒ¼´¿Ì¾ÍËÍÄãÈ¥Í¶Ì¥ÁË£¡
+
+½ÓÏÂÀ´¾ÍÒªÖØÐÂ×¢²áidÁË£¬¿ÉÒÔÈÎÒâ×¢²á
+ÕâÊ±ºòÔ­À´idµÄntµãÔÝÊ±²»ÄÜÊ¹ÓÃ£¬ËùÒÔ×îºÃÌáÇ°×¼±¸ºÃÒ»¸ö»ÆÁºÕíÔÚ´óÃ×ÉíÉÏ
+ÁíÍâ×ªÊÀµÄid¸úÇ°ÊÀ±ØÐëÐÔ±ðÒ»ÖÂ£¬»¹ÓÐÒ»¶¨ÒªÐÂ×¢²áµÄid£¬·ñÔò¿ÉÄÜ»áÀË·ÑÒ»¸öÕíÍ·¡£
+
+
+  »ÆÁºÕí(huangliang zhen)
+> l zhen
+¾ÝËµ´ø×ÅÕâ¸öÕíÍ·Ë¯¾õ(dream)¿ÉÒÔ½øÈëÃÎ¾³¡£
+
+ÕÒ¸ö¿ÉÒÔsleepµÄ·¿¼ä
+
+> dream
+
+Äãµ¹Í·Íù´²ÉÏÒ»ÌÉ£¬ºôºô´óË¯ÆðÀ´¡£
+
+Ë¯×ÅË¯×Å£¬ÄãµÄÉíÌåºöÈ»±äµÃÇáÆ®Æ®µØ·É×ßÁË¡£
+
+¡¾ÃÎ¾³¡¿ - (ÄãÄ¿Ç°ÔÚÎ´ÖªÇøÓò)
+    ÕâÀïÊÇÃÎ¾³¡£Äã¸Ð¾õµ½ÃÔÃÔºýºýµÄ£¬ÒâÊ¶ºÜ²»ÇåÎú¡£
+ËÄ´¦¶¼ÊÇ°×Ã£Ã£Ò»Æ¬£¬¿´Ê²Ã´¶¼²»ÕæÇÐ¡£
+  ·ð×æ¡¸Èý½ç·¨Íõ¡¹ÊÍåÈÄ²Äá(buddha)
+¿´ÆðÀ´Ð¡Ð¡--»ÃÏëÉ±ËÀÄã£
+¿´ÆðÀ´Ð¡Ð¡--»ÃÏëÉ±ËÀÄã£
+
+
+Ð¡Ð¡--Ä§ÆËÔÚµØÉÏÕõÔúÁË¼¸ÏÂ£¬ÍÈÒ»Éì£¬¿ÚÖÐÅç³ö¼¸¿ÚÏÊÑª£¬ËÀÁË£
+
+
+´òËÀÖ®ºó¿ÉÒÔ´Ó³ö¿Ú»òÕßÈë¿ÚÀë¿
+
+»Ã¾³³ö¿
+    ÕâÀïÃ÷ÏÔµÄ³ö¿ÚÊÇ north ºÍ south¡
+Ì©É½¼ÀÌ
+    ÕâÀïÎ¨Ò»µÄ³ö¿ÚÊÇ down¡
+  ¶«ÔÀ Ì©É½¸®¾ý(taishan fujun
+  ÇàÍ­¶¦ÏãÂ¯(xiang lu
+
+repor
+
+Ì©É½¸®¾ýÐ¦µÀ£º¡¸¹ûÈ»ºÜÓÐ³ÏÒâ£¬¹ûÕæÊÇÑÖÍõÆõµÄÓÐÔµÈË£¡¡
+Ì©É½¸®¾ýÓÖµÀ£º¡¸±¾¸®¾ý×îÖØÄÚ¹¦ÐÞÎª£¬Äã±ØÐëÏ×¼À(offer)Ò»ÃÅÌØÊâÄÚ¹¦¡£¡
+
+offer zixia-shengong 3380  forc
+
+ÄãÂÔÒ»³ÁË¼µÀ£º¡¸¼ÈÈ»Èç´Ë£¬ÎªÏÔ³ÏÒâ£¬ÎÒ¾ö¶¨Ï×¼À×ÏÏ¼Éñ¹¦3380¼¶¡£¡
+Ì©É½¸®¾ýÁè¿ÕÒ»ÌÍ£¬ÄãºöÈ»¾õµÃ×Ô¼ºÉíÉÏÉÙÁËÊ²Ã´¡
+Ì©É½¸®¾ýµãÍ·µÀ£º¡¸Èç´ËÉõºÃ£¬ÎÒÕâ±ã¼ÇÔØµ½ÑÖÍõÆõÉÏ¡£¡
+Ö»¼ûÌ©É½¸®¾ýà«à«ÓÐ´Ê£¬Õ§Ê±É½á°ÂÒ¶¯¡¢ÔÆ¼äÒç³ö¹âÃ¢£¬Ö»¼ûÒ»ÊÚ°¸Æ®È»¶øÏÂ£¬ÆäÉÏÎÄ·¿ËÄ±¦Ò»Ó¦¾ãÈ«¡
+Ì©É½¸®¾ýÌá±Ê»ÓÈ÷£¬Ö»¼ûË¿Ë¿×Ï¹âÉøÈëÑÖÍõÆõÉÏ£¬Æ¬¿Ì¼´³É¡
+Ì©É½¸®¾ýÂúÒâµÀ£º¡¸Õâ±ã³ÉÁË¡£±¾¸®¾ý¹¦³ÉÉíÍË£¬Ð¡ÓÑ¶à¶à±£ÖØ¡£¡
+Ì©É½¸®¾ý»¯×öÒ»ÕóÇåÑÌÏûÊ§£¬×ªË²±ãÒÑÆ®ÃìÎÞ×Ù¡
+ÊÚ°¸»¯×öÒ»ÕóÇåÑÌÏûÊ§£¬×ªË²±ãÒÑÆ®ÃìÎÞ×Ù¡
+
+
+5.áÔÉ½Ï×¼
+
+
+{rideto ruzhou;e;e;ne;n;n;n;nu;ne;u;nu;nu;nu;nu;wu;wu;wu;u
+áÔÉ½¼ÀÌ
+    ÕâÀïÎ¨Ò»µÄ³ö¿ÚÊÇ down¡
+  ÇàÍ­¶¦ÏãÂ¯(xiang lu
+
+put magic xiang in xiang l
+Äã½«ÕÙÉñÏã²å½øÍ­¶¦ÏãÂ¯Àï£¬µ­µ­µÄÏãÎ¶ÃÖÂþ×ÅËÄÖÜ¡
+
+ask fujun offe
+answer ye
+ÄãÏòáÔÉ½¸®¾ý´òÌýÓÐ¹Ø¡ºoffer¡»µÄÏûÏ¢¡
+áÔÉ½¸®¾ýÑÈµÀ£º¡¸¼ÈÊÇÉí»³ÑÖÍõÆõ£¬±¾¸®¾ýÕâ±ã¸øÄãÒ»¸ö»ú»á°É¡£¡
+áÔÉ½¸®¾ýÉòÒ÷Æ¬¿ÌÓÖµÀ£º¡¸±¾¸®¾ýÎÅµÃ½üÈÕÔÚÁøÂÌÉ½×¯³öÁËÒ»¼þÃÜ±¦ÆæÕä£¬ÄãÔÚÆßÈÕÖ®ÄÚÄÃÀ´¸ø±¾¸®¾ýÇÆÇÆ¡£¡
+áÔÉ½¸®¾ýÏëÒªÓëÄãÇ°ÍùÁøÂÌÉ½×¯ËÑÑ°ÃÜ±¦ÆæÕä£¬ÄãÊÇ·ñÍ¬Òâ(answer yes/no)£
+áÔÉ½¸®¾ý´óÐ¦µÀ£º¡¸ºÃ£¬ºÜºÃ£¡×³Ê¿»¹ÊÇ¿ìÈ¥°É£¡¡
+
+
+
+
+
+ÕâÀïÒª×¢Òâ£¬Èç¹ûÔÚÂÌÁøÉ½×¯×ßµ½¶´Ñ¨£¬Ö»ÄÜquit£¬ÉÏÏßºóÒª¼ÇµÃÔÙ´Îask fujun£¬·ñÔòÄÃ²»µ½ÃÜ±¦ÆæÕä£¡£¡£¡£¡£
+ÇÐ¼ÉÇÐ¼É£¡£
+
+
+
+
+{rideto kunlun;e;enter;wu;w;nw;n;n;xia;gonorth
+
+¡¾½­ºþ¹ÊÊÂ¡¿½­ºþ´«ÑÔ£ºÐ¡Ð¡ÔÚÄ³Ò»ÌìÍ»È»´³ÈëÁËÁøÂÌÉ½×¯¡
+ÁøÂÌÉ½×¯ÕýÃ
+    ÕâÀïÃ÷ÏÔµÄ³ö¿ÚÊÇ south ºÍ north¡
+ÄãÖÕÓÚÕÒµ½ÁË³ö¿Ú£¬À´µ½ÁËÂÌÁøÉ½×¯µÄÕýÃÅ¡
+> 
+ÁøÂÌÉ½×
+    ÕâÀïÃ÷ÏÔµÄ³ö¿ÚÊÇ south ºÍ north¡
+> 
+ÁøÂÌÉ½×
+    ÕâÀïÃ÷ÏÔµÄ³ö¿ÚÊÇ south ºÍ northwest¡
+
+> 
+ÆßÇú¾Å»ØÀ
+
+ÕâÀï±È½ÏÄÑ×ß£¬¿ÉÒÔÓÃmaphere²é¿´²¿·ÖµØÍ¼£¬Ò»Â·ÉÏ»áÓÐÃÉÃæÈË¹¥»÷Äã£¬ÕÒµ½É½×¯ÕýÌü£¬think,»á³öÏÖ¸ö»ú¹Ø£
+ÕâÀï»áÒªÇóÄãËãÒ»µÀËãÊõÌâ£¬Ëã¶ÔÁË²ÅÄÜ½øÈ¥½ÓÌìÂ
+
+
+
+½Ó Ìì Â
+    ÕâÀïÎ¨Ò»µÄ³ö¿ÚÊÇ down¡
+  ¡¸¶ñ¸«¡¹À×½ð²Ê(kuang ren
+  ¡¸ÎèÁø±Þ¡¹·Ñ°ÔÌì(kuang ren
+  ¶ÎÊÏ»Ê×å¸ßÊÖ Ð¦Ìì(xiao tian
+
+Ð¦ÌìÆËÔÚµØÉÏÕõÔúÁË¼¸ÏÂ£¬ÍÈÒ»Éì£¬¿ÚÖÐÅç³ö¼¸¿ÚÏÊÑª£¬ËÀÁË£
+
+
+ÄãÉíÉÏ´øÖøÏÂÁÐÕâÐ©¶«Î÷(¸ºÖØ 14%)£
+  ÃÜ±¦ÆæÕä(mibao qizhen
+
+É±ËÀÀïÃæµÄnpc,Ð¦Ìì£¬µÃµ½ÃÜ±¦ÆæÕä£¬È»ºóÇÐ¼Ç´Ó½ÓÌìÂ¥ÄÇÀïÒ»Ö±d£¬´ÓÃÜµÀ³öÀ´£¬²»È»³ö²»À
+
+áÔÉ½¼ÀÌ
+    ÕâÀïÎ¨Ò»µÄ³ö¿ÚÊÇ down¡
+  ÖÐÔÀ áÔÉ½¸®¾ý(songshan fujun
+  ÇàÍ­¶¦ÏãÂ¯(xiang lu
+
+give mibao qizhen to fuju
+ÄãÄÃ³öÃÜ±¦ÆæÕä(mibao qizhen)¸øáÔÉ½¸®¾ý¡
+áÔÉ½¸®¾ýÐ¦µÀ£º¡¸½­É½´úÓÐ²ÅÈË³ö£¬¹ûÕæÊÇÑÖÍõÆõµÄÓÐÔµÈË£¡¡
+áÔÉ½¸®¾ýÓÖµÀ£º¡¸±¾¸®¾ý×îÖØÈÍÁ¦£¬Äã±ØÐëÏ×¼À(offer)Ð©ÐíÄÚÁ¦¡£¡
+
+offer 100000
+ÄãÂÔÒ»³ÁË¼µÀ£º¡¸¼ÈÈ»Èç´Ë£¬ÎªÏÔ³ÏÒâ£¬ÎÒ¾ö¶¨Ï×¼À1000000µã×î´óÄÚÁ¦¡£¡
+áÔÉ½¸®¾ýÁè¿ÕÒ»ÌÍ£¬ÄãºöÈ»¾õµÃ×Ô¼ºÉíÉÏÉÙÁËÊ²Ã´¡
+áÔÉ½¸®¾ýµãÍ·µÀ£º¡¸Èç´ËÉõºÃ£¬ÎÒÕâ±ã¼ÇÔØµ½ÑÖÍõÆõÉÏ¡£¡
+°øÍíÁË£¬Ê÷ÉÏ¸Õ¸Õ·¢Ñ¿µÄÄÛÒ¶ÔÚ·çÖÐÒ¡ß®×Å¡
+Ö»¼ûáÔÉ½¸®¾ýà«à«ÓÐ´Ê£¬Õ§Ê±É½á°ÂÒ¶¯¡¢ÔÆ¼äÒç³ö¹âÃ¢£¬Ö»¼ûÒ»ÊÚ°¸Æ®È»¶øÏÂ£¬ÆäÉÏÎÄ·¿ËÄ±¦Ò»Ó¦¾ãÈ«¡
+áÔÉ½¸®¾ýÌá±Ê»ÓÈ÷£¬Ö»¼ûË¿Ë¿×Ï¹âÉøÈëÑÖÍõÆõÉÏ£¬Æ¬¿Ì¼´³É¡
+áÔÉ½¸®¾ýÂúÒâµÀ£º¡¸Õâ±ã³ÉÁË¡£±¾¸®¾ý¹¦³ÉÉíÍË£¬Ð¡ÓÑ¶à¶à±£ÖØ¡£¡
+áÔÉ½¸®¾ý»¯×öÒ»ÕóÇåÑÌÏûÊ§£¬×ªË²±ãÒÑÆ®ÃìÎÞ×Ù¡
+ÊÚ°¸»¯×öÒ»ÕóÇåÑÌÏûÊ§£¬×ªË²±ãÒÑÆ®ÃìÎÞ×Ù¡
+
+
+Èç´ËÎåÔÀ±ã¹ýÍêÁË¡£ÕâÊ±»¹µÃ°ÑÄÚÁ¦³ÔÆðÀ´£¬´ó¸Å40w-80w×óÓÒ£¬ÊÓ×ÔÉíÇé¿ö¶ø¶¨¡£
+Õâ¸öÊ±ºòÇ§Íò²»ÒªÍü¼Ç»Øµ½ÎäÃí°ÑÑÖÍõÆõ¸øÄÏÏÍ give contract to nan xian,¼ø¶¨Íê³ÉÈË¼äÄ¥Á·.
+
+
+             ¡ù¡ù      ¡ù¡ù            ¡ù¡ù      ¡ù¡
+             ¡ù¡ù  ±À  ¡ù¡ù            ¡ù¡ù  ³Ê  ¡ù¡
+             ¡ù¡ù      ¡ù¡ù            ¡ù¡ù      ¡ù¡
+             ¡ù¡ù  ÁÑ  ¡ù¡ù            ¡ù¡ù  ÏÖ  ¡ù¡
+             ¡ù¡ù      ¡ù¡ù            ¡ù¡ù      ¡ù¡
+             ¡ù¡ù  Ê±  ¡ù¡ù            ¡ù¡ù  ¼ä  ¡ù¡
+             ¡ù¡ù    ¡¡¡ù¡ù            ¡ù¡ù      ¡ù¡
+             ¡ù¡ù¡ù¡ù¡ù¡ù¡ù            ¡ù¡ù¡ù¡ù¡ù¡ù¡
+             ¡ù¡ù¡ù¡ù¡ù¡ù¡ù            ¡ù¡ù¡ù¡ù¡ù¡ù¡
+> do open door,ente
+Äã½«Í­ÃÅ´ò¿ª¡
+¡¾ÂÖ»ØË¾¡
+    ÕâÀïÎ¨Ò»µÄ³ö¿ÚÊÇ out¡
+
+> say ÌìµØ±ÀÁÑÊ
+
+Ö»ÌýÄãÃÍÈ»¸ßÉùºÈµÀ£º¡°ÌìµØ±ÀÁÑÊ±£¡¡
+
+
+
+> l lunpa
+Ò»¸öÊ¯ÖÆµÄÂÖÅÌ£¬ÉÏÃæÂúÊÇ»¨ÎÆ£¬ËÆºõ¿ÉÒÔ×ª¶¯¡
+> turn lunpan lef
+Äã½«ÂÖÅÌÏò×ó×ª¶¯ÁËÒ»È¦¡­¡­ºöÈ»¡¸¿¦¿¦¿¦¡¹¼¸ÉùÇáÏì£¬ÂÖÅÌÓÖ×ªÁË»ØÔ­Î»¡
+> turn lunpan lef
+Äã½«ÂÖÅÌÏò×ó×ª¶¯ÁËÒ»È¦¡­¡­ºöÈ»¡¸¿¦¿¦¿¦¡¹¼¸ÉùÇáÏì£¬ÂÖÅÌÓÖ×ªÁË»ØÔ­Î»¡
+> turn lunpan lef
+Äã½«ÂÖÅÌÏò×ó×ª¶¯ÁËÒ»È¦¡­¡­ºöÈ»¡¸¿¦¿¦¿¦¡¹¼¸ÉùÇáÏì£¬ÂÖÅÌÓÖ×ªÁË»ØÔ­Î»¡
+> turn lunpan righ
+Äã½«ÂÖÅÌÏòÓÒ×ª¶¯ÁËÒ»È¦¡­¡­ºöÈ»¡¸¿¦¿¦¿¦¡¹¼¸ÉùÇáÏì£¬ÂÖÅÌÓÖ×ªÁË»ØÔ­Î»¡
+> turn lunpan righ
+Äã½«ÂÖÅÌÏòÓÒ×ª¶¯ÁËÒ»È¦¡­¡­ºöÈ»¡¸¿¦¿¦¿¦¡¹¼¸ÉùÇáÏì£¬ÂÖÅÌÓÖ×ªÁË»ØÔ­Î»¡
+> turn lunpan righ
+Äã½«ÂÖÅÌÏòÓÒ×ª¶¯ÁËÒ»È¦¡­¡­ºöÈ»¡¸¿¦¿¦¿¦¡¹¼¸ÉùÇáÏì£¬ÂÖÅÌÓÖ×ªÁË»ØÔ­Î»¡
+
+Ê¯×ÀºöÈ»¡¸ÔþÔþÔþ¡¹Ò»ÕóÏì¶¯£¬ÏòÒ»²à»º»ºÒÆ¿ª£¬Ê¯×ÀÏÂ»íÈ»Â¶³öÒ»¸öºÚ¶´¶´µÄ½×ÌÝ¡
+
+¡¾ µØ Òõ ¡¿ - (ÄãÄ¿Ç°ÔÚ¹íÃÅ¹Ø
+   
+                       µØ            Ò
+
+    ÕâÀï±ãÊÇÒõ¼äµÄ×îÉî´¦¡¸µØÒõ¡¹£¬ÄãÃæÇ°ÊÇÒ»¸öÎÞµ×ÉîÔ¨£¬ÉîÔ¨Ä
+²àÐü¸¡×ÅÒ»¿éÑªºìÉ«µÄ¾Þ´ó¾§Ìå(jingti)£¬Ê±Ã÷Ê±°µ£¬É¢·¢³ö°µµ­µÄÑ
+ºìÉ«¹âÃ¢£¬Í¶Éä×ÅË¿Ë¿ÈÈÁ¿¡£Ò²ÐíÕâ¾Í´«ËµÖÐµÄ¡¸µØÒõÑªÂö¡¹°É¡
+
+    ÕâÀïÎ¨Ò»µÄ³ö¿ÚÊÇ up¡
+> look jingt
+Ò»¿éÑªºìÉ«µÄ¾Þ´ó¾§Ìå£¬·¢³öÑªÉ«¹âÃ¢£¬ÄãÈÌ²»×¡ÏëÇÃ(qiao)Ò»¿éÏÂÀ´¡
+> qiao jingt
+
+ÄãÒ»Ô¾¶øÆð£¬·ÉÉíÒ»ÕÆÅüÔÚÑªºìÉ«¾§ÌåÒ»²à¡
+Ö»¼û¾§ÌåÊÜÕð£¬¡¸¿¦àê¡¹Ò»Éù£¬Ò»Ð¡¿é¾§ÌåËéÆ¬ÂäÔÚÁËµØÉÏ¡
+> loo
+¡¾ µØ Òõ ¡¿ - (ÄãÄ¿Ç°ÔÚ¹íÃÅ¹Ø
+   
+                       µØ            Ò
+
+    ÕâÀï±ãÊÇÒõ¼äµÄ×îÉî´¦¡¸µØÒõ¡¹£¬ÄãÃæÇ°ÊÇÒ»¸öÎÞµ×ÉîÔ¨£¬ÉîÔ¨Ä
+²àÐü¸¡×ÅÒ»¿éÑªºìÉ«µÄ¾Þ´ó¾§Ìå(jingti)£¬Ê±Ã÷Ê±°µ£¬É¢·¢³ö°µµ­µÄÑ
+ºìÉ«¹âÃ¢£¬Í¶Éä×ÅË¿Ë¿ÈÈÁ¿¡£Ò²ÐíÕâ¾Í´«ËµÖÐµÄ¡¸µØÒõÑªÂö¡¹°É¡
+
+    ÕâÀïÎ¨Ò»µÄ³ö¿ÚÊÇ up¡
+  µØÒõÑªÂö(diyin xuemai
+> get al
+Äã¼ñÆðÒ»¿éµØÒõÑªÂö¡
+
+¡¾ÄÎºÓÇÅ¡¿ - (ÄãÄ¿Ç°ÔÚ¹íÃÅ¹Ø
+   
+                    ÄÎ         ºÓ         Ç
+
+    ÕâÀï¾ÍÊÇÖøÃûµÄÒõ¼äÍ¨µÀ¡¸ÄÎºÓÇÅ¡¹£¬ÔÚÄãÃæÇ°´£Á¢ÖøÒ»×ù³¤³¤µ
+Ê¯ÖÆ¹°ÇÅ£¬Ðí¶àÍö»êÕý¿Þ¿ÞÌäÌäµØÁÐ¶ÓÉÏÇÅ£¬ÇÅÍ·Ò»Î»°×·¢²Ô²ÔµÄÀÏ¸
+ÈË£¬ÕýÎªÃ¿Ò»¸öÉÏÇÅµÄÍö»êÒ¨×ÅÌÀ¡
+
+
+    ÕâÀïÎ¨Ò»µÄ³ö¿ÚÊÇ north¡
+  ÄÎºÓÇÅ¶ÉÕß ÃÏÆÅ(meng po
+  (¹íÆø) Íö»ê(ghost
+> tiao qia
+
+Ö»¼ûÄãÒ§ÁËÒ§ÑÀ£¬Ò»×ÝÉí´ÓÄÎºÓÇÅÉÏÌøÁËÏÂÈ¥¡­¡
+¡¾±ÌË®º®Ì¶¡
+    ÕâÀïÃ÷ÏÔµÄ³ö¿ÚÊÇ north¡¢south¡¢east ºÍ west¡
+Äã»³ÖÐµÄµØÒõÑªÂö·¢³öÒ»ÕóÕóÈÈÁ¿£¬»¤×¡ÁËÖÜÉíµÄ¾­Âö£
+
+Ö»Ìý¡°ÆËÍ¨¡±Ò»Éù£¬Äã´ÓÉÏÃæÄÎºÓÇÅÌøÁËÏÂÀ´¡
+> do n,s,w,n,n,s,
+> ente
+¡¾ÇàÁú¶´¡
+  Ë®Ôå(shui zao
+Äã»³ÖÐµÄµØÒõÑªÂö·¢³öÒ»ÕóÕóÈÈÁ¿£¬»¤×¡ÁËÖÜÉíµÄ¾­Âö£
+> xu
+
+Ö»Ìý¶´Ñ¨Éî´¦´«À´ÕðÌì¶¯µØµÄÒ»ÉùÅ­º¿£¬½ÐÉùÕðµÃÄãÁ½¶úºäÃù£¬¹ÄÄ¤ÒþÒþ×
+Í´¡£ÄãÖÜÎ§µÄ±ÌÌ¶º®Ë®¼±ËÙ¾í¶¯£¬¼¤ÆðÌÏÌì²¨ÀË£¬ÑÛÇ°Ò»»¨£¬Ò»¸öÅÓÈ»´óÎ
+³öÏÖÔÚÄãÃæÇ°£¬ËÄÉñÊÞÖ®Ê×µÄÇàÁúÖÕÓÚÏÖÉíÁË¡
+
+Äã´ÓÇàÁúµÄÊ¬ÌåÉÏ³ýÏÂÁËÒ»Ö»Áúµ¨¡
+ÓÉÓÚÄãÕ¶É±ÉñÊÞÇàÁú£¬Äã»ñµÃÁËÈýÇ§Ò»°ÙÁùÊ®µã¾­ÑéºÍÎå°ÙÁãÈýµãÇ±ÄÜ¡
+
+ÇàÁúÆËÔÚµØÉÏÕõÔúÁË¼¸ÏÂ£¬ÍÈÒ»Éì£¬¿ÚÖÐÅç³ö¼¸¿ÚÏÊÑª£¬ËÀÁË£
+
+> enter xuanw
+
+ÄãÄãÒ»×ÝÉí£¬Ìø½øÁËº®Á÷ÐýÎÐ¡­¡
+¡¾ÄÎºÓÇÅ¡
+    ÕâÀïÎ¨Ò»µÄ³ö¿ÚÊÇ north¡
+  ÄÎºÓÇÅ¶ÉÕß ÃÏÆÅ(meng po
+  (¹íÆø) Íö»ê(ghost
+
+Ö»¼ûÄã±»ÄÎºÓÇÅÏÂµÄº®Á÷ÐýÎÐÅ×µ½¿ÕÖÐ£¬È»ºóÖØÖØµÄµøÂäÔÚÄÎºÓÇÅÉÏ¡
+Äã±»µøµÃÍ·ÔÎÄ¿Ðý£¬Á½¶úºäÃù£¬¡°ÍÛ¡±µÄÅç³öÒ»´ó¿ÚÏÊÑª¡
+
+Äã»³ÖÐµÄµØÒõÑªÂöºÄ¾¡ÄÜÔ´£¬»¯×÷ÁËÒ»ÂÅÆøÌåÆ®³ö¡
+
+> drink bloo
+ÄãÒ»Ñö²±£¬½«Ò»ÕûÆ¿ÉñÊ¥ÑªÇåÒûÏÂ£¬ÔÙÒ²¸Ð¾õ²»µ½ÈÎºÎÆ£±¹¡
+
+ÓÄÚ¤µ
+    ÕâÀïÃ÷ÏÔµÄ³ö¿ÚÊÇ north ºÍ south¡
+  Ú¤¸®µØ²ØÍõµîÇ°¡¸ÒõË¾×Ü¹Ü¡¹Ê®µîÑÖÂÞ(shidian yanluo
+  Ú¤¸®µØ²ØÍõµîÇ°¡¸ÒõÍõ¡¹Òõ³¤Éú(yin changsheng
+  Ú¤¸®µØ²ØÍõµîÇ°¡¸¹íÍõ¡¹Íõ·½Æ½(wang fangping
+
+> give yanluo da
+ÄãÄÃ³öÁúµ¨(long dan)¸øÊ®µîÑÖÂÞ¡
+Ê®µîÑÖÂÞ¿´¼ûÁúµ¨£¬´óÏ²µÀ£ºÌ«ºÃÁË£¬ÕâÇàÁúµ¨µ½µ×»¹ÊÇÈÃÎÒµÃµ½ÁË¡
+> give yanluo g
+ÄãÄÃ³ö»¢¹Ç(hu gu)¸øÊ®µîÑÖÂÞ¡
+Ê®µîÑÖÂÞ¼ûÊÇ»¢¹Ç£¬´óÏ²µÀ£ºÌ«ºÃÁË£¬ÄÇ°×»¢ÔÙÀ÷º¦»¹²»ÊÇµÃ¹Ô¹ÔµÄ°Ñ¹ÇÍ·ËÍÉÏÀ´¡
+> give yanluo jiak
+ÄãÄÃ³öÐþÎä¼×¿Ç(xuanwu jiake)¸øÊ®µîÑÖÂÞ¡
+Ê®µîÑÖÂÞ¿´¼ûÐþÎä¼×¿Ç£¬´óÏ²µÀ£ººÃ£¡Ì«ºÃÁË£¬ÄÇ³ôÎÚ¹ê±»Äã¸ÉµôÁË°É£
+> give yanluo y
+ÄãÄÃ³öÖìÓð(zhu yu)¸øÊ®µîÑÖÂÞ¡
+Ê®µîÑÖÂÞ¼ûÊÇÖìÓð£¬´óÏ²µÀ£º¡°ÕâÏÂËÄÖÖÔ­ÁÏ¶¼ÒÑ±¸Æë£¬ÖÕÓÚ¿ÉÒÔ¿ªÊ¼Á¶ÖÆÀÏ´óÒªµÄËøÑôµ¤ÁË£¡¶à¿÷ÓÐÄãµ
+°ïÖú°¡£¬Õâ¸öÊÇÒÔÇ°ÎÒ´ÓÅîÀ³ÏÉÉ½µÃÀ´µÄ±¦Îï£¬Áô×ÅÒ²Ã»ÓÃ£¬¾Íµ±ÊÇ³êÀÍºÃÁË¡£¡
+
+Äã³É¹¦µÄÎªÊ®µîÑÖÂÞ±¸ÆëÁËËøÑôµ¤Ô­ÁÏ¡
+
+Äã»ñµÃÁËÊ®ÎåÍòÁãËÄ°ÙÁùÊ®¾Åµã¾­Ñé¡¢°ËÇ§Áù°ÙÊ®ÎåµãÇ±ÄÜÒÔ¼°Ê®°ËµãÁé»Û¡
+
+> ask yanluo about ×ªÊÀ
+ÄãÏòÊ®µîÑÖÂÞ´òÌýÓÐ¹Ø¡º×ªÊÀ¡»µÄÏûÏ¢¡
+Ê®µîÑÖÂÞË«ÊÖÅÄÁËÒ»ÏÂ£¬Äã½ÅÏÂÍ»È»ÏÝÁËÏÂÈ¥¡£¡£¡
+
+Äã¾õµÃ×Ô¼º²»¶ÏÏÂ½µ£¬ÖÜÎ§Ò»ÇÐ¶¼ÔÚÐý×ª¡£¡£¡
+
+
+                µØ        Óü        µ
+  µØÓüµÀÊØ»¤Õß µØÓüµÀ·ð(diyudao fo
+
+> fight diyudao f
+
+Äã¶ÔÖøµØÓüµÀ·ðËµµÀ£ºÔÚÏÂÐ¡Ð¡£¬Áì½ÌÀÏÒ¯×ÓµÄ¸ßÕÐ£
+
+
+ÄãË«ÊÖÒ»¹°£¬Ð¦ÖøËµµÀ£ºÖªµÀÎÒµÄÀûº¦ÁË°É£
+
+µØÓüµÀ·ð°¥Ñ½Ò»Éù£¬¶ÔÄãÅ­µÀ£º¡°Õâ´ÎËãÄã½ÄÐÒ£¬ÏÂ´Î¿ÉÃ»ÓÐÕâÃ´±ãÒËÁË£¡¡
+µØÓüµÀ·ðËµÍêËæÊÖÒ»»Ó£¬Ò»µÀÇ¿·ç°üÎ§Äã£¬Äã·¢ÏÖÀ´µ½ÁËÑÖÂÞµî£
+
+Ò»Ë²¼äÄã¾¹Æ®µ½ÁËÃÎ¾³Àï¡
+
+> ask buddha Ç°Ê
+ÄãÏòÊÍåÈÄ²Äá´òÌýÓÐ¹Ø¡ºÇ°ÊÀ¡»µÄÏûÏ¢¡
+ÊÍåÈÄ²ÄáÕý¶¢ÖøÄã¿´£¬²»ÖªµÀÔÚ´òÊ²Ã´Ö÷Òâ¡
+ÊÍåÈÄ²ÄáBuddhaËµµÀ£ºÄãÓëÎÒÇ°ÊÀÓÐÔµÂð
+ÊÍåÈÄ²ÄáBuddhaËµµÀ£ºÄã¿É¼ÇµÃÇ°ÊÀÄãÐÕÉõÃûË­£¬ÎÒ¸øÄãµÄ½ÒÓïÓÖÊÇÊ²Ã´£
+ÊÍåÈÄ²ÄáBuddhaËµµÀ£ºÈôÄãÄÜ´ðµÃÉÏÀ´ÎÒ±ã¸øÄã¿ªÆôÇ°ÉúÈ«²¿¼ÇÒä¡
+·ð×æÔÚÄã¶ú±ßËµµÀ£¬ÈôÄãÏëÆðÀ´ÁË¾ÍÊäÈë recollect id ½ÒÓï
+
+
+ÊÍåÈÄ²ÄáBuddhaËµµÀ£º¿´À´Äã¹ûÈ»ÊÇÇ°ÊÀÓëÎÒÓÐÔµÖ®ÈË£¬´ýÎÒ½«ÄãÇ°ÊÀ¼ÇÒä´ò¿ª£
+
+·ð×æËµ×Å±ã³¯×ÅÄãÇáÇáÒ»»ÓÊÖ¡
+
+ÄãÍ»È»¸Ðµ½Í·Í´ÓûÁÑ.....
+
+¡¾×ªÊÀÖØÉú¡¿Ìì½ç£º¾ÝËµÓÐÈËÒÑµÃ·ð×æ¶÷µä£¬¿ªÆôÁË°¢ÀµÒ®Ê¶¡
+
+ÄãµÄÑÛÇ°Ò»ºÚ£¬½ÓÖøÊ²Ã´Ò²²»ÖªµÀÁË...
+
+
+ÄãÂýÂýÕö¿ªÑÛ¾¦£¬ÇåÐÑÁË¹ýÀ´¡
+
+
+ÂýÂýµØÄãÖÕÓÚÓÖÓÐÁËÖª¾õ...
+
+[2;37;0m

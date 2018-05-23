@@ -1,0 +1,14 @@
+subject : wushen-jian
+author_name : Ä½Èİ³¤Çà
+author_id : jicker
+time : 1211960254
+board : »Æ½ğ´îµµµÄÁôÑÔ°å
+file : /data/analecta/2008/39575641.txt
+add_time : 1212119275
+content :
+rideto henyang;#9 n;nu;nw;nu;ed;e;eu;jump pubu;enter;
+µÚÒ»¸ö ne;use fire;zou;enter;look;look wall;pull net;think wall;;think wall;
+µÚ2¸ö nw;use fire;w;w;zou w;climb stone;push bi
+move desk;pick book
+nÒ»²½¡£jump xuanya,»á·¢ÏÖÊ¯Áİ½£·¨ÓĞÒ»¼¶ÁË¡£ÕâÊ±ºòÈËµ½ĞüÑÂµ×ÁË;ĞÑÁËÒÔºó£¬enter.ÏÈhe quanshui£¬È»ºó¿´¿´ÄãµÄ×Ï¸Ç½£ºÍÜ½ÈØ½£ÓĞÃ»ÓĞ120¼¶¡£ÓĞµÄ»°¾Íxue bi;È»ºóÎåÖÖ½£·¨¾ÍÑ§È«ÁË£¬ÕâÊ±ºò´ó¼ÒÉÔÎ¢ĞİÏ¢ÏÂ£¬ËÄ´¦¹Û¹âÏÂ¡£¡£¡£¡£;
+[2;37;0m

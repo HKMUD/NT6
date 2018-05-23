@@ -1,0 +1,17 @@
+subject : ÉñÐÐ°Ù±ä
+author_name : Þ±´ó´ô
+author_id : vivi
+time : 1207567102
+board : Þ±´ó´ôµÄÁôÑÔ°å
+file : /data/analecta/2008/28025414.txt
+add_time : 1211023021
+content :
+ÔÚ±±¾©µÄ±±¾©ºÚµê£¬»á·¢ÏÖ¶«±ßµÄÎÝ¡õÓÐ¶¯¾²£¬ÈôÄãÎä¹¦Ì«Èõ£¬»á±»ÄÚ¹¦î¸ÆøÀ¹×¡£¬
+½ø²»È¥µÄ£¬²»¹ýÃ»¹ØÏµ£¬Èç¹ûÄãÊÖÍ·ÓÐÐþÌúØ°Ê×µÄ»°¾Í¿ÉÒÔ£¬ci wall£¬½«¡õÃæµÄÁù
+¸öÀ®Âï´ÌËÀ£¬ÔÙ½øÈ¥¡£Ã»ÓÐÐþÌúØ°Ê×Ò²Ã»¹ØÏµ£¬±Ï¾¹ÕâÊÇÎ¤¾ôÒ¯µÄÊÖ¶Î£¬Î¤¾ôÒ¯µÄÎä
+¹¦´ó¼ÒÒ²¶¼ÖªµÀ£¬³ý´ËÒ»ÕÐÍâ£¬Î¤¾ôÒ¯Ò²ÎÞËû·¨¡£µ«ÊÇÔÛÃÇÎäÁÖÖÐÈË¿É¾Í²»ÓÃÕâ°ã°µ
+¼ýÉËÈËÁË£¬Õý´ó¹âÃ÷µÄÍù¶«½øÈëÎÝÄÚ£¬Áù¸öÀ®Âï×Ô¶¯ÏÂ kill £¬Ð¡ÒâË¼£¬skills 100
+¼¶ÒÔÉÏ¶¼ÇáËÉ¸ã¶¨£¬²»ÓÃÒ»¸öpf¡£É±ÁËÁù¸öÀ®Âïºó£¬ÈôÄãÊÇÓÃÐþÌúØ°Ê×µÄ£¬¾ÍÍù¶«½ø
+ÈëÎÝÄÚ£¬¾Í¿ÉÒÔÏò¶À±ÛÉñÄáÑ§ÉñÐÐ°Ù±ä£¨shenxing-baibian£©ºÍÇï·ç·÷³¾£¨qiufeng-chenfa£©
+ÈôÄãÊÇÖ±½ÓÉ±µÄ£¬¾ÍÒªÏÈÍùÎ÷³öÎÝ£¬ÔÙÍù¶«½øÈëÎÝÄÚ£¬Ò²¾Í¿ÉÒÔÏò¶À±ÛÉñÄáÑ§ÉñÐÐ°Ù±äºÍÇï·ç·÷³¾¡£
+[2;37;0m

@@ -1,0 +1,18 @@
+#include <ansi.h>
+inherit ROOM;
+
+void create()
+{
+        set("short", HIY+BLINK"ÃÙ’Ω¿ﬁÃ®"NOR);
+        set("long", @LONG
+[1£ª36m’‚¿Ô «◊®√≈…Ë¿¥Ω” ‹Õ‚π˙ÃÙ’Ωµƒ¿ﬁÃ®°£
+LONG );
+        set("no_drift", 1);
+        set("no_clean_up", 0);
+        set("exits",([
+                "down" : "/d/city/guangchang",
+        ]));
+
+        setup();
+        replace_program(ROOM);
+}

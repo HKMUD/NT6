@@ -1,0 +1,110 @@
+subject : ×°±¸¼òµ¥Á÷³Ì
+author_name : ¸ß´¦²»Ê¤º®
+author_id : lonely
+time : 1331267380
+board : ·¢´ô³æµÄÁôÑÔ°å
+file : /data/wenxuan/2012/60159211.txt
+add_time : 1331267393
+content :
+¡¾²Î¿¼help¡¿help equip
+¡¾¹Ø ¼ü ´Ê¡¿×°±¸À´Ô´£¬Ç©Ãû£¬¿ª¿×£¬ÏâÇ¶£¬¸ÄÔì£¬Ç¿»¯£¬ÂÌ»¯¡£
+            ËùÖ¸×°±¸¾ùÖ¸Í¨¹ý¸±±¾µôÂäµÄ20LVÒÔÉÏ×°±¸¡£
+
+¡¾×°±¸À´Ô´¡¿É³Ä®¸±±¾¡¢Ò»Ð©BOSS¸±±¾£¨ÀýÈç£ºÄÏº£º£µ×ÃÔ¹¬£©¡£
+            ÆäÖÐÉæ¼°µ½×°±¸µÄÆ·ÖÊÓëÄã±¾ÉíµÄMFÖµÓÐ¹Ø£¬MFÖµ
+            ¾ÍÊÇstatsÀïµÄÑ°±¦ÂÊ¡£Ñ°±¦ÂÊÌ«µÍµÄ»°£¬µôÂäµÄ»ù
+            ±¾ÉÏ¾ÍÊÇ°×É«µÄ×°±¸¡£
+            ¡¾Ïà¹Øcmd¡¿stats
+
+¡¾×°±¸Æ·ÖÊ¡¿ÒÀ´ÎÎª£ºÆÕÍ¨¡¢ÓÅÁ¼¡¢ÕäÏ¡¡¢Ê·Ê«¡¢´«Ëµ¡¢ÉñÆ÷¡£
+            ÆäÖÐ³ýÁËÉñÆ÷¼¶µÄÔÝÊ±²»¿ª·Å»òÕßËµÔÝÊ±´ò²»µ½Íâ£¬
+            Ö»ÒªMFÖµ¹»¸ß£¬20¼¶µÄÉ³Ä®¸±±¾»ù±¾ÉÏ¶¼ÓÐµôÂä¡£
+
+¡¾×°±¸Ç©Ãû¡¿20¼¶ÒÔÉÏµÄ×°±¸¶¼¿ÉÒÔÈ¥¸É½«ÄÇÀïÖ±½ÓÇ©Ãû±ä³É×Ô
+            ¼ºµÄ×ÔÔì±øÆ÷ÁË¡£ÃüÁî£ºqianming xxx xxxx¡£Ê£
+            ÏÂµÄ°´ÌáÊ¾×ö¡£
+            ¡¾Ïà¹Øcmd¡¿qianming
+
+¡¾×°±¸¿ª¹â¡¿Ç©ÃûÍê³ÉºóµÄ×°±¸¼ÇµÃÒªÈ¥ÕÒÕÅÌìÊ¦¿ª¹â£¬²»È»ÒÔ
+            ºó¶ªÊ§ÁËÎÞ·¨summon»ØÀ´¡£
+            ¡¾Ïà¹Øcmd¡¿give zhang 10 gold , show xxxx
+
+¡¾×°±¸¿ª¿×¡¿×°±¸µôÂäÒÔºó»áËæ»úÓÐ0-2¿×£¬ÓÐ¿×µÄ»á´øÓÐÐþÊ¯£¬
+            ÒâÎ¶×ÅÄã¿ÉÒÔÉÙ»¨NT¿ª¼¸¸ö¿×¡£¿ª¿×ÐèÒªÓÃµ½rune£¬
+            ¾ßÌå²Î¼ûhelp rune×îºó¼¸ÐÐÓÐÐ´Ã÷ÐèÒªÊ²Ã´rune£¬
+            µ±È»ÄãÒ²¿ÉÒÔÈ¥¸É½«ÄÇÀïnotch xxxx»áÓÐÌáÊ¾¡£
+
+            ×°±¸²»Í¬£¬¿×Êý²»Í¬£¬ÆäÖÐ£º
+            ½£Ò»Àà±øÆ÷£º·ûÎÄ¿ª¿××î´ó6¿×
+            ÕÆºÍÖ¸Ì×Àà£º·ûÎÄ¿ª¿××î´ó6¿×
+            ·À¾ßÀà×°±¸£º·ûÎÄ¿ª¿××î´ó4¿×
+            ÏîÁ´ºÍ»¤·û£º·ûÎÄ¿ª¿××î´ó3¿×
+            Ê×ÊÎÀà½äÖ¸£º·ûÎÄ¿ª¿××î´ó3¿×
+
+            ¡¾Ïà¹Øcmd¡¿notch xxxx£¬¿ª¿×
+                       melt xxxx£¬Ï´µôÉÏÃæµÄ±¦Ê¯
+
+¡¾×°±¸ÏâÇ¶¡¿Òª¸ø×°±¸ÏâÉÏ×Ô¼ºÏ²»¶µÄ±¦Ê¯»òÕß·ûÎÄ£¬ÐèÒªÏÈÔÚ
+            ¸É½«ÄÇÀï¸úËûÑ§ÏâÇ¶¼¼ÒÕ£¬²»È»ÈÝÒ×°Ñ±¦Ê¯ÅªÃ»ÁË¡£
+            
+            ÆäÖÐ£º
+            ·ûÎÄ¿ÉÒÔÏâµ½±øÆ÷ºÍ·À¾ßÉÏ£¬µ«Ö»ÄÜÃ¿ÖÖÒ»¸ö£¬Æä
+            ÊµÓÐÐ©Ò²Ã»Ê²Ã´ºÃÐ§¹û¡£
+            ±¦Ê¯°´ÖÖÀà²»Í¬£¬ÎåÐÐÒ²²»Í¬£¬ËùÒÔÍ¬Ò»¸ö·À¾ßÉÏ
+            Ö»ÄÜÓÐÒ»ÖÖÎåÐÐ£¬Ò²¾ÍÊÇËµÈç¹ûÄãÓÐ×êÊ¯¡¢±¦Ê¯£¬
+            ÄÇÊÇ²»¿ÉÄÜÍ¬Ê±Ïâµ½Ò»¸ö×°±¸ÉÏµÄ¡£±ØÐëÊÇÍ¬ÖÖµÄ¡£
+
+           ¡¾Ïà¹Øcmd¡¿enchase xxxx in xxxx
+                      help combine , help enchase
+
+¡¾×°±¸¸ÄÔì¡¿¸ÄÔìÔÚºóÃæÁ÷³Ì¶¼ÓÐÒªÇó¡£ÆäÖÐ£º
+          
+            ¸ÄÔìÒ»´ÎÉý¼¶ÒÔ£¬±øÆ÷Àà¿ÉÒÔÔö¼Ó¹¥»÷£¬·À¾ßÀà¿É
+            ÒÔÔö¼Ó·ÀÓù¡£Í¬Ê±»¹¶¼Ôö¼Ó×î´óÆøÑªºÍ¾«Æø¡£
+
+            ¸ÄÔìµ½ÍêÃÀ¼¶±ðÊ±£¬·ÇÊÎÆ·Àà»á×Ô¶¯ÔÙÔö¼ÓÒ»¸ö¿×£¬
+            ÊÎÆ·Àà×î´ó3¿×£¬»áÔö¼ÓÑÐ¾¿¡¢¼³È¡¡¢Á·Ï°Ð§¹û¡£
+
+            ¸ÄÔìÐèÒªÓÃµ½Ìì¾§»òÕßÎÞÃû£¬»¹ÐèÒªÒ»¸ö¶ÔÓ¦µÄ×°
+            ±¸Ö®»ê£¬×îºÃÔÙÓÐÒ»¸öÅ·Ò±×Ó·û¡£´óÔ¼¸ÄÔìÒ»´ÎµÄ
+            ·ÑÓÃ½Ó½ü5¡¢60NT¡£´ÓÁÓÖÊµ½ÍêÃÀÐè¸ÄÔìÎå´Î£¬ÖÐ¼ä
+            »áÓÐÊ§°ÜÁí¼Æ¡£
+
+            ¡¾Ïà¹Øcmd¡¿reform xxx with soul6 & tian jing
+                       help reform
+
+¡¾×°±¸´ãÁ¶¡¿ÐèÒªÃ´£¿²»ÐèÒªÃ´£¿Èç¹ûÊÇ±øÆ÷Àà£¬´ò¼¸ÏÂ¾ÍËð»µ
+            ²»ÄÜ×°±¸ÔÚ´ò¸±±¾ÈÎÎñÊÇÖÂÃüµÄ£¬ËùÒÔÐèÒªÑ½£¬´Ó
+            ÎÞËðµÄ½Ç¶ÈÀ´¿´£¬Ìì¾§×ã¹»ÁË¡£
+
+            ¡¾Ïà¹Øcmd¡¿cuilian xxxx from no name
+                       cuilian xxxx from tian jing
+
+¡¾×°±¸Ç¿»¯¡¿Ç¿»¯×°±¸ÐèÒª×°±¸ÊÇ¸ÄÔìµ½ÍêÃÀµÄ¡£ÆäÖÐ£º
+            
+            °´Ç¿»¯´ÎÊý²»Í¬£¬ÐèÒªrune28Æð£¬ÒÔ¼°Ò»¸öÇ¬À¤Ê¥
+            Ë®¡£
+            °´ÄãÎäÆ÷ÉÏËùÏâÇ¶µÄÊôÐÔËã£¬ÐèÒªÃ¿ÖÖ¶ÔÓ¦µÄÔªËØ
+            ¸÷3¸öÒÔ¼°¸½¼ÓµÄÔªËØ¸÷3¸ö£¬´óÔ¼¶þÈýÊ®¸ö°É£¬ÉÌ
+            ³ÇÓÐÂô£¬¸ÄÔìÒ»´Î´óÔ¼100nt¡£
+            Ðè×¢ÒâÒ»µã£¬¸ÄÔì×°±¸Ç°¼ÇµÃÏâÂú±¦Ê¯£¬²»È»¸ÄÔì
+            ºó²»ÄÜÔÙÏâµÄ»°ºÜ³Ô¿÷¡£µ±È»Ò²ÓÐÆäËüÍ¾¾¶ÃÖ²¹µ«
+            ºÄÇ®ºÄÁ¦ºÄÊ±ºÜÂé·³¡£
+            µ±È»£¬¸ÄÔìÓÐ·çÏÕ£¬µÚ¶þ´Î¸ÄÔì¾Í»áÊ§°ÜºÜÕý³£¡£
+            Èç¹ûÓÐ´ó°ÑµÄNTµÄ»°£¬Ò²¿ÉÒÔ¹ºÂò¸ÄÔìË®¾§£¬ÁùÐÇ
+            ÒÔÇ°100%³É¹¦£¬Ç¿»¯Ö¸Áîqianghua xxx with crystal           
+            ¡¾Ïà¹Øcmd¡¿qianghua xxx
+                       qianghua xxx with crystal
+                       help qianghua
+  ¡¾×°±¸ÂÌ»¯¡¿¼¯ÆëÒ»Ì××°±¸12¼þµÄ»°£¬»òÕßÉÙµãµ½5¼þÒ²¿ÉÒÔÈ¥
+            ³¢ÊÔÂÌ»¯ÁË£¬ÐèÒªÉÌ³ÇÂôµÄÍõÕßÖ®ÐÄ£¬50ntÒ»¸ö¡£
+            Ò²ÓÐÔö¼ÓÒ»Ð©¸½ÊôµÄÊôÐÔ£¬ÖÁÓÚ¿ÉÒÔÉý¼¶upsuit,Ðè
+            ÒªºèÃÉÁéÆø£¬ÔòÔÚÉÌ³Ç¹ºÂò¡£
+            ¡¾Ïà¹Øcmd¡¿dosuit 
+                       upsuit
+                       help suit
+                       
+                                                  by idle
+
+[1;30mÄã¿àÉ¬µØÒ»Ð¦£¬Í¸×ÅÒ»¹ÉËµ²»³öµÄÂäÄ¯²×É£Ö®Òâ¡£[2;37;0m[2;37;0m
+[2;37;0m

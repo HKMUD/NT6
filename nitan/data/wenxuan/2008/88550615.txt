@@ -1,0 +1,23 @@
+subject : ¹ØÓÚ×°±¸
+author_name : Þ±´ó´ô
+author_id : vivi
+time : 1208132957
+board : Þ±´ó´ôµÄÁôÑÔ°å
+file : /data/analecta/2008/88550615.txt
+add_time : 1211023083
+content :
+±ù²ÏË¿¿ÉÖÆ×÷ÒÔÏÂ×°±¸£º
+£¨±Þ¡¢»¤¼×*¡¢Õ½ÒÂ¡¢Ñ¥×Ó*¡¢Ñü´ø£©
+²¹ÌìÊ¯¿ÉÖÆ×÷ÒÔÏÂ×°±¸£º
+£¨¸«¡¢¶Ì±ø¡¢óï¡¢Í·¿ø¡¢Ö¸Ì×(WP£¬Ö¸¡¢×¦)¡¢µ¶¡¢»¤ÊÖ(WP£¬È­½Å¡¢È­)¡¢ÌúÕÆ(WP£¬ÕÆ¡¢ÊÖ)¡¢´¸¡¢»¤Íó¡¢»¤¼×*¡¢Ñ¥×Ó*¡¢½£¡¢±Þ¡¢¹÷¡¢ÕÈ£©
+ÆßÉ«Ó£çóÓëå¾ÓîÌì¾§¿ÉÖÆ×÷ÒÔÏÂ×°±¸
+£¨¸«¡¢¶Ì±ø¡¢óï¡¢Í·¿ø¡¢Ö¸Ì×(WP£¬Ö¸¡¢×¦)¡¢µ¶¡¢»¤ÊÖ(WP£¬È­½Å¡¢È­)¡¢ÌúÕÆ(WP£¬ÕÆ¡¢ÊÖ)¡¢´¸¡¢»¤Íó¡¢Ñü´ø¡¢Õ½ÒÂ¡¢»¤¼×¡¢Ñ¥×Ó¡¢½£¡¢±Þ¡¢¹÷¡¢ÕÈ£©
+
+Ò»Ì××°±¸ÈçÏÂ£º
+
+±ù²ÏË¿*3£ºÕ½ÒÂ¡¢Ñ¥×Ó¡¢Ñü´ø
+²¹ÌìÊ¯*3£ºÍ·¿ø¡¢»¤Íó¡¢»¤¼×
+ÆßÉ«Ó£çó»òå¾ÓîÌì¾§*1£ºÎäÆ÷
+
+¿ÕÊÖÎäÆ÷¶ÔÓ¦¼¼ÄÜ£ºÖ¸Ì×(+Ö¸·¨¡¢×¦·¨)¡¢»¤ÊÖ(+È­½Å¡¢È­·¨)¡¢ÌúÕÆ(+ÕÆ·¨¡¢ÊÖ·¨)
+[2;37;0m

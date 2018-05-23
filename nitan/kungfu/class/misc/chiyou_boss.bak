@@ -1,0 +1,311 @@
+inherit NPC;
+#include <ansi.h>
+
+void growup();
+
+void create()
+{
+	object staff;
+	
+	set_name("ò¿ÓÈ¾ŞÏñ", ({ "chi you", "chiyou" }) );
+	set("race", "Ò°ÊŞ");
+	set("gender", "ĞÛĞÔ");
+	set("class","wolfmount");
+	set("age", 10000);
+	set("long", "ò¿ÓÈ£¬Óë»ÆµÛäÃÂ¹ÖĞÔ­µÄÒ»´ú´óÉñ£¬÷ŞÈç½£êª£¬Í·ÓĞÀû½Ç£¬Í­Í·Ìú¶î£¬ÖïÉ± 
+ÎŞµÀ£¬ÄË¹ÅÍù½ñÀ´î¢íşÌìÏÂÖ®µÚÒ»Ğ×Ä§£¡ËûµÄÍ·¶¥£¬ÓĞÒ»¸ù·ÅÉä³öÍòµÀ½ğ»ª
+µÄ[37m·¨ÕÈ[32mÃ»¶¥¶ø²å\n");
+	set("title", "²»ÊÀÕ½Éñ");
+	set("nickname", HIR"Íò¹ÅĞ×Ä§"NOR);
+	set("NO_KILL","ÄãÎŞ·¨¹¥»÷Ò»¾ßÊ¯Ïñ¡£\n");
+	set("spawn_location","/d/wolfmount/chiyouku");
+		
+	set("str", 90);
+  set("force_factor",100);
+	set("cor", 100);
+	set("per", 1);
+	
+	set("boss",1);
+	set("big_boss",1);
+	set("max_kee", 300000);
+	set("max_gin", 300000);
+	set("max_sen", 300000);
+	
+	set("limbs", ({ "Í·²¿", "ÉíÌå", "×¦×Ó" }) );
+	set("verbs", ({ "bite", "claw" }) );
+	
+	set("chat_chance_combat", 100);
+    set("chat_msg_combat", ({
+       	(: growup() :),
+  }) ); 
+	
+	set_skill("unarmed", 700);
+	set_skill("iron-cloth", 200);
+	set_skill("yiqiforce", 100);
+	set_skill("dodge", 400);
+	set_skill("force",100);
+	set_skill("parry", 400);
+	set_skill("wolf-curse",200);
+	set_skill("cursism",200);
+	set_skill("summonwolf",300);
+	set_skill("perception",400);
+	map_skill("unarmed","yiqiforce");
+	map_skill("cursism","wolf-curse");
+	map_skill("force","yiqiforce");
+	
+	set("combat_exp", 13000000);
+        set("staff",1);              
+        set_temp("apply/attack", 200);
+        set_temp("apply/dodge", 200);
+  
+	setup();
+	  
+  	if (!query("claw_set")) {
+			if (!random(5)){
+				staff=new(__DIR__"obj/wolf-fist");
+				staff->move(this_object());
+				staff->wield();
+				staff->set("nodrop_weapon");
+				set("claw_set",2);
+			}	
+			else
+				set("claw_set",1);
+		}
+}
+
+void init() {
+	::init();
+	if (query("staff"))
+		add_action("do_pull", "pull");
+	if (interactive(this_player()) && !query("NO_KILL")){
+//		ccommand("say ok");
+		kill_ob(this_player());	
+		this_player()->kill_ob(this_object());
+	}
+}
+
+string staff(){
+	object me;
+	me = this_player();
+	if(query("staff")){
+		tell_object(me, YEL"\n
+Ò»±úÓÉÍòÔØÆĞÌáÄ¾ÖÆ³ÉµÄ·¨ÕÈ£¬Ò»´ó°ëÒÑÉîÉî²åÈëò¿ÓÈ¾ŞÏñÍ·¶¥£¬µ«Â¶³öµÄÒ»²¿·Ö
+ÒÀ¾É¹â»ª¶áÄ¿£¬²»ÖªµÀÊÇ·ñÄÜ°Î³öÀ´£¨pull)£»¾İ´«ÉÏ¹ÅÊ±»ÆµÛÕ¶É±ò¿ÓÈ¾ŞĞ×ºó£¬
+Î¨¿ÖÆäÍö»ê²»É¢£¬ÌØÏò·ğ×æ½èÀ´ÕâÍòÄêÆĞÌáÕÈ²åÈëò¿ÓÈÊ¯Ïñ£¬ÒÔÕò×¡Õâ²»ÊÀÖ®Ğ×£¬
+ÍòÊÀ²»µÃ·­Éí¡£\n\n"NOR);
+	} else {
+		tell_object(me, "´óÉñò¿ÓÈÏñÍ·¶¥µÄ·¨ÕÈÒÑÈ»²»¼û£¬Ö»Ê£Ò»¸ö¿Õ¶´¡£\n");
+	}
+	return "";
+}
+
+int do_pull(string arg){
+	object me, staff;
+	int damage;
+	me = this_player();
+	if(!arg || (arg != "staff" && arg != "·¨ÕÈ")) {
+		return notify_fail("ÄãÒª°ÎÊ²Ã´£¿\n");
+	}
+	if(!query("staff")) {
+		return notify_fail("ÒÑ¾­Ã»ÓĞ·¨ÕÈÁË¡£\n");
+	}
+	if(me->query("kee") < 100) {
+		return notify_fail("ÄãÃ»ÓĞ×ã¹»µÄÆøÑª¡£\n");
+	}
+	if(me->query("force_factor") > 80 && me->query_str() > 30 ) {
+		message_vision("$NË«ÊÖ½ô½ôÎÕ×¡ÆĞÌá·¨ÕÈ£¬ÑÀ¹ØÒ»Ò§£¬»¢¿ÚÏÊÑª±ÅÉä£¬Å­ºÈÒ»Éù£ºÆğ£¡£¡\n", me);
+		message_vision(HIY"\nÆĞÌá·¨ÕÈÍ»È»·Å³öÍòµÀ½ğ»ª£¬ÆßÉ«²ÊÔÎ£¬É½Ò¡µØ¶¯Ö®¼ä£¬·¨ÕÈÓ¦Éù¶øÆğ£¬³åÌì¶ø³ö£¡\n"NOR,
+				me);  
+	set("long", "ò¿ÓÈ£¬Óë»ÆµÛäÃÂ¹ÖĞÔ­µÄÒ»´ú´óÉñ£¬÷ŞÈç½£êª£¬Í·ÓĞÀû½Ç£¬Í­Í·Ìú¶î£¬ÖïÉ± 
+ÎŞµÀ£¬ÄË¹ÅÍù½ñÀ´î¢íşÌìÏÂÖ®µÚÒ»Ğ×Ä§£¡\n");
+		set("staff", 0);
+		me->perform_busy(4);
+		call_out("stone_fall", 3, me);
+	} else {
+		message_vision("$NË«ÊÖ½ô½ôÎÕ×¡ÆĞÌá·¨ÕÈ£¬ÑÀ¹ØÒ»Ò§£¬»¢¿ÚÏÊÑª±ÅÉä£¬Å­ºÈÒ»Éù£ºÆğ£¡£¡\n", me);
+		message_vision("ÆĞÌá·¨ÕÈÎÆË¿²»¶¯¡£\n", me);
+		me->perform_busy(4);
+		damage = me->query("kee") / 5;
+		me->receive_damage("kee", damage);
+	}
+	return 1;
+}
+
+void stone_fall(object me){
+	object *all, *inv, room, obj;
+	int i;
+	string *names = ({"chiyoudao", "chiyoudao1", "chiyoudao2", "chiyoudao3", "chiyoudao4", "chiyoudao5",
+			"chiyoudao6", "chiyoudao7", "chiyoudao8", "chiyoudao9"});
+	
+	all = all_inventory(environment(this_object()));
+	
+	message_vision("\nÍ»È»Ö®¼äò¿ÓÈÃØ¿ßÓĞÈçÌì±ÀµØÁÑ°ã£¬Å¨ÔÆ·­¹ö£¬µçÉÁÀ×Ãù£¬É½Ê¯ÓÖÈç¼²·ç±©Óê°ã\n", me);	 
+	message_vision("ÂşÌìÔÒÏÂ£¡\n", me); 
+	message_vision("\n$NÉñÉ«´ó±ä£¬·ÜÆğÈ«Á¦ÔÚÂÒÊ¯·ç±©ÖĞ¿à¿àÑ°ÇóÒ»ÏßÉú»ú¡£\n", me);
+	for(i=0;i<sizeof(names);i++){
+		if( obj = find_object(__DIR__+names[i])) {
+		tell_object(obj,HIY "\n\nÔ¶·½´«À´Ò»ÕóÂ¡Â¡¾ŞÏì£¬½ô¸ú×ÅÎŞÊıÊ¯¿éÔÒÂäÁËÏÂÀ´¡£\n\n"NOR);
+		}
+	}
+	
+	inv = filter_array(all, (: interactive($1):));
+	for(i=0; i<sizeof(inv); i++) {
+		message_vision(HIY"$N±»ÕâÍ»ÈçÆäÀ´µÄ±ä»¯¾ªµÄÄ¿µÉ¿Ú´ô£¬Ö»¼ûÎŞÊı¾ŞÊ¯ºİºİµØÔÒÁË¹ıÀ´£¬\n"NOR, inv[i]);
+		message_vision(HIY"µ±ÕæÊÇµ²ÎŞ¿Éµ²¶ãÎŞ¿É¶ã¡£\n"NOR, inv[i]);
+		if(inv[i]->query_skill("dodge",1)>=150 && inv[i]->query_skill("parry",1)>=150){
+			message_vision(HIG"\nÔÚÕâ¼ä²»Èİ·¢µÄÇé¿öÏÂ$N¶ã¹ıÁË¾ŞÊ¯µÄ¹¥»÷¡£\n"NOR, inv[i]);
+		} else {
+			tell_object(inv[i], "Äã×óµ²ÓÒ¶ãÏòÇ°±¼ÅÜÆÚÍû¶ã¹ı¾ŞÊ¯µÄÏ®»÷¡£\n");
+			me->perform_busy(3);
+			room = find_object(AREA_WOLFMOUNT"chiyoudao");
+			if(!objectp(room)){
+				room = load_object(AREA_WOLFMOUNT"chiyoudao");
+			}
+			message_vision(RED"\n$NÒ»¸ö¶ãÉÁ²»¼°£¬ÎŞÊı¾ŞÊ¯ºİºİµØÔÒÁË¹ıÀ´¡£¡£¡£\n"NOR, inv[i]); 
+			inv[i]->move(room);		
+			inv[i]->unconcious();
+		}
+	}
+	
+	remove_call_out("chiyou");
+	call_out("chiyou", 3, me);
+	
+}
+
+void chiyou(object ob){
+	object *all, *inv;
+	int i;
+	
+	if(!interactive(ob) && environment(ob) != this_object()){
+		set("staff",1);
+		return;
+	}
+	message_vision(HIB"\nÂşÌìÂÒÊ¯ÖĞ£¬¿ñ·çÕ§Æğ£¬ÌìÉ«±äµÃÒ»Æ¬ÕøÄü£¬·Â·ğÎŞÊıÀ÷¹íÒ°ÊŞÔÚÅØÏøÅ­ºğ£¡\n"NOR, ob);
+	message_vision(HIR"\nÏÊºìÈçÑª°ãµÄ´ó»ğĞÜĞÜÈ¼Æğ£¬Ò»Æ¬»ğº£ÖĞÉıÆğÒ»¸ö¸ß´ï°Ù³ß£¬ÓĞÈçÌìÉñ°ãµÄ¾Şºº£¡\n"NOR,ob); 
+	message_vision(HIR"Ô¶´¦£¬½ü´¦£¬¿ÕÆøÖĞÃ¿Ò»´¦µØ·½ÎŞÊıµÄĞ×ÁéĞ°ÊŞÆëÉùÄ¤°İ£¬¿ñºô£¡£¡\n\n"NOR, ob);
+	message_vision(HIY"              £­£­²»£­ÊÀ£­Õ½£­Éñ£­£­ò¿£­ÓÈ£­ÖØ£­Éú£­£­  \n\n"NOR, ob);
+	
+	delete("NO_KILL"); 	
+	set("name","ò¿ÓÈ");
+	
+	all = all_inventory(environment(this_object()));
+	inv = filter_array(all, (: interactive($1):));
+	for(i=0; i<sizeof(inv); i++) {
+		kill_ob(inv[i]);
+		inv[i]->kill_ob(this_object());
+		}
+}
+
+
+void growup(){
+		
+		object staff;
+		ccommand("exert npc_hurtless");
+		
+		if (query("timer/cy_curse")+ 30 + random(20) < time() && query("kee")*100/query("max_kee")<90
+			&& sizeof(query_enemy())>1){
+			delete("timer/pfm/wm_mindcurse");
+			ccommand("curse mindcurse");
+			stop_busy();
+			if (!random(3) && sizeof(query_enemy())>2) {
+				delete("timer/pfm/wm_mindcurse");
+				ccommand("curse mindcurse");
+				stop_busy();
+			}
+			ccommand("xiao");
+			set("timer/cy_curse",time());
+		}
+		
+		return;
+}			
+		
+/*
+void chiyou_call(object ob){
+	if(ob->query("marks/wolfmount_chiyou_kneel")){
+		message_vision(CYN"$NÑöÌì·¢³öÁîÈËĞÄµ¨¾ãÁÑµÄÕğÌìÅ­ºğ£¬É½Ê¯ÓêÏÂ£¬ÎÚÔÆ·­¹ö£¡\n"NOR, this_object()); 
+		message_vision(CYN"ÍòµÀÑª¹âÖ®¼ä£¬ÎÚÔÆÍ»È»ÁÑ¿ªµÀ³¤·ì£¬$NÄÇÅÓ´óÉíÇû³åÉÏÔÆÏö¡£¡£¡£\n"NOR, this_object());
+		message_vision(CYN"ËÄÏÂ¹éÓÚËÀÒ»°ãµÄ¼Å¾²¡£¡£\n"NOR, this_object());
+		destruct(this_object());
+	} else { 
+		message_vision(HIG"$NÑöÌì·¢³öÁîÈËĞÄµ¨¾ãÁÑµÄÕğÌìÅ­ºğ£¬É½Ê¯ÓêÏÂ£¬ÎÚÔÆ·­¹ö£¡\n"NOR, this_object()); 
+		message_vision(RED"\n$NÎ¢Î¢µÍÊ×£¬É¢·¢×ÅÎŞÇîÉ±»úµÄÑªÉ«³àíø¶¢×Å$nÒ»×Ö×ÖµÀ£ºò¿ÓÈÖØÉú£¬¾ıÁÙÌìÏÂ£¡\n"NOR, this_object(),ob); 
+		message_vision(RED"ÈêµÈÇÓÅ³ÈËÊŞ£¬»¹²»ÙéµØ³¼·ş£¡£¨kneel or reject£©\n"NOR, this_object()); 
+	}
+}
+
+int do_kneel(){
+	object me;
+	me = this_player();
+	tell_object(me, YEL"ÄãÖ»¾õÉíÏİÎŞ±ßµÄ»ğº£ºÍ¿Ö¾åÖ®ÖĞ£¬Ë«Ï¥Ò»Íä£¬ÎåÌåÙéµØ£¬³Ï»Ì³Ï¿ÖÄ¤°İµÀ£ºÕ½ÉñÖØÉú£¬¾ıÁÙÌìÏÂ£¡\n"NOR);
+	message("vision", YEL""+me->name() + "Ë«Ï¥Ò»Íä£¬ÎåÌåÙéµØ£¬³Ï»Ì³Ï¿ÖÄ¤°İµÀ£ºÕ½ÉñÖØÉú£¬¾ıÁÙÌìÏÂ£¡\n"NOR,
+			environment(me), me);
+	if(query("busy") || this_object()->is_fighting()){
+		return notify_fail(WHT"ò¿ÓÈÕıÃ¦£¬Ã»ÓĞÊ±¼äÀíÄã¡£\n"NOR);
+	}
+		message_vision(RED"\n$NÑªíø¾«¹âËÄÉä£¬¿ñĞ¦°ëÉÎµÀ£º²»´í£¬Ä³ÏÈÈ¥Ìì½çÕÒÄÇĞùÔ¯µÛ³ö³öÕâÍòÊÀ²»µÃ\n"NOR,this_object()); 
+		message_vision(RED"·­ÉíµÄ»ŞÆø¡£ºÙ¡«£¬ĞùÔ¯ÀÏ¹í£¡ ÍòµÀÑª¹âÖ®¼ä£¬ÎÚÔÆÍ»È»ÁÑ¿ªµÀ³¤·ì£¬ò¿ÓÈÄÇÅÓ\n"NOR, this_object()); 
+		message_vision(RED"´óÉíÇû³åÉÏÔÆÏö¡£¡£¡£ ËÄÏÂ¹éÓÚËÀÒ»°ãµÄ¼Å¾²¡£¡£\n", this_object()); 
+	destruct(this_object());
+	return 1;
+}
+
+int do_reject(){
+	object me;
+	me = this_player();
+	set("busy", 1);
+	message_vision(HIG"$Nµ¯ÒÂ¶øÆğ£¬ÑöÌì³¤Ğ¦µÀ£º×İÊ¹Ñª½¦ÓÚ´Ë£¬Íò½Ù²»¸´£¬Ò²¾ø²»ÇüÏ¥°ë´ç£¡\n"NOR, me); 
+	message_vision(HIR"\n$NË«íøÑª¹â±©Æğ£¬ºÈµÀ£ºË³ÎÒÕß²ı£¬ÄæÎÒÕß¡«¡«Íö¡«£¡\n"NOR, this_object()); 
+	me->kill_ob(this_object());
+	kill_ob(me);
+	return 1;
+}
+*/
+
+
+
+void die(){
+	object me,staff;
+	object owner,room;
+	mapping hate;
+	object *ppl, *ppl_present;
+	int i;
+	
+	message_vision(HIR"\n$NË»½ĞµÀ£º¡°¿É¶ñµÄ¡£¡£¡£¡£ÎÒ»áÔÙ»ØÀ´µÄ¡£¡±"NOR, this_object());
+	message_vision(HIR"$NÄÇÅÓ´óÉíÇûÍ»È»»¯ÎªÒ»¹ÉÅ¨ÑÌÏûÊ§²»¼ûÁË¡£\n"NOR, this_object());
+	
+	if(objectp(me=query_temp("last_damage_from") ))     
+        if(owner=me->query("possessed")) {
+		me = owner;
+	} 
+    
+  if (me) {
+       	hate = query_hate_list();
+	    if (sizeof(hate))
+	    	ppl = keys(hate);
+	    CHANNEL_D->do_sys_channel("sys",sprintf("ppl is %O\n",ppl));	
+	    if (sizeof(ppl)) {	    
+       		ppl_present=filter_array(ppl,(:objectp($1) && userp($1) && environment($1)==environment():));
+	    }
+	    CHANNEL_D->do_sys_channel("sys",sprintf("ppl_present is %O\n",ppl_present));
+	    if (sizeof(ppl_present)) 
+	    for (i=0;i<sizeof(ppl_present);i++) 	
+	        REWARD_D->riddle_done(ppl_present[i], "Á¦Õ¶Ğ×Ä§", 100, 1);   
+	}
+    
+	if (me) 
+		CHANNEL_D->do_sys_channel("info",sprintf("%s£¬%sÓÚò¿ÓÈÃØ¿ß»÷É±ò¿ÓÈ¡£", NATURE_D->game_time(),me->query("name")) ); 
+	
+	seteuid(getuid());
+	
+	staff=new(__DIR__"obj/tigersoul");
+	staff->move(environment(this_object()));
+			
+	if (query("claw_set")==2) {
+		staff=new(__DIR__"obj/wolf-fist");
+		staff->move(environment(this_object()));
+	}
+	
+	destruct(this_object());
+}
+
+

@@ -1,0 +1,53 @@
+RW版的database
+提供8个efun，和/feature/dbase.c里面的一摸一样
+set query delete set_temp query_temp delete_temp
+addn addn_temp(这两个只能对int型操作)
+使用的时候一定要在当前物件里面声明了
+mapping database(对应set query delete addn四个efun)和
+mapping temp_database(对应set_temp等四个efun)
+
+我不太喜欢这种用法，这个database.c是为了提供效率而把lib fun写到driver里成为
+efun，不具有通用性，是为了面对RW的实际情况的特例(RW里面的mapping 很大)
+而且也破坏了efun的封装性，所以我改写了。
+
+注：mb 是mappingbase的意思，我不想抢了database这名字。
+
+mixed mb_set(string, mixed, void | string | mapping, void | object);
+混合 mb_set(字串, 混合, 无 或 字串 或 映射, 无 或 物件)
+
+具体形式有下列五种，
+mixed mb_set(string idx, mixed value)
+mixed mb_set(string idx, mixed value, object ob)
+mixed mb_set(string idx, mixed value, mapping base)
+mixed mb_set(string idx, mixed value, string base_name)
+mixed mb_set(string idx, mixed value, string base_name, object ob)
+
+mixed mb_set(string idx, mixed value, mapping base, object ob)是不支持的错误形式。
+
+
+功用是将物件ob中的变量名为base_name的映射中以idx为键的值设置为value
+若没有制定物件怎为当前物件，若没有制定映射的变量名称，则为 "dbase"
+可以直接指明映射 mapping base；当使用
+mixed mb_set(string idx, mixed value, string base_name)的形式时，一定可以使用
+mixed mb_set(string idx, mixed value, mapping base)，且后者的效率高于前者
+
+
+以下两个efun和上面的set情况类似
+
+mixed mb_query(string, void | string | mapping, void | object);
+
+mixed mb_query(string idx)
+mixed mb_query(string idx, object ob)
+mixed mb_query(string idx, mapping base)
+mixed mb_query(string idx, string base_name)
+mixed mb_query(string idx, string base_name, object ob)
+
+
+
+void mb_delete(string, void | string | mapping, void | object);
+
+void mb_delete(string idx)
+void mb_delete(string idx, object ob)
+void mb_delete(string idx, mapping base)
+void mb_delete(string idx, string base_name)
+void mb_delete(string idx, string base_name, object ob)

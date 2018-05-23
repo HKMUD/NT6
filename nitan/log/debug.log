@@ -1,0 +1,13 @@
+----------------------------------------------------------------------------
+Ð¦°Á½­ºþ (NTOS 2.24-Current-64bits-Epollc) starting up on Cygwin-32 - Wed Nov 12 17:57:37 2014
+
+
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 6666.
+Accepting connections on port 5555.
+******** FATAL ERROR: Process interrupted
+NTOS driver attempting to exit gracefully.
+crash() in master called successfully.  Aborting.

@@ -1,0 +1,13 @@
+subject : Ã÷Óñ¹¦(int30£¬ÎäĞŞ100£¬Å®ĞÔ)
+author_name : Ş±´ó´ô
+author_id : vivi
+time : 1206624311
+board : Ş±´ó´ôµÄÁôÑÔ°å
+file : /data/analecta/2008/13647554.txt
+add_time : 1211022901
+content :
+{´øÉÏfire,»ªÉ½ÉáÉíÑÂjump down,yun recover,
+ÓĞÂ·¾Í×ß£¬È»ºójump down,×ßµ½ÒÆ»¨¹¬ÎÔÊÒ;
+{#8 push bed left,#5 push bed right,down};
+use fire,zou,pick book,is ok}
+[2;37;0m
